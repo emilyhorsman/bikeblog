@@ -2,3 +2,6 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'bikes'
 theme = 'bike-theme'
+
+[imaging]
+  quality = 90

@@ -6,13 +6,28 @@ body {
   color: black;
   font-family: sans-serif;
   line-height: 1.5;
-  margin: 1rem;
   margin-bottom: 5rem;
-  max-width: 768px;
+  font-size: 16px;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+header, main {
+    width: 100%;
+    max-width: 600px;
 }
 
 header {
-  margin-bottom: 1rem;
+    border-bottom: 1px solid #222;
+    margin-bottom: 0.5rem;
+}
+
+header h1 {
+    font-size: 1rem;
+    color: #222;
 }
 
 a {
@@ -24,14 +39,37 @@ img, video {
     max-width: 100%;
 }
 
-h1 {
+h1, h2 {
     margin: 0;
+    font-weight: normal;
 }
 
-h1 a {
+h1 a, h2 a {
     color: black;
 }
 
-h1 a:hover, h1 a:active, h1 a:focus {
+h1 a:hover, h1 a:active, h1 a:focus,
+h2 a:hover, h2 a:active, h2 a:focus {
     text-decoration: underline;
+}
+
+main h1 {
+    font-size: 1.25rem;
+    margin: 0;
+    line-height: 1.1;
+}
+
+main time {
+    font-size: 0.9rem;
+    color: #444;
+}
+
+.heading {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
 }

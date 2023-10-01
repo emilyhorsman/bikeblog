@@ -1,0 +1,12 @@
+{{ $img := $.Page.Resources.GetMatch (.Get "src") }}
+{{ $img := $img.Process "webp" }}
+{{ $img_2x := $img.Resize "1200x" }}
+{{ $img_1_5x := $img.Resize "900x" }}
+{{ $img_1 := $img.Resize "600x" }}
+<a href="{{ $img.RelPermalink }}" target="_blank">
+    <img
+        src="{{ $img_2x.RelPermalink }}"
+        srcset="{{ $img_2x.RelPermalink }} 1200w, {{ $img_1_5x.RelPermalink }} 900w, {{ $img_1.RelPermalink }} 600w"
+        alt="{{ $.Get "alt" }}"
+    />
+</a>
