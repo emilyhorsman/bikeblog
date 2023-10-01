@@ -1,4 +1,6 @@
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
@@ -15,18 +17,19 @@ body {
   align-content: center;
 }
 
-header, main {
-    width: 100%;
+header,
+main {
+  width: 100%;
 }
 
 header {
-    border-bottom: 1px solid #222;
-    margin-bottom: 0.5rem;
+  border-bottom: 1px solid #222;
+  margin-bottom: 0.5rem;
 }
 
 header h1 {
-    font-size: 1rem;
-    color: #222;
+  font-size: 1rem;
+  color: #222;
 }
 
 a {
@@ -34,54 +37,61 @@ a {
   text-decoration: none;
 }
 
-img, video {
-    max-width: 100%;
-    height: auto;
+img,
+video {
+  max-width: 100%;
+  height: auto;
 }
 
-h1, h2 {
-    margin: 0;
-    font-weight: normal;
+h1,
+h2 {
+  margin: 0;
+  font-weight: normal;
 }
 
-h1 a, h2 a {
-    color: black;
+h1 a,
+h2 a {
+  color: black;
 }
 
-h1 a:hover, h1 a:active, h1 a:focus,
-h2 a:hover, h2 a:active, h2 a:focus {
-    text-decoration: underline;
+h1 a:hover,
+h1 a:active,
+h1 a:focus,
+h2 a:hover,
+h2 a:active,
+h2 a:focus {
+  text-decoration: underline;
 }
 
 main h1 {
-    font-size: 1.25rem;
-    margin: 0;
-    line-height: 1.1;
+  font-size: 1.25rem;
+  margin: 0;
+  line-height: 1.1;
 }
 
 main h2 {
-    font-size: 1.1rem;
+  font-size: 1.1rem;
 }
 
 main time {
-    font-size: 0.9rem;
-    color: #444;
+  font-size: 0.9rem;
+  color: #444;
 }
 
 .heading {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: baseline;
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .heading ~ .heading {
-    margin-top: 1rem;
+  margin-top: 1rem;
 }
 
 p {
-    margin: 0;
+  margin: 0;
 }
