@@ -1,15 +1,15 @@
 {{ $img := $.Page.Resources.GetMatch (.Get "src") }}
-{{ $img := $img.Process "webp" }}
-{{ $img_2x := $img.Resize (printf "%dx" (mul ($.Site.Param "width") 2)) }}
-{{ $img_1_5x := $img.Resize (printf "%dx" (int (mul ($.Site.Param "width") 1.5))) }}
-{{ $img_1 := $img.Resize (printf "%dx" ($.Site.Param "width")) }}
+{{ $base_width := mul ($.Site.Param "width") (default 1 (.Get "scale")) | int }}
+{{ $img_2x := $img.Resize (printf "%dx" (mul $base_width 2)) }}
+{{ $img_1_5x := $img.Resize (printf "%dx" (int (mul $base_width 1.5))) }}
+{{ $img_1 := $img.Resize (printf "%dx" $base_width) }}
 <a href="{{ $img.RelPermalink }}" class="image" target="_blank">
     <img
         loading="lazy"
         src="{{ $img_2x.RelPermalink }}"
         srcset="{{ $img_2x.RelPermalink }} {{ $img_2x.Width }}w, {{ $img_1_5x.RelPermalink }} {{ $img_1_5x.Width }}w, {{ $img_1.RelPermalink }} {{ $img_1.Width }}w"
         alt="{{ $.Get "alt" }}"
-        width="{{ $img.Width }}"
-        height="{{ $img.Height }}"
+        width="{{ $img_1.Width }}"
+        height="{{ $img_1.Height }}"
     />
 </a>
