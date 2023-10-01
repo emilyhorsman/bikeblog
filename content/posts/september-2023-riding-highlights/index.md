@@ -4,6 +4,10 @@ date = 2023-10-01T10:08:26-07:00
 draft = true
 +++
 
+I rode a new monthly record of 803 km and it was filled with pleasant rides with friends in and out of the city. The ebike helped a lot here and there were many bonus kilometers from picking up food takeout that I normally would've been too tired to do. We've sworn off delivery because we don't want to put more cars on the road and Uber et. al. are [killing restaurants](https://web.archive.org/web/20230930230743/https://www.sfgate.com/food/article/sf-little-star-pizza-challenges-food-delivery-apps-18142694.php) and cities.
+
+>
+
 ## Ravenswood Trail
 
 I had [this trail](https://www.fws.gov/refuge/don-edwards-san-francisco-bay/map?trail=ravenswood-trail) all to myself after work one day and it was amazing!
@@ -78,4 +82,48 @@ The wildfires up north gave us several days of poor air quality. One day we rode
 
 Market St vibes.
 
-{{< image src="R0005478.jpg" alt="Kat going down Market St" >}}
+{{< image src="R0005478.jpg" alt="Kat going down Market St" scale=0.75 >}}
+
+I'd love to know more about this area near Crane Cove Park.
+
+{{< image src="R0005536.jpg" alt="" scale=0.75 >}}
+
+Battery Caulfield descent out of the Presidio. This is my favourite way to get out of the Presidio when the traffic is light.
+
+{{< image src="R0005575-2.jpg" alt="" >}}
+
+There was a downed tree on the old growth oak forest network 😭
+
+{{< image src="R0005338.jpg" alt="A downed tree across the trail." >}}
+
+{{< image src="R0005342.jpg" alt="" scale=0.75 >}}
+
+Riding around the Presidio at night.
+
+{{< image src="R0005365.jpg" alt="Dim light in the Presidio" >}}
+
+My favourite day ride with Kat included a rare stop at Woods on Polk. Best bike in the city.
+
+{{< image src="R0005225.jpg" alt="" >}}
+
+Kat has been watching this family of ducks at Lake Metson grow up and it's one of my favourite things ever. I deeply regret not getting to come here and watch the ducks with my dear friend Hansel as it was one of their favourite spots.
+
+{{< video mp4="ducks.mp4" >}}
+
+## Hawk and Golden Gate Bridge
+
+I started the month with a lot of momentum and tested the ebike up Hawk Hill a few times.
+
+{{< image src="DSCF3551.jpg" alt="" >}}
+
+I had some really pleasant bridge crossings this month too!
+
+{{< image src="DSCF3555.jpg" alt="" >}}
+
+I don't normally stop on the bridge due to the wind/chaos but this time I had it nearly to myself and the wind was gentle.
+
+{{< image src="DSCF3568.jpg" alt="" >}}
+
+Typical view.
+
+{{< image src="DSCF3349.jpg" alt="" >}}

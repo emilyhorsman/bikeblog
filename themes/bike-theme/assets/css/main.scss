@@ -98,19 +98,19 @@ main {
 
   li .image {
     margin-top: 1rem;
-    text-align: center;
   }
 }
 
 a.image {
   display: block;
   font-size: 0;
+  text-align: center;
 }
 
 header {
   line-height: 1;
   margin-bottom: 0.5rem;
-  
+
   a {
     font-size: 0.9rem;
   
