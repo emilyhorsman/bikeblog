@@ -1,0 +1,3 @@
+header, main {
+    max-width: {{ .Param "width" }}px;
+}

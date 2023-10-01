@@ -4,8 +4,6 @@ date = 2023-09-29T17:41:30-07:00
 draft = true
 +++
 
-{{< image src="DSCF3928.jpg" alt="Crankbrothers Stamp 7 purple pedal" >}}
-
 I noticed some play in my pedals the other day! I can’t feel anything while riding but you can grab the pedal with your hands and rock the pedal body back and forth around the spindle. They also felt dry to me so I took them apart, cleaned, and re-greased them. That solved some of the problem but there’s still some play because the bearings are worn.
 
 {{< video webm="stamp_play.webm" mp4="stamp_play.mp4" >}}
@@ -15,3 +13,5 @@ These Crankbrothers Stamp 7 pedals have [plastic igus bearings](https://web.arch
 {{< image src="overhaul.png" alt="Exploded view of the Stamp 7 pedal" >}}
 
 Also shout out to Crankbrothers for making it so easy to find documentation on their service intervals and instructions! Here’s a cool excerpt from their [service manual](https://crankbrothers.zendesk.com/hc/en-us/articles/115004284194-Stamp-Technical-Documents) showing the exploded view of this pedal. I might throw the pedal bodies in the ultrasonic cleaner when I do go to overhaul them.
+
+{{< image src="DSCF3928.jpg" alt="Crankbrothers Stamp 7 purple pedal" >}}

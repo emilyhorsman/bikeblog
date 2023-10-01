@@ -3,5 +3,8 @@ languageCode = 'en-us'
 title = 'bikes'
 theme = 'bike-theme'
 
+[params]
+  width = 768
+
 [imaging]
   quality = 90

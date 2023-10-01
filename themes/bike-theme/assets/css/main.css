@@ -17,7 +17,6 @@ body {
 
 header, main {
     width: 100%;
-    max-width: 600px;
 }
 
 header {
@@ -37,6 +36,7 @@ a {
 
 img, video {
     max-width: 100%;
+    height: auto;
 }
 
 h1, h2 {
@@ -59,6 +59,10 @@ main h1 {
     line-height: 1.1;
 }
 
+main h2 {
+    font-size: 1.1rem;
+}
+
 main time {
     font-size: 0.9rem;
     color: #444;
@@ -72,4 +76,12 @@ main time {
     align-items: baseline;
     margin-top: 0.25rem;
     margin-bottom: 0.25rem;
+}
+
+.heading ~ .heading {
+    margin-top: 1rem;
+}
+
+p {
+    margin: 0;
 }
