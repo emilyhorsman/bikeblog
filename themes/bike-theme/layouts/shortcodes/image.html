@@ -3,7 +3,7 @@
 {{ $img_2x := $img.Resize (printf "%dx" (mul ($.Site.Param "width") 2)) }}
 {{ $img_1_5x := $img.Resize (printf "%dx" (int (mul ($.Site.Param "width") 1.5))) }}
 {{ $img_1 := $img.Resize (printf "%dx" ($.Site.Param "width")) }}
-<a href="{{ $img.RelPermalink }}" target="_blank">
+<a href="{{ $img.RelPermalink }}" class="image" target="_blank">
     <img
         loading="lazy"
         src="{{ $img_2x.RelPermalink }}"

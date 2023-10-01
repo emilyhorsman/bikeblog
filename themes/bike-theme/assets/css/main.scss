@@ -1,0 +1,99 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  color: black;
+  font-family: "expo-serif-pro", serif;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 5rem;
+  font-size: 18px;
+
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+main {
+  width: 100%;
+}
+
+a {
+  color: #00e;
+  text-decoration: none;
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2 {
+  a {
+    color: black;
+
+    &:hover, &:focus, &:active {
+      text-decoration: underline;
+    }
+  }
+}
+
+.heading {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.heading ~ .heading {
+  position: relative;
+  margin-top: 3rem;
+
+  &::before {
+    content: '🚲';
+    display: block;
+    position: absolute;
+    top: -2rem;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+}
+
+main time {
+  color: #444;
+}
+
+p {
+  line-height: 1.6;
+}
+
+main {
+  h1 {
+    font-size: 1.6rem;
+    margin: 0;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+    margin: 1rem 0;
+  }
+
+  p {
+    margin: 1rem 0;
+  }
+}
+
+a.image {
+  display: block;
+  font-size: 0;
+}
