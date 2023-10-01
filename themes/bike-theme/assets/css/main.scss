@@ -73,7 +73,7 @@ main time {
   color: #444;
 }
 
-p {
+p, ul, ol {
   line-height: 1.6;
 }
 
@@ -95,6 +95,11 @@ main {
   .image + .image {
     margin-top: 1rem;
   }
+
+  li .image {
+    margin-top: 1rem;
+    text-align: center;
+  }
 }
 
 a.image {
@@ -102,10 +107,19 @@ a.image {
   font-size: 0;
 }
 
-a.header {
-  font-size: 0.9rem;
+header {
+  line-height: 1;
+  margin-bottom: 0.5rem;
+  
+  a {
+    font-size: 0.9rem;
+  
+    &:hover, &:focus, &:active {
+      text-decoration: underline;
+    }
+  }
 
-  &:hover, &:focus, &:active {
-    text-decoration: underline;
+  a + a {
+    margin-left: 0.5rem;
   }
 }

@@ -1,7 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://bikes.emilyhorsman.com/'
 languageCode = 'en-us'
-title = 'bikes'
+title = 'emily horsman bikes'
 theme = 'bike-theme'
+timeout = '60s'
 
 [params]
   width = 768
