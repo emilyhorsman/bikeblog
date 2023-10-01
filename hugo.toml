@@ -8,3 +8,5 @@ theme = 'bike-theme'
 
 [imaging]
   quality = 90
+  hint = 'photo'
+  resampleFilter = 'MitchellNetravali'

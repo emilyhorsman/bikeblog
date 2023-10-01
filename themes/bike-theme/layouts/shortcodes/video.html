@@ -1,8 +1,8 @@
-<video controls muted playsinline>
+<video controls muted playsinline loop>
     {{ with $.Page.Resources.GetMatch (.Get "webm") }}
-    <source src="{{ .RelPermalink }}" type="video/webm" />
+    <source src="{{ .RelPermalink }}#t=0.001" type="video/webm" />
     {{ end }}
     {{ with $.Page.Resources.GetMatch (.Get "mp4") }}
-    <source src="{{ .RelPermalink }}" type="video/mp4" />
+    <source src="{{ .RelPermalink }}#t=0.001" type="video/mp4" />
     {{ end }}
 </video>

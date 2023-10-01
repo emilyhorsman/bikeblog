@@ -12,6 +12,8 @@ There's not really any parking (great!) but that probably means that hunters bri
 
 {{< image src="DSCF3860.jpg" alt="A flock of pelicans in the sky close to golden hour" >}}
 
+{{< image src="DSCF3853.jpg" alt="Beautiful patterns where the bay meets the sand" >}}
+
 ## Alameda Creek Trail
 
 They have hundreds of goats on the trail!! They're used strategically for [resource management](https://www.ebparks.org/natural-resources/grazing).

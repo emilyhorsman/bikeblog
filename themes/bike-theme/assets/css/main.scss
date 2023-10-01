@@ -91,9 +91,21 @@ main {
   p {
     margin: 1rem 0;
   }
+
+  .image + .image {
+    margin-top: 1rem;
+  }
 }
 
 a.image {
   display: block;
   font-size: 0;
+}
+
+a.header {
+  font-size: 0.9rem;
+
+  &:hover, &:focus, &:active {
+    text-decoration: underline;
+  }
 }
