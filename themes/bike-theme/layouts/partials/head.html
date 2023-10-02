@@ -1,6 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width">
-<meta name="description" content="Short fun things about bikes">
+<meta name="description" content="{{ site.Title }}">
 <link rel="stylesheet" href="https://use.typekit.net/oyj1xes.css">
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}</title>
 {{ partialCached "head/css.html" . }}
