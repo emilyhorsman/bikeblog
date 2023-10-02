@@ -126,7 +126,7 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: baseline;
+  align-items: center;
   width: 100%;
 
   a {
@@ -143,6 +143,10 @@ header {
   }
 
   div:first-child a {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
   }
+}
+
+.image img {
+  background: linear-gradient(to right, #eff1f3 4%, #e2e2e2 25%, #eff1f3 36%);
 }
