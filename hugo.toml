@@ -2,7 +2,7 @@ baseURL = 'https://bikes.emilyhorsman.com/'
 languageCode = 'en-us'
 title = 'emily horsman bikes'
 theme = 'bike-theme'
-timeout = '60s'
+timeout = '120s'
 
 [params]
   width = 768
