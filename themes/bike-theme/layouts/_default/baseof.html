@@ -11,10 +11,13 @@
   </head>
   <body>
     <header>
-      <a href="{{ $.Site.Home.RelPermalink }}">Home</a>
-      <a href="/about/">About</a>
-      <a href="/posts/">Archive</a>
-      <a href="mailto:me+bikes@emilyhorsman.com">Reply</a>
+      <div>
+        <a href="{{ $.Site.Home.RelPermalink }}">{{ $.Site.Title }}</a>
+      </div>
+      <div>
+        <a href="/about/">About</a>
+        <a href="/posts/">Archive</a>
+      </div>
     </header>
     <main>{{ block "main" . }}{{ end }}</main>
   </body>

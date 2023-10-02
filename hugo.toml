@@ -1,6 +1,6 @@
 baseURL = 'https://bikes.emilyhorsman.com/'
 languageCode = 'en-us'
-title = 'emily horsman bikes'
+title = "emily’s bike stuff"
 theme = 'bike-theme'
 timeout = '120s'
 
