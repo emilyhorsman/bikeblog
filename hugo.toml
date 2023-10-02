@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = "emily’s bike stuff"
 theme = 'bike-theme'
 timeout = '120s'
+enableRobotsTXT = true
 
 [params]
   width = 768
