@@ -1,6 +1,12 @@
-<video controls muted playsinline loop
+<video controls playsinline
     {{ with .Get "poster" | $.Page.Resources.GetMatch }}
     poster="{{ .RelPermalink }}"
+    {{ end }}
+    {{ with .Get "muted" }}
+    muted
+    {{ end }}
+    {{ with .Get "loop" }}
+    loop
     {{ end }}
     >
     {{ with $.Page.Resources.GetMatch (.Get "webm") }}
