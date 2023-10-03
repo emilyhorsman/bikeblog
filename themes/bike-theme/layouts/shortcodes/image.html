@@ -1,17 +1,36 @@
 {{ $img := $.Page.Resources.GetMatch (.Get "src") }}
 {{ $base_width := mul ($.Site.Param "width") (default 1 (.Get "scale")) | int }}
-{{ $img_2x := $img.Resize (printf "%dx" (mul $base_width 2)) }}
-{{ $img_1_5x := $img.Resize (printf "%dx" (int (mul $base_width 1.5))) }}
-{{ $img_1 := $img.Resize (printf "%dx" $base_width) }}
 <a href="{{ $img.RelPermalink }}" class="image" target="_blank">
     <img
         {{ if not (default false (.Get "nolazy")) }}
             loading="lazy"
         {{ end }}
-        src="{{ $img_2x.RelPermalink }}"
-        srcset="{{ $img_2x.RelPermalink }} {{ $img_2x.Width }}w, {{ $img_1_5x.RelPermalink }} {{ $img_1_5x.Width }}w, {{ $img_1.RelPermalink }} {{ $img_1.Width }}w"
         alt="{{ $.Get "alt" }}"
-        width="{{ $img_1.Width }}"
-        height="{{ $img_1.Height }}"
+        {{/* This is so fucking bad */}}
+        srcset="
+        {{ with $.Page.Resources.GetMatch (replace (.Get "src") ".webp" "_2x.webp") }}
+            {{ .RelPermalink }} {{ .Width }}w
+        {{ else }}
+            {{ $img_2x := $img.Resize (printf "%dx" (mul $base_width 2)) }}
+            {{ $img_2x.RelPermalink }} {{ $img_2x.Width }}w
+        {{ end }},
+        {{ with $.Page.Resources.GetMatch (replace (.Get "src") ".webp" "_15x.webp") }}
+            {{ .RelPermalink }} {{ .Width }}w
+        {{ else }}
+            {{ $img_1_5x := $img.Resize (printf "%dx" (int (mul $base_width 1.5))) }}
+            {{ $img_1_5x.RelPermalink }} {{ $img_1_5x.Width }}w
+        {{ end }},
+        {{ with $.Page.Resources.GetMatch (replace (.Get "src") ".webp" "_1x.webp") }}
+            {{ .RelPermalink }} {{ .Width }}w"
+            src="{{ .RelPermalink }}"
+            width="{{ .Width }}"
+            height="{{ .Height }}"
+        {{ else }}
+            {{ $img_1 := $img.Resize (printf "%dx" $base_width) }}
+            {{ $img_1.RelPermalink }} {{ $img_1.Width }}"
+            src="{{ $img_1.RelPermalink }}"
+            width="{{ $img_1.Width }}"
+            height="{{ $img_1.Height }}"
+        {{ end }}
     />
 </a>

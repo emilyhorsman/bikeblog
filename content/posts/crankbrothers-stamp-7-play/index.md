@@ -13,4 +13,4 @@ These Crankbrothers Stamp 7 pedals have [plastic igus bearings](https://web.arch
 
 Also shout out to Crankbrothers for making it so easy to find documentation on their service intervals and instructions! Here’s a cool excerpt from their [service manual](https://crankbrothers.zendesk.com/hc/en-us/articles/115004284194-Stamp-Technical-Documents) showing the exploded view of this pedal. I might throw the pedal bodies in the ultrasonic cleaner when I go to overhaul them.
 
-{{< image src="DSCF3928.jpg" alt="Crankbrothers Stamp 7 purple pedal" >}}
+{{< image src="DSCF3928.webp" alt="Crankbrothers Stamp 7 purple pedal" >}}
