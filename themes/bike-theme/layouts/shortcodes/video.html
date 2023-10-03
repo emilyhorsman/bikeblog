@@ -1,8 +1,12 @@
-<video controls muted playsinline loop>
+<video controls muted playsinline loop
+    {{ with .Get "poster" | $.Page.Resources.GetMatch }}
+    poster="{{ .RelPermalink }}"
+    {{ end }}
+    >
     {{ with $.Page.Resources.GetMatch (.Get "webm") }}
-    <source src="{{ .RelPermalink }}#t=0.001" type="video/webm" />
+    <source src="{{ .RelPermalink }}" type="video/webm" />
     {{ end }}
     {{ with $.Page.Resources.GetMatch (.Get "mp4") }}
-    <source src="{{ .RelPermalink }}#t=0.001" type="video/mp4" />
+    <source src="{{ .RelPermalink }}" type="video/mp4" />
     {{ end }}
 </video>

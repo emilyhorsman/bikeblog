@@ -5,7 +5,7 @@ date = 2023-09-29T17:41:30-07:00
 
 I noticed some play in my pedals the other day! I can’t feel anything while riding but you can grab the pedal with your hands and rock the pedal body back and forth around the spindle. They also felt dry to me so I took them apart, cleaned, and re-greased them. That solved some of the problem but there’s still some play because the bearings are worn.
 
-{{< video webm="stamp_play.webm" mp4="stamp_play.mp4" >}}
+{{< video webm="stamp_play.webm" mp4="stamp_play.mp4" poster="stamp_play.jpg" >}}
 
 These Crankbrothers Stamp 7 pedals have [plastic igus bearings](https://web.archive.org/web/20230929223318/https://www.igus.eu/info/plain-bearings-crank-mountain-bike-pedal) in them instead of steel ball bearings. Eventually they wear down as your pedal rotates hundreds of thousands of times. Crankbrothers recommend replacing them with their [refresh kit](https://www.crankbrothers.com/collections/pedal-accessories/products/pedal-refresh-kit-stamp-7-11) every 150-200 hours of riding. I’ve definitely exceeded that and these pedals have nearly 5000 km on them across two bikes.
 

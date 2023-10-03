@@ -107,7 +107,7 @@ My favourite day ride with Kat included a rare stop at Woods on Polk. Best bike 
 
 Kat has been watching this family of ducks at Lake Metson grow up and it's one of my favourite things ever. I deeply regret not getting to come here and watch the ducks with my dear friend Hansel as it was one of their favourite spots.
 
-{{< video mp4="ducks.mp4" >}}
+{{< video mp4="ducks.mp4" webm="ducks.webm" poster="ducks.jpg" >}}
 
 ## Hawk and Golden Gate Bridge
 
