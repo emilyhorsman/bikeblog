@@ -1,3 +1,7 @@
+:root {
+  color-scheme: light dark;
+}
+
 *,
 *::before,
 *::after {
@@ -40,7 +44,7 @@ video {
 h1,
 h2 {
   a {
-    color: black;
+    color: currentColor;
 
     &:hover, &:focus, &:active {
       text-decoration: underline;
@@ -149,4 +153,23 @@ header {
 
 .image img {
   background: #e2e2e2;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1e1e1e;
+    color: white;
+  }
+
+  main time {
+    color: #e2e2e2;
+  }
+
+  a {
+    color: #DC9EEF;
+
+    &:hover, &:active {
+      color: #e2e2e2;
+    }
+  }
 }
