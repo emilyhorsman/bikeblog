@@ -5,7 +5,9 @@
 {{ $img_1 := $img.Resize (printf "%dx" $base_width) }}
 <a href="{{ $img.RelPermalink }}" class="image" target="_blank">
     <img
-        loading="lazy"
+        {{ if not (default false (.Get "nolazy")) }}
+            loading="lazy"
+        {{ end }}
         src="{{ $img_2x.RelPermalink }}"
         srcset="{{ $img_2x.RelPermalink }} {{ $img_2x.Width }}w, {{ $img_1_5x.RelPermalink }} {{ $img_1_5x.Width }}w, {{ $img_1.RelPermalink }} {{ $img_1.Width }}w"
         alt="{{ $.Get "alt" }}"
