@@ -1,9 +1,9 @@
 {{- with resources.Get "css/main.scss" | toCSS }}
   {{- if eq hugo.Environment "development" }}
-    <link rel="stylesheet" href="{{ .RelPermalink }}">
+    <style type="text/css">{{ .Content | safeCSS }}</style>
   {{- else }}
     {{- with . | minify | fingerprint }}
-      <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+    <style type="text/css">{{ .Content | safeCSS }}</style>
     {{- end }}
   {{- end }}
 {{- end }}
