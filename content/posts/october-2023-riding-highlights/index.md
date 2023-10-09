@@ -17,3 +17,7 @@ The _heliotropium_ smelled so nice in Strawberry Hill.
 One of Kat's favourite trails in Golden Gate Park is part of the [old 7-line streetcar right-of-way](http://opensfhistory.org/Display/wnp14.13402.jpg). You can still bike through this [same tunnel as pictured in 1947](http://opensfhistory.org/Display/wnp14.13321.jpg). The sand has been too deep to bike up the hill from MLK to the trail for the whole summer and we're still not quite there yet. Sometimes you gotta walk the rest!
 
 {{< image src="R0006290.webp" alt="The rear of a bike in front of a track of sand" >}}
+
+## Bike Party
+
+We had several dozen riders on the Golden Gate Bridge and security wouldn't open the north gate for us so we all had to turn around mid-bridge. Apparently they told the front of the group it was commuters only. Marin 🙄. A smaller group of us went back later and then caught up with the group at Dolores Park and it was great!
