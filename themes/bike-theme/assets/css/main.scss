@@ -1,3 +1,13 @@
+$light-fg-color: black;
+$light-fg-accent: #444;
+$light-a-color: #911db5;
+$light-a-color-active: $light-fg-accent;
+$dark-bg-color: #1e1e1e;
+$dark-fg-color: white;
+$dark-fg-accent: #e2e2e2;
+$dark-a-color: #dc9eef;
+$dark-a-color-active: $dark-fg-accent;
+
 :root {
   color-scheme: light dark;
 }
@@ -9,7 +19,7 @@
 }
 
 body {
-  color: black;
+  color: $light-fg-color;
   font-family: Georgia, serif;
   margin-left: 1.5rem;
   margin-right: 1.5rem;
@@ -28,11 +38,11 @@ main {
 }
 
 a {
-  color: #911db5;
+  color: $light-a-color;
 
   &:hover,
   &:active {
-    color: #444;
+    color: $light-a-color-active;
   }
 }
 
@@ -85,7 +95,7 @@ h2 {
 }
 
 main time {
-  color: #444;
+  color: $light-fg-accent;
 }
 
 p,
@@ -171,11 +181,11 @@ header {
 }
 
 .previous-post-notice {
-  color: black;
+  color: currentColor;
   text-decoration: none;
   margin-top: 1rem;
   padding-left: 1rem;
-  border-left: 5px solid #911db5;
+  border-left: 5px solid $light-a-color;
 
   span {
     text-decoration: underline;
@@ -184,20 +194,24 @@ header {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #1e1e1e;
-    color: white;
+    background-color: $dark-bg-color;
+    color: $dark-fg-color;
   }
 
   main time {
-    color: #e2e2e2;
+    color: $dark-fg-accent;
   }
 
   a {
-    color: #dc9eef;
+    color: $dark-a-color;
 
     &:hover,
     &:active {
-      color: #e2e2e2;
+      color: $dark-a-color-active;
     }
+  }
+
+  .previous-post-notice {
+    border-left-color: $dark-a-color;
   }
 }
