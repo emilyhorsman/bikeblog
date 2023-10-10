@@ -192,6 +192,12 @@ header {
   }
 }
 
+blockquote {
+  margin-left: 2em;
+  padding-left: 1em;
+  border-left: 5px solid #666;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: $dark-bg-color;
@@ -213,5 +219,9 @@ header {
 
   .previous-post-notice {
     border-left-color: $dark-a-color;
+  }
+
+  blockquote {
+    border-left-color: #bbb;
   }
 }
