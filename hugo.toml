@@ -5,6 +5,9 @@ theme = 'bike-theme'
 timeout = '240s'
 enableRobotsTXT = true
 
+[taxonomies]
+  series = 'series'
+
 [params]
   width = 768
 

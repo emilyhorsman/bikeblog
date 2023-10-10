@@ -28,9 +28,10 @@ main {
 }
 
 a {
-  color: #911DB5;
+  color: #911db5;
 
-  &:hover, &:active {
+  &:hover,
+  &:active {
     color: #444;
   }
 }
@@ -46,7 +47,9 @@ h2 {
   a {
     color: currentColor;
 
-    &:hover, &:focus, &:active {
+    &:hover,
+    &:focus,
+    &:active {
       text-decoration: underline;
     }
   }
@@ -71,7 +74,7 @@ h2 {
   margin-top: 3rem;
 
   &::before {
-    content: '🚲';
+    content: "🚲";
     display: block;
     position: absolute;
     top: -2rem;
@@ -85,7 +88,9 @@ main time {
   color: #444;
 }
 
-p, ul, ol {
+p,
+ul,
+ol {
   line-height: 1.6;
 }
 
@@ -137,7 +142,9 @@ header {
     font-size: 0.9rem;
     text-decoration: none;
 
-    &:hover, &:focus, &:active {
+    &:hover,
+    &:focus,
+    &:active {
       text-decoration: underline;
     }
   }
@@ -155,6 +162,26 @@ header {
   background: #e2e2e2;
 }
 
+.series-list {
+  margin-top: 1rem;
+
+  ol {
+    margin-top: 0.5rem;
+  }
+}
+
+.previous-post-notice {
+  color: black;
+  text-decoration: none;
+  margin-top: 1rem;
+  padding-left: 1rem;
+  border-left: 5px solid #911db5;
+
+  span {
+    text-decoration: underline;
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #1e1e1e;
@@ -166,9 +193,10 @@ header {
   }
 
   a {
-    color: #DC9EEF;
+    color: #dc9eef;
 
-    &:hover, &:active {
+    &:hover,
+    &:active {
       color: #e2e2e2;
     }
   }

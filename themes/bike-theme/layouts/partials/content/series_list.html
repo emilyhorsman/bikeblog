@@ -1,0 +1,15 @@
+{{ with where .Site.RegularPages.ByDate ".Params.series" "intersect" .Params.series }}
+<section class="series-list">
+  <span>This post is part of a series.</span>
+  <ol>
+    {{ range . }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ if eq .File.UniqueID $.File.UniqueID }}
+      ✨ You are here ✨
+      {{ end }}
+    </li>
+    {{ end }}
+  </ol>
+</section>
+{{ end }}

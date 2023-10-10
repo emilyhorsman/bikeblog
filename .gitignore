@@ -1,5 +1,6 @@
 todo
 .DS_Store
+.vscode
 
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
