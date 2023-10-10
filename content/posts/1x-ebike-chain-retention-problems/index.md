@@ -11,7 +11,7 @@ I was lubing the chain on my e-bike and noticed the chain guard was loose. This 
 
 Tightening them all solved my problems but it was a good reminder that I still have the problem of inboard chain retention. Having the chain fall off inboard on this e-bike is a bigger problem than on a normal bike because it gets quite stuck between the drive unit cover and the ring. This happened to me on the trail the other day and I needed to work with someone else to pry the chain out. This chain is approaching the end of its life (around 0.5% wear) and I was in my easiest gear when it happened (and thus the chain is at its most extreme angle) — these are both factors that make this more likely. Nonetheless, I'd like to avoid this situation ever happening again.
 
-I have long-term plans to upgrade the drivetrain on this bike — perhaps to Shimano CUES — which would include a rear derailleur with a clutch. That might help but I was going to go through a few chains on this drivetrain first (I think the rear derailleur has been bent the entire time I've had this bike and so if I can get this cassette to the end of its life then all will need replacing anyway). I'd also prefer something that offers more of a guarantee.
+I have long-term plans to upgrade the drivetrain on this bike — perhaps to Shimano CUES — which would include a rear derailleur with a clutch. A clutch makes it harder for the tension pulley of the rear derailleur cage to pivot forwards and thus lose tension on the chain. This makes it harder to for the chain to slap against the chainstay and reduces the chain bouncing around in general. This is my best guess of how my chain fell off the other day. This might help in the future but I was going to go through a few chains on this drivetrain first (I think the rear derailleur has been bent the entire time I've had this bike and so if I can get this cassette to the end of its life then all will need replacing anyway). I'd also prefer something that offers more of a guarantee.
 
 This crankset is sold in configurations with an inner chain guard too — see this [cool exploded view](https://si.shimano.com/en/ev/FC-E6100-4439). I could get that part from Shimano and it might fit and that would certainly solve my issue. However, I worry about how fragile and finnicky these plastic chain guards are and I low-key hate Philips screws on my bike.
 
@@ -31,7 +31,7 @@ Then there are chain cases which mount directly to the drive unit like Shimano's
 
 You can see the threads for a chain case in this photo (and some scraped paint from the chain pryed out).
 
-{{< image src="DSCF4539.webp" alt="The front of a 1x crankset with the chain case fixing mounts visible" >}}
+{{< image src="DSCF4552.webp" alt="The front of a 1x crankset with the chain case fixing mounts visible" >}}
 
 A classic trick is to use an old front derailleur as a chain keeper — you set the limit screws to keep the cage over the chain just like a chain keeper and then you skip the shift cable. I think there may be similar clearance issues but if I have time I might experiment with this approach to at least have a temporary solution.
 
