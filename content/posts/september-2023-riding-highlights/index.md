@@ -5,8 +5,6 @@ date = 2023-10-02T00:08:26-07:00
 
 I rode a new monthly record of 803 km and it was filled with pleasant rides with friends in and out of the city. The ebike helped a lot here and there were many bonus kilometers from picking up food takeout that I normally would've been too tired to do. We've sworn off delivery because we don't want to put more cars on the road and Uber, DoorDash, et. al. are [killing restaurants](https://web.archive.org/web/20230930230743/https://www.sfgate.com/food/article/sf-little-star-pizza-challenges-food-delivery-apps-18142694.php) and cities.
 
->
-
 ## Ravenswood Trail
 
 I had [this trail](https://www.fws.gov/refuge/don-edwards-san-francisco-bay/map?trail=ravenswood-trail) all to myself after work one day and it was amazing!
