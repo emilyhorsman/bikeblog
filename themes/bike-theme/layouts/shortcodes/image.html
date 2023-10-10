@@ -1,5 +1,6 @@
 {{ $img := $.Page.Resources.GetMatch (.Get "src") }}
 {{ $base_width := mul ($.Site.Param "width") (default 1 (.Get "scale")) | int }}
+<div class="image-container">
 <a href="{{ $img.RelPermalink }}" class="image" target="_blank">
     <img
         {{ if not (default false (.Get "nolazy")) }}
@@ -34,3 +35,7 @@
         {{ end }}
     />
 </a>
+{{ with .Get "credit" }}
+<span>Image Credit: {{ . }}</span>
+{{ end }}
+</div>
