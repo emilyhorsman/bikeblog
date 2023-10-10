@@ -37,4 +37,6 @@ You can see the threads for a chain case in this photo (and some scraped paint f
 
 A classic trick is to use an old front derailleur as a chain keeper — you set the limit screws to keep the cage over the chain just like a chain keeper and then skip the shift cable. I think there may be similar clearance issues but if I have time I might experiment with this approach to at least have a temporary solution. I may even just try to thread something around the shop into the chain case mount to make sure the chain can't fall too far down and get stuck.
 
-Post coming on whatever I end up with 😅
+Anyway here's Gus rewarding you for reading my fabulous deep dive.
+
+{{< image src="DSCF4545.webp" alt="A buff colored cat lying down near a bike" >}}
