@@ -28,6 +28,8 @@ The outer bearing looks strange — just a [weird self-lubricating polymer](http
 
 > Millions of the solid lubricants are embedded in tiny chambers in the solid, usually fibre-reinforced material. From these chambers, the material releases infinitesimal amounts of solid lubricants during movement. This is sufficient to satisfactorily lubricate the immediate surrounding area.
 
+(I can't believe I'm quoting marketing material but it's so cool. Maybe it's all bullshit, who knows.)
+
 {{< image src="DSCF4564.webp" alt="Dark grey plain igus bearing" >}}
 
 The inner bearing halves have small lips which seat into the bearing retainer. Then the inner bearing o-ring goes over the whole assembly and the outer bearing is placed on top of the spindle. Here it is ready to get greased up and inserted into the pedal (remembering the final o-ring).
