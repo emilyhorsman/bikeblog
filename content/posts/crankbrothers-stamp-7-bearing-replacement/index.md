@@ -43,3 +43,5 @@ Everything screwed back into the pedal body!
 And back in its home. Feels like new again! Strava puts this bike at 1840.3 km so we'll see how many km I get out of these new bearings.
 
 {{< image src="DSCF4579.webp" alt="Serviced pedal installed back in the crank of an e-bike" >}}
+
+Update: I went to do the same on the left pedal and the never-before-used Philips bolt on the grease port is seized. I find that once a bolt is seized you can't use enough torque to free it before stripping a Philips head. Awful things. Follow-up post when I get it out with a bolt extractor.
