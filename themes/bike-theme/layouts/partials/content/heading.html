@@ -6,16 +6,18 @@
   {{ $dateHuman := .Date | time.Format ":date_long" }}
   <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
   {{ end }}
+</div>
 
-  {{ $posts_in_series := where .Site.RegularPages.ByDate ".Params.series" "intersect" .Params.series }}
-  {{ range (seq (len $posts_in_series)) }}
-    {{ $post := index $posts_in_series . }}
-    {{ if eq $post.File.UniqueID $.File.UniqueID }}
-      {{ with index $posts_in_series (add . -1) }}
-      <a href="{{ .RelPermalink}}" class="previous-post-notice">
+{{ $posts_in_series := where .Site.RegularPages.ByDate ".Params.series" "intersect" .Params.series }}
+{{ range (seq (len $posts_in_series)) }}
+  {{ $post := index $posts_in_series . }}
+  {{ if eq $post.File.UniqueID $.File.UniqueID }}
+    {{ with index $posts_in_series (add . -1) }}
+    <div class="previous-post-notice">
+      <a href="{{ .RelPermalink}}"></a>
         Previously: <span>{{ .Title }}</span>
       </a>
-      {{ end }}
+    </div>
     {{ end }}
   {{ end }}
-</div>
+{{ end }}

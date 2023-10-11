@@ -181,11 +181,14 @@ header {
 }
 
 .previous-post-notice {
-  color: currentColor;
-  text-decoration: none;
   margin-top: 1rem;
-  padding-left: 1rem;
-  border-left: 5px solid $light-a-color;
+
+  a {
+    color: currentColor;
+    text-decoration: none;
+    padding-left: 1rem;
+    border-left: 3px solid $light-a-color;
+  }
 
   span {
     text-decoration: underline;
