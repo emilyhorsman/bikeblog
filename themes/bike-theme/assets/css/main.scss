@@ -181,7 +181,7 @@ header {
 }
 
 .previous-post-notice {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 
   a {
     color: currentColor;
@@ -220,7 +220,7 @@ blockquote {
     }
   }
 
-  .previous-post-notice {
+  .previous-post-notice a {
     border-left-color: $dark-a-color;
   }
 
