@@ -8,17 +8,4 @@
   {{ end }}
 </div>
 
-{{ $posts_in_series := where .Site.RegularPages.ByDate ".Params.series" "intersect" .Params.series }}
-{{ range (seq (len $posts_in_series)) }}
-  {{ $post := index $posts_in_series . }}
-  {{ if eq $post.File.UniqueID $.File.UniqueID }}
-    {{ with index $posts_in_series (add . -1) }}
-    <div class="previous-post-notice">
-      <a href="{{ .RelPermalink}}">
-        <span>◄</span>
-        Previously: <span class="previous-post-notice-underline">{{ .Title }}</span>
-      </a>
-    </div>
-    {{ end }}
-  {{ end }}
-{{ end }}
+{{ partial "content/series_list.html" . }}

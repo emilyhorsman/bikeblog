@@ -180,23 +180,6 @@ header {
   }
 }
 
-.previous-post-notice {
-  margin-top: 0.5rem;
-
-  a {
-    color: currentColor;
-    text-decoration: none;
-
-    span.previous-post-notice-underline {
-      text-decoration: underline;
-    }
-  }
-
-  span:first-child {
-    color: $light-a-color;
-  }
-}
-
 blockquote {
   margin-left: 2em;
   padding-left: 1em;
@@ -227,10 +210,6 @@ blockquote {
     &:active {
       color: $dark-a-color-active;
     }
-  }
-
-  .previous-post-notice span:first-child {
-    color: $dark-a-color;
   }
 
   blockquote {
