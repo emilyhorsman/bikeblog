@@ -3,9 +3,9 @@ title = '1x Chain Retention Problems'
 date = 2023-10-11T09:18:00-07:00
 +++
 
-It's easy for a chain to fall off. Your front and rear derailleurs are responsible for more than just shifting — they also ensure the chain doesn't fall off. Bikes with only a single chainring usually include some chain retention component to compensate for the lack of front derailleur. My e-bike has a 1x crankset (an [FC-E6100](https://bike.shimano.com/en-US/product/component/city---trekking-e-bike-e6100-series/FC-E6100.html)) with an outboard chain guard. This stops the chain from falling off the ring away from the bike.
+Front and rear derailleurs are responsible for more than just shifting — they also ensure the chain doesn't fall off. Bikes with only a single chainring usually include some chain retention component to compensate for the lack of front derailleur. My e-bike has a crankset with an outboard chain guard ([FC-E6100](https://bike.shimano.com/en-US/product/component/city---trekking-e-bike-e6100-series/FC-E6100.html)). This stops the chain from falling off the ring away from the bike.
 
-I was lubing the chain on my e-bike and noticed the chain guard was loose. This one mounts directly to the chainring with some #2 Philips screws. These are dainty screws and don't take much torque so it's easy for them to rattle loose, never to be seen again.
+I was lubing the chain on my e-bike and noticed this chain guard was loose. This one mounts directly to the chainring with some #2 Philips screws. These are dainty screws and don't take much torque so it's easy for them to rattle loose, never to be seen again.
 
 {{< image src="DSCF4038.webp" alt="The inboard face of a chainring showing the screw that mounts the chain guard" >}}
 
