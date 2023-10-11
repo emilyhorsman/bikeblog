@@ -186,12 +186,14 @@ header {
   a {
     color: currentColor;
     text-decoration: none;
-    padding-left: 1rem;
-    border-left: 3px solid $light-a-color;
+
+    span.previous-post-notice-underline {
+      text-decoration: underline;
+    }
   }
 
-  span {
-    text-decoration: underline;
+  span:first-child {
+    color: $light-a-color;
   }
 }
 
@@ -220,8 +222,8 @@ blockquote {
     }
   }
 
-  .previous-post-notice a {
-    border-left-color: $dark-a-color;
+  .previous-post-notice span:first-child {
+    color: $dark-a-color;
   }
 
   blockquote {
