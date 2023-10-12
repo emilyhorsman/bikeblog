@@ -4,6 +4,8 @@
 {{ with .Summary }}
 <meta name="description" content="{{ . }}">
 {{ end }}
+<meta property="og:title" content="{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}">
+<meta property="og:site_name" content="{{ .Site.Title}}">
 
 <title>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }} • {{ .Site.Title }}</title>
 {{ partialCached "head/css.html" . }}
