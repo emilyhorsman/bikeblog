@@ -1,23 +1,20 @@
 import os
 import glob
 import subprocess
+import itertools
 
-sizes = {"1x": 768, "15x": 1152, "2x": 1536}
+options = {"": "", "_1x": "-resize 768x", "_15x": "-resize 1152", "_2x": "-resize 1536"}
+extensions = {"webp": "-define webp:image-hint=photo", "avif": "-define heif:speed=2"}
 
 
 def resize(filename):
-    new_filename = '{}.webp'.format(os.path.splitext(filename)[0])
-    if not os.path.exists(new_filename):
-        command = 'cwebp {} -preset photo -o {}'.format(
-            filename, new_filename)
-        subprocess.run(command, shell=True)
-
-    for size, width in sizes.items():
-        new_filename = '{}_{}.webp'.format(os.path.splitext(filename)[0], size)
+    base = os.path.splitext(filename)[0]
+    for ((key, option), (extension, extension_options)) in itertools.product(options.items(), extensions.items()):
+        new_filename = '{}{}.{}'.format(base, key, extension)
         if os.path.exists(new_filename):
             continue
-        command = 'cwebp {} -preset photo -resize {} 0 -o {}'.format(
-            filename, width, new_filename)
+        command = 'magick {} {} {} {}'.format(filename, option, extension_options, new_filename)
+        print(command)
         subprocess.run(command, shell=True)
 
 

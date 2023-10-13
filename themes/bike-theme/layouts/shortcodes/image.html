@@ -1,39 +1,56 @@
 {{ $img := $.Page.Resources.GetMatch (.Get "src") }}
-{{ $base_width := mul ($.Site.Param "width") (default 1 (.Get "scale")) | int }}
+{{/* Hugo doesn't support AVIF so need to set width manually */}}
+{{ $lg := (mul (default $.Site.Params.width (.Get "width")) 2) }}
+{{ $md := (mul (default $.Site.Params.width (.Get "width")) 1.5) }}
+{{ $sm := (mul (default $.Site.Params.width (.Get "width")) 1) }}
+
 <div class="image-container">
-<a href="{{ $img.RelPermalink }}" class="image" target="_blank">
-    <img
-        {{ if not (default false (.Get "nolazy")) }}
-            loading="lazy"
-        {{ end }}
-        alt="{{ $.Get "alt" }}"
-        {{/* This is so fucking bad */}}
+{{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" ".webp") -}}
+<a href="{{ .RelPermalink }}" class="image" target="_blank">
+{{- end -}}
+<picture>
+    <source type="image/avif"
         srcset="
-        {{ with $.Page.Resources.GetMatch (replace (.Get "src") ".webp" "_2x.webp") }}
-            {{ .RelPermalink }} {{ .Width }}w
-        {{ else }}
-            {{ $img_2x := $img.Resize (printf "%dx" (mul $base_width 2)) }}
-            {{ $img_2x.RelPermalink }} {{ $img_2x.Width }}w
-        {{ end }},
-        {{ with $.Page.Resources.GetMatch (replace (.Get "src") ".webp" "_15x.webp") }}
-            {{ .RelPermalink }} {{ .Width }}w
-        {{ else }}
-            {{ $img_1_5x := $img.Resize (printf "%dx" (int (mul $base_width 1.5))) }}
-            {{ $img_1_5x.RelPermalink }} {{ $img_1_5x.Width }}w
-        {{ end }},
-        {{ with $.Page.Resources.GetMatch (replace (.Get "src") ".webp" "_1x.webp") }}
-            {{ .RelPermalink }} {{ .Width }}w"
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_2x.avif") -}}
+            {{ .RelPermalink }} {{ $lg }}w
+        {{- end -}},
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_15x.avif") -}}
+            {{ .RelPermalink }} {{ $md }}w
+        {{- end -}},
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_1x.avif") -}}
+            {{ .RelPermalink }} {{ $sm }}w"
             src="{{ .RelPermalink }}"
-            width="{{ .Width }}"
-            height="{{ .Height }}"
-        {{ else }}
-            {{ $img_1 := $img.Resize (printf "%dx" $base_width) }}
-            {{ $img_1.RelPermalink }} {{ $img_1.Width }}"
-            src="{{ $img_1.RelPermalink }}"
-            width="{{ $img_1.Width }}"
-            height="{{ $img_1.Height }}"
+        {{- else -}}
+        "
+        {{- end -}}
+    />
+    <source type="image/webp"
+        srcset="
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_2x.webp") -}}
+            {{ .RelPermalink }} {{ $lg }}w
+        {{- end -}},
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_15x.webp") -}}
+            {{ .RelPermalink }} {{ $md }}w
+        {{- end -}},
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_1x.webp") -}}
+            {{ .RelPermalink }} {{ $sm }}w"
+            src="{{ .RelPermalink }}"
+        {{- else -}}
+        "
         {{ end }}
     />
+    <img
+        {{ if not (default false (.Get "nolazy")) }}
+        loading="lazy"
+        {{ end }}
+        alt="{{ $.Get "alt" }}"
+        src="{{ $img.RelPermalink }}"
+        {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_1x.webp") -}}
+          width="{{ .Width }}"
+          height="{{ .Height }}"
+        {{- end -}}
+    />
+</picture>
 </a>
 {{ with .Get "credit" }}
 <span>Image Credit: {{ . }}</span>

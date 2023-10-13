@@ -8,7 +8,7 @@ Front and rear derailleurs are responsible for more than just shifting — they 
 
 I was lubing the chain on my e-bike and noticed this chain guard was loose. This one mounts directly to the chainring with some #2 Philips screws. These are dainty screws and don't take much torque so it's easy for them to rattle loose, never to be seen again.
 
-{{< image src="DSCF4038.webp" alt="The inboard face of a chainring showing the screw that mounts the chain guard" >}}
+{{< image src="DSCF4038.jpg" alt="The inboard face of a chainring showing the screw that mounts the chain guard" >}}
 
 Tightening them all solved my problems but was a good reminder that I still have the problem of inboard chain retention. Having the chain fall off inboard on this e-bike is a bigger problem than on a normal bike because it gets quite stuck between the drive unit cover and the ring. This happened to me on the trail the other day and I needed to work with someone else to pry the chain out. This chain is approaching the end of its life (around 0.5% wear) and I was in my easiest gear when it happened (and thus the chain is at its most extreme angle), making this more likely. Nonetheless, I'd like to avoid this situation ever happening again.
 
@@ -22,11 +22,11 @@ My favourite solution would be a narrow-wide chainring which is what you tend to
 
 Another solution is using a chain keeper. My understanding is these were more popular before the ubiquity of narrow-wide chainrings — although you still see them on some mountain bikes where they expect the chain to bounce around a lot. This would involve removing the outboard chain guard altogether (💯) and clamping a keeper to the seat tube over the chain. Paul Component Engineering makes a [beautiful purple one](https://www.paulcomp.com/shop/components/drivetrain/chain-keepers/chain-keeper/) with a design that allows it to work with a 34 to 55mm chainline. However, I think the mountable area on the seat tube would be too high to have the chain block sit right over the chain because the drive unit on this e-bike prevents it from going further down.
 
-{{< image src="chain_keeper_clamp_gallery_3.webp" alt="A muddy Chain Keeper sitting directly over the chain" credit="Paul Component Engineering" >}}
+{{< image src="chain_keeper_clamp_gallery_3.jpg" alt="A muddy Chain Keeper sitting directly over the chain" credit="Paul Component Engineering" >}}
 
 [Wolf Tooth makes one](https://www.wolftoothcomponents.com/collections/chainguides/products/gnarwolf-chainguide-seat-tube-clamp-mount) that I think would solve the clearance issues because the seat tube clamp is much higher than the chain block. Although it's possible that the bracket still wouldn't clear the motor unit.
 
-{{< image src="wolf_tooth.webp" alt="A Wolf Tooth GnarWolf Chainguide sitting over the chain" credit="Wolf Tooth Components" >}}
+{{< image src="wolf_tooth.jpg" alt="A Wolf Tooth GnarWolf Chainguide sitting over the chain" credit="Wolf Tooth Components" >}}
 
 There are also a variety of chain deflectors out there that act more like an inner chain guard instead of protecting both the inboard and outboard sides. This might work since I have the outer chain guard. It may at least stop the chain from getting stuck when it does fall inboard. Many of these have the same clearance issue as the Paul Chain Keeper since the retention part is basically at the same height as the mount.
 
@@ -34,10 +34,10 @@ Then there are chain cases that mount directly to the drive unit like Shimano's 
 
 You can see the threads for a chain case in this photo (and some scraped paint from the chain being pried out).
 
-{{< image src="DSCF4552.webp" alt="The front of a 1x crankset with the chain case fixing mounts visible" >}}
+{{< image src="DSCF4552.jpg" alt="The front of a 1x crankset with the chain case fixing mounts visible" >}}
 
 A classic trick is to use an old front derailleur as a chain keeper — you set the limit screws to keep the cage over the chain just like a chain keeper and then skip the shift cable. I think there may be similar clearance issues but if I have time I might experiment with this approach to at least have a temporary solution. I may even just try to thread some piece of plastic lying around the bike shop into the chain case mount to make sure the chain can't fall too far down and get stuck.
 
 Anyway here's Gus rewarding you for reading my fabulous deep dive.
 
-{{< image src="DSCF4545.webp" alt="A buff colored cat lying down near a bike" >}}
+{{< image src="DSCF4545.jpg" alt="A buff colored cat lying down near a bike" >}}
