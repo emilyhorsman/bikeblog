@@ -1,4 +1,4 @@
-<video controls playsinline
+<video controls playsinline preload="metadata"
     {{ with .Get "poster" | $.Page.Resources.GetMatch }}
     poster="{{ .RelPermalink }}"
     {{ end }}
