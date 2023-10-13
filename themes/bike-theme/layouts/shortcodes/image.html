@@ -19,7 +19,6 @@
         {{- end -}},
         {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_1x.avif") -}}
             {{ .RelPermalink }} {{ $sm }}w"
-            src="{{ .RelPermalink }}"
         {{- else -}}
         "
         {{- end -}}
@@ -34,7 +33,6 @@
         {{- end -}},
         {{- with $.Page.Resources.GetMatch (replace (.Get "src") ".jpg" "_1x.webp") -}}
             {{ .RelPermalink }} {{ $sm }}w"
-            src="{{ .RelPermalink }}"
         {{- else -}}
         "
         {{ end }}
