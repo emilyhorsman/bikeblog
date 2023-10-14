@@ -8,7 +8,7 @@ $dark-fg-accent: #e2e2e2;
 $dark-a-color: #dc9eef;
 $dark-a-color-active: $dark-fg-accent;
 
-$gutter: 28px;
+$gutter: 26px;
 $max-width: 768px;
 
 :root {
@@ -99,17 +99,7 @@ h2 {
 
 .heading ~ .heading {
   position: relative;
-  margin-top: 3rem;
-
-  &::before {
-    content: "🚲";
-    display: block;
-    position: absolute;
-    top: -2rem;
-    left: 0;
-    right: 0;
-    text-align: center;
-  }
+  margin-top: $gutter;
 }
 
 main time {
@@ -158,7 +148,7 @@ h1 a {
 
 header {
   line-height: 1;
-  margin-bottom: 1.5rem;
+  margin-bottom: $gutter;
 
   display: flex;
   flex-direction: row;
