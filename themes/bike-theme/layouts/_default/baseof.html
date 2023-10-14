@@ -17,6 +17,9 @@
       <div>
         <a href="/about/">About</a>
         <a href="/posts/">Archive</a>
+        {{ with (.Site.GetPage "/posts").OutputFormats.Get "rss" -}}
+        <a href="{{ .RelPermalink }}">RSS</a>
+        {{ end }}
       </div>
     </header>
     <main>{{ block "main" . }}{{ end }}</main>

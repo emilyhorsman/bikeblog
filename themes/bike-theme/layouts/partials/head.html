@@ -9,6 +9,6 @@
 
 <title>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }} • {{ .Site.Title }}</title>
 {{ partialCached "head/css.html" . }}
-{{ with .OutputFormats.Get "rss" -}}
+{{ with (.Site.GetPage "/posts").OutputFormats.Get "rss" -}}
   {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
 {{ end }}
