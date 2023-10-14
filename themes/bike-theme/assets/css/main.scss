@@ -196,12 +196,14 @@ blockquote {
 .tags {
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: baseline;
   margin-top: 1rem;
 
   ul {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 0.6rem;
     list-style-type: none;
     margin: 0;
     padding: 0;
