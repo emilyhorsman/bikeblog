@@ -193,6 +193,49 @@ blockquote {
   margin-top: 0.2rem;
 }
 
+.tags {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 1rem;
+
+  ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+      margin-left: 0.5rem;
+      line-height: 1;
+
+      a {
+        background-color: #fbf4c4;
+        color: black;
+        padding: 0.35rem 0.6rem;
+        display: block;
+        border-radius: 5px;
+        font-size: 0.9rem;
+
+        &:hover,
+        &:active {
+          background-color: #f7e984;
+        }
+      }
+
+      &.tag-bike a {
+        background-color: #ddddef;
+
+        &:hover,
+        &:active {
+          background-color: #989ace;
+        }
+      }
+    }
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: $dark-bg-color;

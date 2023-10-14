@@ -1,4 +1,5 @@
 +++
+classes = ['tag-bike']
 brand = 'Kona'
 model = 'Dew-E'
 title = 'egret'

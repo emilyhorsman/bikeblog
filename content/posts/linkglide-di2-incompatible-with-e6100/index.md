@@ -1,6 +1,7 @@
 +++
 title = 'Linkglide Di2 Is Incompatible With E6100'
 date = 2023-10-12T10:57:11-07:00
+tags = ['ebike', 'drivetrain']
 +++
 
 **tl;dr:** A Shimano support member tested it for me and confirmed that Linkglide Di2 won't work with E6100 e-bikes.

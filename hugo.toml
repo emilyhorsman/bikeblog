@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 [taxonomies]
   series = 'series'
-  bikes = 'bikes'
+  tags = 'tags'
 
 [params]
   width = 768

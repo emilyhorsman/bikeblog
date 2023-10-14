@@ -2,5 +2,6 @@
   {{ range where site.RegularPages "Section" "posts" }}
     {{ partial "content/heading.html" . }}
     {{ .Content }}
+    {{ partial "content/tags.html" . }}
   {{ end }}
 {{ end }}
