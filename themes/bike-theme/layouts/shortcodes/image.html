@@ -38,7 +38,7 @@
         {{ end }}
     />
     <img
-        {{ if not (default false (.Get "nolazy")) }}
+        {{ if .Ordinal }}
         loading="lazy"
         {{ end }}
         alt="{{ $.Get "alt" }}"

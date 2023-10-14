@@ -11,7 +11,7 @@ I had [this trail](https://www.fws.gov/refuge/don-edwards-san-francisco-bay/map?
 It's super fucked up that they close the trail for so much of the year so that enthusiast waterfowl hunters can kill things.
 There's not really any parking (great!) but that probably means that hunters bring their lifted trucks on to the trail.
 
-{{< image src="DSCF3860.jpg" alt="A flock of pelicans in the sky in front of power lines and the fog" nolazy=true >}}
+{{< image src="DSCF3860.jpg" alt="A flock of pelicans in the sky in front of power lines and the fog" >}}
 
 {{< image src="DSCF3853.jpg" alt="Rippling textures in the shore" >}}
 

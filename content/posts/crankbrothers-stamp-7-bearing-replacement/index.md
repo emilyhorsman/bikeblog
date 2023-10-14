@@ -7,7 +7,7 @@ bikes = ['egret']
 
 I got a [refresh kit](https://www.crankbrothers.com/collections/pedal-accessories/products/pedal-refresh-kit-stamp-7-11) for my pedals and just serviced them — no more play! Here's the pedal before service.
 
-{{< image src="DSCF4553.jpg" alt="A Crankbrothers Stamp 7 right pedal with pedal washer. Lots of grease and dirt" nolazy=true >}}
+{{< image src="DSCF4553.jpg" alt="A Crankbrothers Stamp 7 right pedal with pedal washer. Lots of grease and dirt" >}}
 
 Out comes two plate screws that secure the bearing retainer to the pedal body. Here's the initial guts when you pull out the whole assembly. The small screw on the left is just from the grease port.
 
