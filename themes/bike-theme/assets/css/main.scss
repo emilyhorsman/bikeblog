@@ -8,10 +8,16 @@ $dark-fg-accent: #e2e2e2;
 $dark-a-color: #dc9eef;
 $dark-a-color-active: $dark-fg-accent;
 
-$gutter: 1.5rem;
+$gutter: 28px;
+$max-width: 768px;
 
 :root {
   color-scheme: light dark;
+
+  --gutter: #{$gutter};
+  @media screen and (min-width: $max-width + 1px + $gutter * 2) {
+    --gutter: 0px;
+  }
 }
 
 *,
@@ -24,7 +30,7 @@ body {
   color: $light-fg-color;
   font-family: Georgia, serif;
   margin: 0;
-  margin-top: 1rem;
+  margin-top: $gutter;
   margin-bottom: 5rem;
   font-size: 18px;
 
@@ -41,10 +47,11 @@ body {
 
 main {
   width: 100%;
+  max-width: $max-width;
 
   > *:not(.image-container, video) {
-    margin-left: $gutter;
-    margin-right: $gutter;
+    margin-left: var(--gutter);
+    margin-right: var(--gutter);
   }
 }
 
@@ -200,7 +207,7 @@ blockquote {
 .image-container span {
   font-size: 0.9rem;
   margin-top: 0.3rem;
-  margin-left: $gutter;
+  margin-left: var(--gutter);
 }
 
 .tags {
