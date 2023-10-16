@@ -14,6 +14,8 @@ Shimano seems to frame e-bikes as a motivation behind designing [Linkglide](http
 
 That leaves running _either_ mechanical Linkglide (e.g., [RD-U8000](https://bike.shimano.com/en-US/product/component/cues-u8000/RD-U8000.html)) or Di2 (e.g., [RD-M8050](https://bike.shimano.com/en-EU/product/component/deorext-m8050-di2/RD-M8050-GS.html)).
 
+<!--more-->
+
 ## Linkglide with Di2 and E6100 Incompatibility
 
 This is all more-or-less spelled out in the [compatibility chart](https://productinfo.shimano.com/#/com?acid=C-431&cid=C-431). However, given that the E6100 is clearly capable of talking to a Di2 derailleur and that there shouldn't be anything fundamentally different between a Di2 derailleur and one that supports Linkglide — why not simply hook one up and accept that maybe the features like free shift advertised by the [RD-M8150-11](https://bike.shimano.com/en-EU/product/component/ep8-ep801/RD-M8150-11.html) won't work? Perhaps the compatibility chart is just being strict and only advertising compatibility if there is 100% support. Alas, if you do this, the bike won't turn on.

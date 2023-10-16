@@ -10,6 +10,8 @@ I was lubing the chain on my e-bike and noticed this chain guard was loose. This
 
 {{< image src="DSCF4038.jpg" alt="The inboard face of a chainring showing the screw that mounts the chain guard" >}}
 
+<!--more-->
+
 Tightening them all solved my problems but was a good reminder that I still have the problem of inboard chain retention. Having the chain fall off inboard on this e-bike is a bigger problem than on a normal bike because it gets quite stuck between the drive unit cover and the ring. This happened to me on the trail the other day and I needed to work with someone else to pry the chain out. This chain is approaching the end of its life (around 0.5% wear) and I was in my easiest gear when it happened (and thus the chain is at its most extreme angle), making this more likely. Nonetheless, I'd like to avoid this situation ever happening again.
 
 I have long-term plans to upgrade the drivetrain on this bike — perhaps to Shimano CUES — which would include a rear derailleur with a clutch. The [tension pulley](https://www.parktool.com/en-us/blog/repair-help/how-a-rear-derailleur-works) of a rear derailleur cage is always sprung backward which keeps tension on the chain. If you push the top section of your chain towards the chainstay you'll notice that the rear derailleur cage pivots forward. This happens all the time when you're riding over bumps — my best guess of how my chain fell off the other day. The chain can even hit your chainstay ("chain slap"). A clutch makes it harder for this to happen by partially inhibiting the cage from pivoting forward. Check out this dope [video from Park Tool showing all this with an action cam](https://www.youtube.com/watch?v=fmYG26okK_E).

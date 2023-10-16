@@ -9,6 +9,8 @@ I noticed some play in my pedals the other day! I can’t feel anything while ri
 
 {{< video webm="stamp_play.webm" mp4="stamp_play.mp4" poster="stamp_play.webp" muted=true loop=true >}}
 
+<!--more-->
+
 These Crankbrothers Stamp 7 pedals have [polymer igus bearings](https://web.archive.org/web/20230929223318/https://www.igus.eu/info/plain-bearings-crank-mountain-bike-pedal) in them instead of steel ball bearings. Eventually they wear down as your pedal rotates hundreds of thousands of times. Crankbrothers recommend replacing them with their [refresh kit](https://www.crankbrothers.com/collections/pedal-accessories/products/pedal-refresh-kit-stamp-7-11) every 150-200 hours of riding. I’ve definitely exceeded that and these pedals have nearly 5000 km on them across two bikes.
 
 {{< image src="overhaul.jpg" alt="Exploded view of the Stamp 7 pedal" >}}

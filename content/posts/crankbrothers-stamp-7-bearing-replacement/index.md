@@ -13,6 +13,8 @@ Out comes two plate screws that secure the bearing retainer to the pedal body. H
 
 {{< image src="DSCF4556-2.jpg" alt="The spindle assembly of a pedal" >}}
 
+<!--more-->
+
 The [service manual](https://crankbrothers.zendesk.com/hc/en-us/articles/115004284194-Stamp-Technical-Documents) has you use a paperclip to remove the outer bearing and o-ring. I couldn't find one so I used a small hex wrench to knock out the outer bearing through the grease port and a J-bend spoke to grab the o-ring. (Aside: J-bend spokes have also been my heroine during many internal routing projects.)
 
 {{< image src="DSCF4558.jpg" alt="The outer bearing and o-ring of a pedal" >}}

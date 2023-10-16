@@ -16,6 +16,8 @@ There's not really any parking (great!) but that probably means that hunters bri
 
 {{< image src="DSCF3853.jpg" alt="Rippling textures in the shore" >}}
 
+<!--more-->
+
 {{< image src="DSCF3885.jpg" alt="A dirt doubletrack trail with tall grasses on each side going towards the East Bay hills" >}}
 
 {{< image src="DSCF3896.jpg" alt="Dark sand with a nearby vista point, water, and Coyote Hills in the background" >}}

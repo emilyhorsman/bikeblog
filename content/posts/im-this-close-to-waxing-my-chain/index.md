@@ -16,6 +16,8 @@ Maybe I've been reading too much internet while stuck at home with a cold but I'
 
 [^1]: Albeit a low/mid-end 9-speed KMC chain.
 
+<!--more-->
+
 ## Plan
 
 1. Strip a new Shimano [CN-LG500](https://bike.shimano.com/en-US/product/component/ep8-ep800/CN-LG500.html) chain with [Silca Chain Stripper](https://silca.cc/collections/chain-lube-wax/products/chain-stripper) in mason jars.
