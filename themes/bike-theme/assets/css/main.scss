@@ -1,12 +1,10 @@
 $light-fg-color: black;
 $light-fg-accent: #444;
-$light-a-color: #911db5;
-$light-a-color-active: $light-fg-accent;
+$light-a-color: #bc46e1;
 $dark-bg-color: #1e1e1e;
 $dark-fg-color: white;
 $dark-fg-accent: #d0d0d0;
 $dark-a-color: #dc9eef;
-$dark-a-color-active: $dark-fg-accent;
 
 $gutter: 26px;
 $max-width: 768px;
@@ -55,32 +53,10 @@ main {
   }
 }
 
-a {
-  color: $light-a-color;
-
-  &:hover,
-  &:active {
-    color: $light-a-color-active;
-  }
-}
-
 img,
 video {
   max-width: 100%;
   height: auto;
-}
-
-h1,
-h2 {
-  a {
-    color: currentColor;
-
-    &:hover,
-    &:focus,
-    &:active {
-      text-decoration: underline;
-    }
-  }
 }
 
 .heading {
@@ -141,14 +117,22 @@ main {
   }
 }
 
+a {
+  text-underline-offset: 25%;
+  text-decoration-thickness: 2px;
+  text-decoration-color: $light-a-color;
+  color: currentColor;
+
+  &:hover,
+  &:active {
+    color: $light-a-color;
+  }
+}
+
 a.image {
   display: block;
   font-size: 0;
   text-align: center;
-}
-
-h1 a {
-  text-decoration: none;
 }
 
 header {
@@ -163,13 +147,6 @@ header {
 
   a {
     font-size: 0.9rem;
-    text-decoration: none;
-
-    &:hover,
-    &:focus,
-    &:active {
-      text-decoration: underline;
-    }
   }
 
   a + a {
@@ -225,6 +202,7 @@ blockquote {
       line-height: 1;
 
       a {
+        text-decoration: none;
         background-color: #fbf4c4;
         color: black;
         padding: 0.35rem 0.6rem;
@@ -261,11 +239,11 @@ blockquote {
   }
 
   a {
-    color: $dark-a-color;
+    text-decoration-color: $dark-a-color;
 
     &:hover,
     &:active {
-      color: $dark-a-color-active;
+      color: $dark-a-color;
     }
   }
 
