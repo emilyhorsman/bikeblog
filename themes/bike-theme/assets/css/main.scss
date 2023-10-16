@@ -76,7 +76,7 @@ video {
 
 .heading ~ .heading {
   position: relative;
-  margin-top: $gutter;
+  margin-top: $gutter * 2;
 }
 
 main time {
