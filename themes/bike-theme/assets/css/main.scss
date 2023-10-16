@@ -129,6 +129,10 @@ a {
   }
 }
 
+h1 a {
+  text-underline-offset: 0.1em;
+}
+
 a.image {
   display: block;
   font-size: 0;
