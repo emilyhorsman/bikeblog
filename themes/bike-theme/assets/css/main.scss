@@ -133,7 +133,8 @@ a {
 }
 
 h1 a,
-.series-list li a {
+.series-list li a,
+.content-list li a {
   text-decoration: none;
 
   &:hover,
@@ -184,6 +185,21 @@ header {
 
   ol {
     margin-top: 0.5rem;
+  }
+}
+
+.content-list {
+  padding-left: 0;
+
+  li {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+
+    time {
+      width: 7ch;
+      flex-shrink: 0;
+    }
   }
 }
 
