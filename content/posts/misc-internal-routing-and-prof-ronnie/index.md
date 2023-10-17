@@ -15,4 +15,4 @@ That involves removing the cranks, chainring, motor case, and finally the motor.
 
 {{< image src="DSCF4592.jpg" alt="The motor cabinet of a mid-drive e-bike with various loose cables coming from the downtube and chainstay" >}}
 
-This is why it's a bummer that my e-bike [doesn't support Linkglide Di2]({{< ref "/posts/linkglide-di2-incompatible-with-e6100" >}}) because electronic shifting would let me avoid needing to change my housing every year or so! However, my e-bike does have the shift housing ship over some of the motor before re-entering the chainstay. I'm looking forward to seeing if that's any easier.
+This is why it's a bummer that my e-bike [doesn't support Linkglide Di2]({{< ref "/posts/linkglide-di2-incompatible-with-e6100" >}}) because electronic shifting would let me avoid needing to change my housing every year or so! However, my e-bike does have the shift housing skip over some of the motor before re-entering the chainstay. I'm looking forward to seeing if that's any easier.
