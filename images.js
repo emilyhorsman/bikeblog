@@ -11,7 +11,6 @@ async function resize(file) {
 
   const name = path.basename(file.name, ".jpg");
   await original.toFile(name + ".webp");
-  await original.toFile(name + ".avif");
   await large.toFile(name + "_2x.webp");
   await large.toFile(name + "_2x.avif");
   await medium.toFile(name + "_15x.webp");
