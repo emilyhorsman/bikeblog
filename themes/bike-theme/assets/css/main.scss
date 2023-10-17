@@ -6,7 +6,7 @@ $dark-fg-color: white;
 $dark-fg-accent: #d0d0d0;
 $dark-a-color: #dc9eef;
 
-$gutter: 26px;
+$gutter: 18px;
 $max-width: 768px;
 
 :root {
@@ -47,7 +47,9 @@ main,
 header {
   width: 100%;
   max-width: $max-width;
+}
 
+main {
   > *:not(.image-container, video) {
     margin-left: var(--gutter);
     margin-right: var(--gutter);
@@ -77,7 +79,7 @@ video {
 
 .heading ~ .heading {
   position: relative;
-  margin-top: $gutter * 2;
+  margin-top: $gutter * 3;
 }
 
 main time {
@@ -146,8 +148,13 @@ header {
 
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
+  row-gap: $gutter / 2;
   justify-content: space-between;
   align-items: center;
+
+  padding-left: var(--gutter);
+  padding-right: var(--gutter);
 
   a {
     font-size: 0.9rem;
