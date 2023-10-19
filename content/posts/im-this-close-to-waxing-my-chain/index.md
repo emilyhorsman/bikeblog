@@ -33,3 +33,7 @@ I figure that re-waxing probably ends up taking as long as lubing my chain does 
 [^2]: All of this stuff is out of stock on QBP (or discontinued) so I can't get it from the bike shop. I try to avoid ordering delivery to reduce the number of cars on the road so at least by getting both things from Silca I can reduce the number of packages.
 
 Thanks to nicoles, meyatt, and bean for your encouragement and suggestions.
+
+**Update, Oct 18:** I've been concerned with disposing the used chain stripper. I contacted Silca and they had this to say:
+
+> Chain stripper should be disposed of by taking it to a toxic waste drop-off. The liquid itself can be diluted enough in the water to go down a drain, as I belive it is mentioned in the MSDS, but once you have your chain lubricant and everything it is just best to go to a toxic waste drop-off.
