@@ -1,0 +1,42 @@
+{{/* Hugo doesn't support AVIF so need to set width manually */}}
+{{ $lg := mul $.Site.Params.width 2 }}
+{{ $md := mul $.Site.Params.width 1.5 }}
+{{ $sm := mul $.Site.Params.width 1 }}
+
+<picture>
+  <source type="image/avif"
+  srcset="
+  {{- with .Resources.GetMatch "*16x9_2x.avif" -}}
+      {{ .RelPermalink }} {{ $lg }}w
+  {{- end -}},
+  {{- with .Resources.GetMatch "*16x9_15x.avif" -}}
+      {{ .RelPermalink }} {{ $md }}w
+  {{- end -}},
+  {{- with .Resources.GetMatch "*16x9_1x.avif" -}}
+      {{ .RelPermalink }} {{ $sm }}w"
+  {{- else -}}
+  "
+  {{- end -}}
+/>
+<source type="image/webp"
+  srcset="
+  {{- with .Resources.GetMatch "*16x9_2x.webp" -}}
+      {{ .RelPermalink }} {{ $lg }}w
+  {{- end -}},
+  {{- with .Resources.GetMatch "*16x9_15x.webp" -}}
+      {{ .RelPermalink }} {{ $md }}w
+  {{- end -}},
+  {{- with .Resources.GetMatch "*16x9_1x.webp" -}}
+      {{ .RelPermalink }} {{ $sm }}w"
+  {{- else -}}
+  "
+  {{ end }}
+/>
+{{ with .Resources.GetMatch "*16x9_1x.webp" }}
+<img
+  src="{{ .RelPermalink }}"
+  width="{{ .Width }}"
+  height="{{ .Height }}"
+/>
+{{ end }}
+</picture>
