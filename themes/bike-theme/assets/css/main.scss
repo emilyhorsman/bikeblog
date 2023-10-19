@@ -50,7 +50,7 @@ header {
 }
 
 main {
-  > *:not(.image-container, video) {
+  > *:not(.image-container, video, .summary) {
     margin-left: var(--gutter);
     margin-right: var(--gutter);
   }
@@ -83,6 +83,11 @@ video {
 }
 
 .summary {
+  > *:not(picture) {
+    margin-left: var(--gutter);
+    margin-right: var(--gutter);
+  }
+
   h2 {
     margin-top: 0.25rem;
     margin-bottom: 0.25rem;
