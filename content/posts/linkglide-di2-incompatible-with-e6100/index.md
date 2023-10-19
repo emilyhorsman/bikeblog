@@ -1,9 +1,10 @@
 ---
 date: "2023-10-12T10:57:11-07:00"
 tags:
-- ebike
-- drivetrain
+  - ebike
+  - drivetrain
 title: Linkglide Di2 Is Incompatible With E6100
+summary: Here's why I want to try Linkglide and Di2. Except Linkglide Di2 drivetrains aren't compatible with E6100 e-bikes.
 ---
 
 **tl;dr:** A Shimano support member tested it for me and confirmed that Linkglide Di2 won't work with E6100 e-bikes.
@@ -15,8 +16,6 @@ Shimano seems to frame e-bikes as a motivation behind designing [Linkglide](http
 [^1]: [RD-M8150-11](https://bike.shimano.com/en-EU/product/component/ep8-ep801/RD-M8150-11.html), [RD-U6070](https://bike.shimano.com/en-EU/product/component/ep6-ep600/RD-U6070.html), and [RD-U6050](https://bike.shimano.com/en-EU/product/component/ep6-ep600/RD-U6050.html). Aside: RD-M8150-11 is Linkglide and [RD-M8150-12](https://bike.shimano.com/en-EU/product/component/ep8-ep801/RD-M8150-12.html) is Hyperglide+. I know Shimano is better than this!!.
 
 That leaves running _either_ mechanical Linkglide (e.g., [RD-U8000](https://bike.shimano.com/en-US/product/component/cues-u8000/RD-U8000.html)) or Di2 (e.g., [RD-M8050](https://bike.shimano.com/en-EU/product/component/deorext-m8050-di2/RD-M8050-GS.html)).
-
-<!--more-->
 
 ## Linkglide with Di2 and E6100 Incompatibility
 

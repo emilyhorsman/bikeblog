@@ -1,11 +1,13 @@
 ---
 date: "2023-10-10T13:38:57-07:00"
 series:
-- Crankbrothers Stamp 7 Pedals
+  - Crankbrothers Stamp 7 Pedals
 tags:
-- egret
-- maintenance
+  - egret
+  - maintenance
 title: Crankbrothers Stamp 7 Bearing Replacement
+summary: Replacing the polymer igus bearings on my pedal!
+banner: DSCF4570.jpg
 ---
 
 I got a [refresh kit](https://www.crankbrothers.com/collections/pedal-accessories/products/pedal-refresh-kit-stamp-7-11) for my pedals and just serviced them — no more play! Here's the pedal before service.
@@ -15,8 +17,6 @@ I got a [refresh kit](https://www.crankbrothers.com/collections/pedal-accessorie
 Out comes two plate screws that secure the bearing retainer to the pedal body. Here's the initial guts when you pull out the whole assembly. The small screw on the left is just from the grease port.
 
 {{< image src="DSCF4556-2.jpg" alt="The spindle assembly of a pedal" >}}
-
-<!--more-->
 
 The [service manual](https://crankbrothers.zendesk.com/hc/en-us/articles/115004284194-Stamp-Technical-Documents) has you use a paperclip to remove the outer bearing and o-ring. I couldn't find one so I used a small hex wrench to knock out the outer bearing through the grease port and a J-bend spoke to grab the o-ring. (Aside: J-bend spokes have also been my heroine during many internal routing projects.)
 

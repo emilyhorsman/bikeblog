@@ -1,9 +1,11 @@
 ---
 date: "2023-10-17T15:16:14-07:00"
 tags:
-- misc
-- ebike
-title: 'Misc: Internal Routing and Prof. Ronnie'
+  - misc
+  - ebike
+title: "Misc: Internal Routing and Prof. Ronnie"
+summary: My fave bike influencer, a cute documentary, and internal routing on mid-drive e-bikes.
+banner: DSCF4592.jpg
 ---
 
 First, two YouTube recommendations:
