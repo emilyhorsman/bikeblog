@@ -7,7 +7,6 @@ tags:
   - maintenance
 title: Grease Port Bolt Extraction
 summary: Another win for bolt extractor bits.
-banner: DSCF4597.jpg
 ---
 
 Success! The grease port screw on my left pedal was seized. I couldn't get enough torque into it to free it without camming out. I hate when bike products use Philips heads.

@@ -7,7 +7,6 @@ tags:
   - maintenance
 title: Crankbrothers Stamp 7 Play
 summary: The polymer igus bearings in my pedals have worn enough to have them rocking back and forth.
-banner: DSCF3928.jpg
 ---
 
 I noticed some play in my pedals the other day! I can’t feel anything while riding but you can grab the pedal with your hands and rock the pedal body back and forth around the spindle. They also felt dry to me so I took them apart, cleaned, and re-greased them. That solved some of the problem but there’s still some play because the bearings are worn.

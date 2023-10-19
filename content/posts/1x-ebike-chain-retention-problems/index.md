@@ -7,7 +7,6 @@ tags:
   - maintenance
 title: 1x Chain Retention Problems
 summary: My e-bike has issues with chain dropping and there isn't an ideal solution.
-banner: DSCF4552.jpg
 ---
 
 Front and rear derailleurs are responsible for more than just shifting — they also ensure the chain doesn't fall off. Bikes with only a single chainring usually include some chain retention component to compensate for the lack of front derailleur. My e-bike has a crankset with an outboard chain guard ([FC-E6100](https://bike.shimano.com/en-US/product/component/city---trekking-e-bike-e6100-series/FC-E6100.html)). This stops the chain from falling off the ring away from the bike.

@@ -4,7 +4,6 @@ tags:
   - riding
 title: September 2023 Riding Highlights
 summary: New monthly record of 803 km! Including a lot of Bay Trail riding, goats, and the Niles Canyon Stroll n Roll.
-banner: DSCF3349.jpg
 ---
 
 I rode a new monthly record of 803 km and it was filled with pleasant rides with friends in and out of the city. The ebike helped a lot here and there were many bonus kilometers from picking up food takeout that I normally would've been too tired to do. We've sworn off delivery because we don't want to put more cars on the road and Uber, DoorDash, et. al. are [killing restaurants](https://web.archive.org/web/20230930230743/https://www.sfgate.com/food/article/sf-little-star-pizza-challenges-food-delivery-apps-18142694.php) and cities.
