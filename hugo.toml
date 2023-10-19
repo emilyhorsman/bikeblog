@@ -12,7 +12,5 @@ enableRobotsTXT = true
 [params]
   width = 768
 
-[imaging]
-  quality = 90
-  hint = 'photo'
-  resampleFilter = 'MitchellNetravali'
+[minify]
+  minifyOutput = true
