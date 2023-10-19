@@ -1,9 +1,12 @@
-+++
-title = 'Grease Port Bolt Extraction'
-date = 2023-10-16T18:44:06-07:00
-series = ['Crankbrothers Stamp 7 Pedals']
-tags = ['egret', 'maintenance']
-+++
+---
+date: "2023-10-16T18:44:06-07:00"
+series:
+- Crankbrothers Stamp 7 Pedals
+tags:
+- egret
+- maintenance
+title: Grease Port Bolt Extraction
+---
 
 Success! The grease port screw on my left pedal was seized. I couldn't get enough torque into it to free it without camming out. I hate when bike products use Philips heads.
 

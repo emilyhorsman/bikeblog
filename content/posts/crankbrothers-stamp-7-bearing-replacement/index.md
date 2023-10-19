@@ -1,9 +1,12 @@
-+++
-title = 'Crankbrothers Stamp 7 Bearing Replacement'
-date = 2023-10-10T13:38:57-07:00
-series = ['Crankbrothers Stamp 7 Pedals']
-tags = ['egret', 'maintenance']
-+++
+---
+date: "2023-10-10T13:38:57-07:00"
+series:
+- Crankbrothers Stamp 7 Pedals
+tags:
+- egret
+- maintenance
+title: Crankbrothers Stamp 7 Bearing Replacement
+---
 
 I got a [refresh kit](https://www.crankbrothers.com/collections/pedal-accessories/products/pedal-refresh-kit-stamp-7-11) for my pedals and just serviced them — no more play! Here's the pedal before service.
 

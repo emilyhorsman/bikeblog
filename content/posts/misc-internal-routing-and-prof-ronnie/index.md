@@ -1,8 +1,10 @@
-+++
-title = 'Misc: Internal Routing and Prof. Ronnie'
-date = 2023-10-17T15:16:14-07:00
-tags = ['misc', 'ebike']
-+++
+---
+date: "2023-10-17T15:16:14-07:00"
+tags:
+- misc
+- ebike
+title: 'Misc: Internal Routing and Prof. Ronnie'
+---
 
 First, two YouTube recommendations:
 

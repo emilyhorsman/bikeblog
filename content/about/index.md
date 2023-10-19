@@ -1,7 +1,7 @@
-+++
-title = 'About'
-date = 2023-10-01T14:29:15-07:00
-+++
+---
+date: "2023-10-01T14:29:15-07:00"
+title: About
+---
 
 - [me+bikes@emilyhorsman.com](mailto:me+bikes@emilyhorsman.com)
 - Thoughts coming to you from the san francisco bay area away from social media

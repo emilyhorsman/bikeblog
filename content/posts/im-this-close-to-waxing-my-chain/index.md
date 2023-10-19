@@ -1,8 +1,10 @@
-+++
-title = "I’m So Close to Waxing My Chain"
-date = 2023-10-14T11:01:43-07:00
-tags = ['drivetrain', 'maintenance']
-+++
+---
+date: "2023-10-14T11:01:43-07:00"
+tags:
+- drivetrain
+- maintenance
+title: I’m So Close to Waxing My Chain
+---
 
 Maybe I've been reading too much internet while stuck at home with a cold but I'm basically convinced to try switching from drip lube to wax.
 
