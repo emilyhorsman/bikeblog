@@ -82,6 +82,49 @@ video {
   margin-top: $gutter * 3.5;
 }
 
+.summary {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+
+  img {
+    width: 100px;
+    height: 100px;
+    margin-right: 1rem;
+    border-radius: 4px;
+  }
+
+  > div {
+    width: 100%;
+  }
+
+  h2 {
+    margin-top: 0;
+    margin-bottom: 0.25rem;
+    font-size: 1.2rem;
+  }
+
+  .tags-and-date {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    .tags {
+      margin: 0;
+    }
+
+    time {
+      margin-right: 1rem;
+    }
+  }
+
+  & ~ .summary {
+    margin-top: $gutter * 2.5;
+  }
+}
+
 main time {
   color: $light-fg-accent;
 }
@@ -133,6 +176,7 @@ a {
 }
 
 h1 a,
+h2 a,
 .series-list li a,
 .content-list li a {
   text-decoration: none;

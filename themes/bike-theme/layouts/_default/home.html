@@ -1,7 +1,28 @@
 {{ define "main" }}
   {{ range where site.RegularPages "Section" "posts" }}
-    {{ partial "content/heading.html" . }}
-    {{ .Content }}
-    {{ partial "content/tags.html" . }}
+  <div class="summary">
+    <img src="/DSCF4587.jpg">
+    
+    <div>
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <div class="tags-and-date">
+        {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+        {{ $dateHuman := .Date | time.Format "Jan 2, 2006" }}
+        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+        {{ with .GetTerms "tags" }}
+        <div class="tags">
+          <ul>
+            {{ range . }}
+              <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
+                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+      </div>
+      <p>{{ .Summary }}</p>
+    </div>
+  </div>
   {{ end }}
 {{ end }}
