@@ -83,7 +83,7 @@ video {
 }
 
 .summary {
-  > *:not(picture) {
+  > *:not(.image-container) {
     margin-left: var(--gutter);
     margin-right: var(--gutter);
   }
