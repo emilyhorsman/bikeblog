@@ -3,8 +3,8 @@ date: "2023-10-10T13:38:57-07:00"
 series:
   - Crankbrothers Stamp 7 Pedals
 tags:
-  - egret
   - maintenance
+  - egret
 title: Crankbrothers Stamp 7 Bearing Replacement
 summary: Replacing the polymer igus bearings on my pedal!
 resources:

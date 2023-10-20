@@ -3,8 +3,8 @@ date: "2023-09-29T17:41:30-07:00"
 series:
   - Crankbrothers Stamp 7 Pedals
 tags:
-  - egret
   - maintenance
+  - egret
 title: Crankbrothers Stamp 7 Play
 summary: The polymer igus bearings in my pedals have worn enough to have them rocking back and forth.
 resources:

@@ -271,30 +271,30 @@ blockquote {
     li {
       margin-left: 0.5rem;
       line-height: 1;
+    }
+  }
 
-      a {
-        text-decoration: none;
-        background-color: #fbf4c4;
-        color: black;
-        padding: 0.35rem 0.6rem;
-        display: block;
-        border-radius: 5px;
-        font-size: 0.9rem;
+  a {
+    text-decoration: none;
+    background-color: #fbf4c4;
+    color: black;
+    padding: 0.35rem 0.6rem;
+    display: block;
+    border-radius: 5px;
+    font-size: 0.9rem;
 
-        &:hover,
-        &:active {
-          background-color: #f7e984;
-        }
-      }
+    &:hover,
+    &:active {
+      background-color: #f7e984;
+    }
+  }
 
-      &.tag-bike a {
-        background-color: #ddddef;
+  .tag-bike a {
+    background-color: #ddddef;
 
-        &:hover,
-        &:active {
-          background-color: #989ace;
-        }
-      }
+    &:hover,
+    &:active {
+      background-color: #989ace;
     }
   }
 }

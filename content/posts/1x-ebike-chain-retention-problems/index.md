@@ -1,10 +1,10 @@
 ---
 date: "2023-10-11T09:18:00-07:00"
 tags:
-  - egret
-  - ebike
   - drivetrain
+  - ebike
   - maintenance
+  - egret
 title: 1x Chain Retention Problems
 summary: My e-bike has issues with chain dropping and there isn't an ideal solution.
 resources:

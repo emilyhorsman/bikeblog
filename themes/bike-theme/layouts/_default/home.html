@@ -2,20 +2,18 @@
   {{ range where site.RegularPages "Section" "posts" }}
   <div class="summary">
     {{ partial "content/banner_image.html" . }}
-    
+
     <div>
       <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
       <div class="tags-and-date">
         {{ partial "content/time.html" . }}
         {{ with .GetTerms "tags" }}
         <div class="tags">
-          <ul>
-            {{ range . }}
-              <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
-                <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-              </li>
-            {{ end }}
-          </ul>
+          {{ range first 1 . }}
+            <div {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
+              <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            </div>
+          {{ end }}
         </div>
         {{ end }}
       </div>

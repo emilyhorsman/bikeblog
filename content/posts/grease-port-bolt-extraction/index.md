@@ -3,8 +3,8 @@ date: "2023-10-16T18:44:06-07:00"
 series:
   - Crankbrothers Stamp 7 Pedals
 tags:
-  - egret
   - maintenance
+  - egret
 title: Grease Port Bolt Extraction
 summary: My seized grease port screw was stopping me from replacing the bearings in my left pedal. But it came out with a bolt extractor drill bit!
 resources:
