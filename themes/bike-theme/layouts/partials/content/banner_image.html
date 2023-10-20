@@ -33,6 +33,7 @@
   {{ end }}
 />
 {{ with .Resources.GetMatch "*16x9_1x.webp" }}
+<a href="{{ $.Page.RelPermalink }}" class="image-container">
 <img
   src="{{ .RelPermalink }}"
   width="{{ .Width }}"
@@ -40,4 +41,5 @@
   alt="{{ .Params.alt }}"
 />
 {{ end }}
+</a>
 </picture>
