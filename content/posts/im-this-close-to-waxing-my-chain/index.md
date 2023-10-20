@@ -5,6 +5,10 @@ tags:
   - maintenance
 title: I’m So Close to Waxing My Chain
 summary: Maybe I've been reading too much internet while stuck at home with a cold but I'm basically convinced to try switching from drip lube to wax.
+resources:
+  - src: "*16x9*"
+    params:
+      alt: A 9-speed chain with caked on grime.
 ---
 
 Maybe I've been reading too much internet while stuck at home with a cold but I'm basically convinced to try switching from drip lube to wax.

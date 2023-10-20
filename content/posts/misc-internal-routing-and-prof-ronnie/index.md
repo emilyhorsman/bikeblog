@@ -5,6 +5,10 @@ tags:
   - ebike
 title: "Misc: Internal Routing and Prof. Ronnie"
 summary: My fave bike influencer, a cute documentary, and internal routing on mid-drive e-bikes.
+resources:
+  - src: "*16x9*"
+    params:
+      alt: The motor cabinet of a mid-drive e-bike with various loose cables coming from the downtube and chainstay
 ---
 
 First, two YouTube recommendations:
