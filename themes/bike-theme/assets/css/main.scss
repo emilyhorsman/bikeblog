@@ -318,4 +318,25 @@ blockquote {
   blockquote {
     border-left-color: #bbb;
   }
+
+  .tags {
+    a {
+      color: $dark-fg-color;
+      background-color: #443c05;
+
+      &:hover,
+      &:active {
+        background-color: #151201;
+      }
+    }
+
+    .tag-bike a {
+      background-color: #282850;
+
+      &:hover,
+      &:active {
+        background-color: #17172e;
+      }
+    }
+  }
 }
