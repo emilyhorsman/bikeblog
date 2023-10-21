@@ -60,6 +60,7 @@ img,
 video {
   max-width: 100%;
   height: auto;
+  background: #e2e2e2;
 }
 
 .heading {
@@ -212,10 +213,6 @@ header {
   div:first-child a {
     font-size: 1.4rem;
   }
-}
-
-.image img {
-  background: #e2e2e2;
 }
 
 .series-list {

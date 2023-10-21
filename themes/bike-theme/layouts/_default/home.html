@@ -9,11 +9,13 @@
         {{ partial "content/time.html" . }}
         {{ with .GetTerms "tags" }}
         <div class="tags">
-          {{ range first 1 . }}
-            <div {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
+          <ul>
+            {{ range first 2 . }}
+            <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
               <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            </div>
+            </li>
           {{ end }}
+          </ul>
         </div>
         {{ end }}
       </div>
