@@ -90,9 +90,8 @@ video {
   }
 
   h2 {
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
-    font-size: 1.2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0;
   }
 
   .tags-and-date {
@@ -190,7 +189,7 @@ a.image {
 
 header {
   line-height: 1;
-  margin-bottom: $gutter * 2.5;
+  margin-bottom: $gutter * 3;
 
   display: flex;
   flex-direction: row;
@@ -248,6 +247,8 @@ blockquote {
   font-size: 0.9rem;
   margin-top: 0.3rem;
   margin-left: var(--gutter);
+  text-align: right;
+  display: block;
 }
 
 .tags {
