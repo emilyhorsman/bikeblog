@@ -43,6 +43,14 @@ body {
   }
 }
 
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
 main,
 header {
   width: 100%;
@@ -94,20 +102,12 @@ video {
     margin-bottom: 0;
   }
 
-  .tags-and-date {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
+  .tags {
+    margin: 0;
+  }
 
-    .tags {
-      margin: 0;
-    }
-
-    time {
-      margin-right: 1rem;
-    }
+  time {
+    margin-right: 1rem;
   }
 
   p {
@@ -276,9 +276,9 @@ blockquote {
     text-decoration: none;
     background-color: #fbf4c4;
     color: black;
-    padding: 0.35rem 0.6rem;
+    padding: 0.3rem 0.5rem;
     display: block;
-    border-radius: 5px;
+    border-radius: 4px;
     font-size: 0.9rem;
 
     &:hover,

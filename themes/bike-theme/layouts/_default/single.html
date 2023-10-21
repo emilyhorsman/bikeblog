@@ -2,5 +2,5 @@
   {{ partial "content/heading.html" . }}
   {{ partial "content/series_list.html" . }}
   {{ .Content }}
-  {{ partial "content/tags.html" . }}
+  {{ partial "content/tags.html" (dict "page" . "quantity" 10 "text" "Tags: ") }}
 {{ end }}

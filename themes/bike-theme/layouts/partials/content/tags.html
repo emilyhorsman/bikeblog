@@ -1,8 +1,8 @@
-{{ with .GetTerms "tags" }}
+{{ with .page.GetTerms "tags" }}
   <div class="tags">
-    Tags:
+    {{ $.text }}
     <ul>
-      {{ range . }}
+      {{ range first $.quantity . }}
         <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
           <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
         </li>

@@ -3,23 +3,13 @@
   <div class="summary">
     {{ partial "content/banner_image.html" . }}
 
-    <div>
-      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-      <div class="tags-and-date">
-        {{ partial "content/time.html" . }}
-        {{ with .GetTerms "tags" }}
-        <div class="tags">
-          <ul>
-            {{ range first 2 . }}
-            <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
-              <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-            </li>
-          {{ end }}
-          </ul>
-        </div>
-        {{ end }}
-      </div>
-      <p>{{ .Summary }}</p>
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+    <p>{{ .Summary }}</p>
+
+    <div class="row">
+      <a href="{{ .RelPermalink }}">Read More</a>
+      {{ partial "content/tags" (dict "page" . "quantity" 2) }}
     </div>
   </div>
   {{ end }}
