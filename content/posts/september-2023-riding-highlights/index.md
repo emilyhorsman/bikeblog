@@ -3,7 +3,7 @@ date: "2023-10-02T00:08:26-07:00"
 tags:
   - riding
 title: September 2023 Riding Highlights
-summary: New monthly record of 803 km! Including a lot of Bay Trail riding, goats, and the Niles Canyon Stroll n Roll.
+summary: New monthly riding record of 803 km! Including a lot of Bay Trail riding, goats doing work, unusually pleasant Golden Gate Bridge crossings, and a car-free Niles Canyon.
 resources:
   - src: "*16x9*"
     params:

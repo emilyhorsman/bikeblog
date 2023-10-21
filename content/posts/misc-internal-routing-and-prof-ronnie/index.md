@@ -4,7 +4,7 @@ tags:
   - misc
   - ebike
 title: "Misc: Internal Routing and Prof. Ronnie"
-summary: My fave bike influencer, a cute documentary, and internal routing on mid-drive e-bikes.
+summary: Good thoughts from one of my fave bike influencers, a cute documentary, and internal routing on mid-drive e-bikes.
 resources:
   - src: "*16x9*"
     params:

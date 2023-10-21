@@ -6,7 +6,7 @@ tags:
   - maintenance
   - egret
 title: 1x Chain Retention Problems
-summary: My e-bike has issues with chain dropping and there isn't an ideal solution.
+summary: My chain drops on the inboard side and gets _real_ stuck between the motor and chainring. There's a bunch of different solutions but none of them are perfect.
 resources:
   - src: "*16x9*"
     params:

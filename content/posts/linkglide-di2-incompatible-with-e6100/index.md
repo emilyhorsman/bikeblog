@@ -4,7 +4,7 @@ tags:
   - ebike
   - drivetrain
 title: Linkglide Di2 Is Incompatible With E6100
-summary: Here's why I want to try Linkglide and Di2. Except Linkglide Di2 drivetrains aren't compatible with E6100 e-bikes.
+summary: Gus is grumpy at Shimano for not making their new electronic drivetrains compatible with older e-bikes. I have thoughts on why I'd like to try Linkglide and Di2!
 resources:
   - src: "*16x9*"
     params:

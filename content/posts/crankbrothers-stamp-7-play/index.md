@@ -6,7 +6,7 @@ tags:
   - maintenance
   - egret
 title: Crankbrothers Stamp 7 Play
-summary: The polymer igus bearings in my pedals have worn enough to have them rocking back and forth.
+summary: My pedals have gotten pretty wiggly because the polymer igus bearings have worn out.
 resources:
   - src: "*16x9*"
     params:
