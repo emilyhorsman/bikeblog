@@ -1,19 +1,19 @@
 {{/* Hugo doesn't support AVIF so need to set width manually */}}
-{{ $lg := mul $.Site.Params.width 2 }}
-{{ $md := mul $.Site.Params.width 1.5 }}
-{{ $sm := mul $.Site.Params.width 1 }}
+{{ $lg := mul $.page.Site.Params.width 2 }}
+{{ $md := mul $.page.Site.Params.width 1.5 }}
+{{ $sm := mul $.page.Site.Params.width 1 }}
 
-<a href="{{ $.Page.RelPermalink }}" class="image image-container">
+<a href="{{ .page.RelPermalink }}" class="image image-container">
 <picture>
   <source type="image/avif"
   srcset="
-  {{- with .Resources.GetMatch "*16x9_2x.avif" -}}
+  {{- with .page.Resources.GetMatch "*16x9_2x.avif" -}}
       {{ .RelPermalink }} {{ $lg }}w
   {{- end -}},
-  {{- with .Resources.GetMatch "*16x9_15x.avif" -}}
+  {{- with .page.Resources.GetMatch "*16x9_15x.avif" -}}
       {{ .RelPermalink }} {{ $md }}w
   {{- end -}},
-  {{- with .Resources.GetMatch "*16x9_1x.avif" -}}
+  {{- with .page.Resources.GetMatch "*16x9_1x.avif" -}}
       {{ .RelPermalink }} {{ $sm }}w"
   {{- else -}}
   "
@@ -21,24 +21,27 @@
 />
 <source type="image/webp"
   srcset="
-  {{- with .Resources.GetMatch "*16x9_2x.webp" -}}
+  {{- with .page.Resources.GetMatch "*16x9_2x.webp" -}}
       {{ .RelPermalink }} {{ $lg }}w
   {{- end -}},
-  {{- with .Resources.GetMatch "*16x9_15x.webp" -}}
+  {{- with .page.Resources.GetMatch "*16x9_15x.webp" -}}
       {{ .RelPermalink }} {{ $md }}w
   {{- end -}},
-  {{- with .Resources.GetMatch "*16x9_1x.webp" -}}
+  {{- with .page.Resources.GetMatch "*16x9_1x.webp" -}}
       {{ .RelPermalink }} {{ $sm }}w"
   {{- else -}}
   "
   {{ end }}
 />
-{{ with .Resources.GetMatch "*16x9_1x.webp" }}
+{{ with .page.Resources.GetMatch "*16x9_1x.webp" }}
 <img
   src="{{ .RelPermalink }}"
   width="{{ .Width }}"
   height="{{ .Height }}"
   alt="{{ .Params.alt }}"
+  {{ if gt $.index 1 }}
+  loading="lazy"
+  {{ end }}
 />
 {{ end }}
 </picture>

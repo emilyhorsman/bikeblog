@@ -1,7 +1,7 @@
 {{ define "main" }}
-  {{ range where site.RegularPages "Section" "posts" }}
+  {{ range $index, $_ := where site.RegularPages "Section" "posts" }}
   <div class="summary">
-    {{ partial "content/banner_image.html" . }}
+    {{ partial "content/banner_image.html" (dict "page" . "index" $index) }}
 
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
 
