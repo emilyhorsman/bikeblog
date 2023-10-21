@@ -1,8 +1,5 @@
-$light-fg-color: black;
 $light-fg-accent: #444;
 $light-a-color: #bc46e1;
-$dark-bg-color: #1e1e1e;
-$dark-fg-color: white;
 $dark-fg-accent: #d0d0d0;
 $dark-a-color: #dc9eef;
 
@@ -25,7 +22,8 @@ $max-width: 768px;
 }
 
 body {
-  color: $light-fg-color;
+  background-color: Canvas;
+  color: CanvasText;
   font-family: Georgia, serif;
   margin: 0;
   margin-top: $gutter;
@@ -274,7 +272,7 @@ blockquote {
   a {
     text-decoration: none;
     background-color: #fcf7d4;
-    color: black;
+    color: currentColor;
     padding: 0.3rem 0.5rem;
     display: block;
     border-radius: 4px;
@@ -297,11 +295,6 @@ blockquote {
 }
 
 @media (prefers-color-scheme: dark) {
-  body {
-    background-color: $dark-bg-color;
-    color: $dark-fg-color;
-  }
-
   main time {
     color: $dark-fg-accent;
   }
@@ -321,7 +314,6 @@ blockquote {
 
   .tags {
     a {
-      color: $dark-fg-color;
       background-color: #443c05;
 
       &:hover,
