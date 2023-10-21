@@ -3,4 +3,14 @@
   {{ partial "content/series_list.html" . }}
   {{ .Content }}
   {{ partial "content/tags.html" (dict "page" . "quantity" 10 "text" "Tags: ") }}
+ 
+  <ul class="next-prev">
+    {{ with .NextInSection }}
+    <li>Next ({{ partial "content/time.html" . }}): <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+
+    {{ with .PrevInSection }}
+    <li>Prev ({{ partial "content/time.html" .}}): <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+    {{ end }}
+  </ul>
 {{ end }}
