@@ -166,6 +166,10 @@ a {
   }
 }
 
+sup a {
+  text-underline-offset: 0.1em;
+}
+
 h1 a,
 h2 a,
 .series-list li a,
