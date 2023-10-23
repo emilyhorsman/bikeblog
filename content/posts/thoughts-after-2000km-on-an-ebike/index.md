@@ -30,7 +30,7 @@ tags:
 
 [^1]: There are also [e-bikes](https://www.specialized.com/us/en/haul-st/p/200057), arguably outside California law, which advertise themselves as a Class 3 e-bike but have a throttle that assists up to 20 mph. The three-class system states that Class 3 e-bikes provide ["assistance only when the rider is pedaling,"](https://peopleforbikes.cdn.prismic.io/peopleforbikes/26118e07-5b1b-4159-92eb-5bd5d684f9b2_E-Bike-Law-Primer_July+2023.pdf) so these probably shouldn't exist.
 
-I think it's very difficult to justify the existence of class 2 and 3 e-bikes.[^2] I think there are good accessibility reasons to have a throttle but I'm not convinced it needs to assist as high as 20 mph or be kept on indefinitely. 20 mph is _fast_. I've test-ridden long-tail cargo bikes that assist up to 28 mph and the difference I feel in my power dynamic between myself and other road users is scary.
+I think it's very difficult to justify the existence of class 2 and 3 e-bikes.[^2] I think there are good accessibility reasons to have a throttle but I'm not convinced it needs to assist as high as 20 mph or be kept on indefinitely. 20 mph is _fast_. I've test-ridden long-tail cargo bikes that assist up to 28 mph and the difference I feel in the power dynamic between myself and other road users is scary.
 
 [^2]: I would say I have high-medium confidence in this opinion.
 
@@ -41,6 +41,7 @@ I think it's very difficult to justify the existence of class 2 and 3 e-bikes.[^
 1. I'll take safer/less trafficked but hillier roads that I wouldn't take on a normal bike.
 1. It lets me get around even after a long day or after I'm tired from strength training.
 1. The motor lets you make different bike fit tradeoffs (e.g., a lower saddle position than I'd generally ride which is comfier on the saddle but would be typically less comfy on my joints).[^4] Even different contact point tradeoffs such as tire choice and pressure.
+1. Your weight is distributed across all your contact points: handlebars, saddle, and pedals. I find that biking at a particularly chill pace on a normal bike results in putting less weight into my pedals and thus more weight on my handlebars and saddle. This can result in discomfort faster.
 
 ## Assist Experience
 
