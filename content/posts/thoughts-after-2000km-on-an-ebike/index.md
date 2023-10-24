@@ -13,7 +13,7 @@ resources:
 
 ## Disclaimers
 
-1. These are reflections on my Kona Dew-E ([egret]({{< ref "/tags/egret" >}})), which is a mid-drive e-bike.
+1. These are reflections on my Kona Dew-E ([egret]({{< ref "/tags/egret" >}})), which is a mid-drive e-bike. The last section of this post discusses why I chose it.
 1. This post is a sort of signpost of my thoughts on e-bikes after a few months and I expect many of these thoughts to change.
 1. I haven't carried kids or pets on this bike, and it's not a cargo bike.[^3]
 1. This has been my do-everything bike for the last three months. I've ridden it on and off the road, carried heavy loads up steep San Francisco hills without running out of breath, and attached a Burley trailer to it to get 40 lbs of firewood up to the Presidio. This is well-rounded riding and my opinions are of course based on that, but your riding might be different!
@@ -34,6 +34,8 @@ resources:
    1. Similarly, if I am getting a flare-up, I can get home faster which helps avoid negative associations with pain on a bike.
 1. The great thing about an e-bike is that I can easily carry a beefy lock. I use a [Hiplok D1000](https://hiplok.com/product/hiplok-d1000/) with [Pitlock](https://www.pitlock.de/en/) locking skewers for the wheels. I generally only lock to inverted-U bike racks.
 
+[^4]: My bike fit has drifted back towards what I'd have on a normal bike as I do harder and longer rides on the e-bike. This opinion might be limited to shorter rides.
+
 ## Assist Experience
 
 1. The assist algorithm is very, very good. It feels shockingly natural. It's much better than the hub-motor bike share e-bikes in San Francisco.
@@ -42,8 +44,6 @@ resources:
 1. The drag you feel when the motor assists minimally or not at all could be better. I think I've maybe "broken in" mine a bit and the drag feels less bad than it did when I first got the bike. I remember trying the lowest assist level right away and not liking it; now I don't mind it so much. I may have just gotten used to it.
 1. The range on this 504 Wh battery is excellent.
 1. The shifting isn't great — [see my thoughts on this]({{< ref "/posts/linkglide-di2-incompatible-with-e6100#why-linkglide-and-di2" >}}) and how it relates to a non-Linkglide drivetrain.
-
-[^4]: I've been leaning away from this over time and as I go on harder rides.
 
 ## Maintenance
 
