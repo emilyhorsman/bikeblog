@@ -306,6 +306,10 @@ blockquote {
   }
 }
 
+.image-container + .footnotes {
+  margin-top: $gutter;
+}
+
 @media (prefers-color-scheme: dark) {
   main time {
     color: $dark-fg-accent;
