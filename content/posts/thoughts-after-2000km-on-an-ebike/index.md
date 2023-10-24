@@ -1,7 +1,7 @@
 ---
 date: "2023-10-24T00:34:56-07:00"
 title: Thoughts After 2000km on an E-Bike
-summary: I've now put about 2000 km on my e-bike (~1250 miles) and want to write out my thoughts on an e-bike compared to a normal bike — the good and the bad.
+summary: I've now put about 2000 km on my e-bike (~1250 miles) and want to write out my thoughts on e-biking compared to regular biking — the good, the bad, why I chose this one, and my political opinions on e-bikes that haven't changed.
 tags:
   - ebike
   - egret
