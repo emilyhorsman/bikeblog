@@ -47,6 +47,8 @@ That started to get unsightly. I got some confidence with it opening up, though,
 
 {{< image src="DSCF4871.jpg" alt="A blue e-bike with black fenders resting on an oak tree beside a dirt path surrounded by other old oaks" >}}
 
+Something I didn't think about until I had it mocked up in the stand and realized is that the struts could potentially get in the way of my pannier hook. In practice this doesn't seem to be a problem but for future fender setups it's something I'd like to think about.
+
 I'm not a weight weenie but I wanted to weigh this bike before and after. The fenders added 0.75 lbs to this 45 lb bike.
 
 {{< image src="DSCF4844.jpg" alt="A blue bike on a hanging scale reading out 45 lbs 0 oz" >}}
