@@ -1,6 +1,5 @@
 ---
 date: "2023-10-24T00:34:56-07:00"
-draft: true
 title: Thoughts After 2000km on an E-Bike
 summary: I've now put about 2000 km on my e-bike (~1250 miles) and want to write out my thoughts on an e-bike compared to a normal bike — the good and the bad.
 tags:
@@ -81,7 +80,7 @@ I ended up buying a Kona Dew-E. The following factors went into it, in no partic
 1. Shimano or Bosch drivetrains only. This is because I can get their parts through reputable dealers (and in my case, I can get them through the bike shop I'm involved with) and both have a good reputation for reliability and safety.[^6] Both companies have been around a long time and are unlikely to land you in a [VanMoof situation](https://www.bikeradar.com/news/vanmoof-bankruptcy/).
 1. I wanted a mid-drive motor instead of a hub motor because I prefer how it feels to ride and it's less of an operation to take the wheel in and out.
 1. The Dew-E is mostly a regular bike that happens to have a motor on it. It's a Class 1 e-bike and the drivetrain is a typical mechanical drivetrain (other than the motor and crankset, of course) which could be swapped with anything (as I will be doing!). The majority of maintenance can be done without needing to touch the parts of the bike that make it an e-bike.
-1. Shimano Hydraulic brakes — they require less hand effort, allow me to do single-finger braking,[^5] require less maintenance, and the pads self-adjust as they wear. I wanted Shimano specifically because they use mineral oil instead of DOT fluid and they can be bled with readily available equipment with good documentation on their maintenance.
+1. Shimano hydraulic brakes — they require less hand effort, allow me to do single-finger braking,[^5] require less maintenance, and the pads self-adjust as they wear. I wanted Shimano specifically because they use mineral oil instead of DOT fluid and they can be bled with readily available equipment with good documentation on their maintenance.
 1. No integrated headset/stem/bar situations that make it more difficult to swap contact points. The steerer is a standard threadless 9/8" diameter and the seatpost is a standard 27.2 mm.
 1. A kickstand and plenty of rack mounts.
 1. A rigid fork instead of a suspension fork. I find the suspension unnecessary for day-to-day riding with correct tire choice and it avoids their extra weight and maintenance.
