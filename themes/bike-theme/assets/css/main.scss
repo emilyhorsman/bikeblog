@@ -310,6 +310,10 @@ blockquote {
   margin-top: $gutter;
 }
 
+ol ol {
+  list-style-type: lower-alpha;
+}
+
 @media (prefers-color-scheme: dark) {
   main time {
     color: $dark-fg-accent;
