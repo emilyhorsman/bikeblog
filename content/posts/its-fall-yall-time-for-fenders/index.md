@@ -19,7 +19,7 @@ I don't love the fender dimensions I have to work with here. This bike came with
 
 [^2]: I thought about dimpling or cutting notches into metal fenders to clear the fork legs. I might try this in the future.
 
-So, given that I'm not even a huge fan of fenders, I'm putting on the fenders the bike came with until they break. This configuration isn't ideal and I didn't get that sweet French Fender Line™️ I would've loved. Nonetheless, the result was good enough for me[^3] and will give a good picture of clearances for future fender experiments.
+So, given that I'm not even a huge fan of fenders, I'm putting on the fenders the bike came with until they break. This configuration isn't ideal and I didn't get that sweet French Fender Line™ I would've loved. Nonetheless, the result was good enough for me[^3] and will give a good picture of clearances for future fender experiments.
 
 [^3]: Especially on this bike. One nice thing about e-bikes is that they start off kind of ugly so it's fine if I do some unsightly things to them.
 
