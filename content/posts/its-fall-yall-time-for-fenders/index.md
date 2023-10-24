@@ -12,21 +12,21 @@ resources:
     src: "*16x9*"
 ---
 
-I've resisted putting fenders on any of my bikes — I don't love the aesthetic, they feel fragile, and you still need to wear rain gear anyway. However, I did some of my favourite riding in the rain last wet season and my Kona Dew-E came with cheap plastic[^1] fenders. I had taken them off when I assembled it but we've started getting some rain in San Francisco and I figure it's time. Besides, they protect your drivetrain too and I think it's responsible to have things last as long as possible.
+I've resisted putting fenders on any of my bikes — I don't love the aesthetic, they feel fragile, and you still need to wear rain gear anyway. However, my Kona Dew-E came with cheap plastic[^1] fenders and some of my favourite riding has been in the wet seasons. I had taken them off when I assembled it but we've started getting rain in San Francisco and I figure it's time. Besides, they protect your drivetrain too and I think it's responsible to have things last as long as possible.
 
 [^1]: I'm fairly sure they're [Sunnywheel polycarbonate fenders](http://www.sunnywheel.com/product?id=2). I couldn't pin down the exact model.
 
-This bike came with 47mm tires on 19mm internal width rims. I put on a tubeless wheelset with wider rims (26.6mm internal width) and the effective width of the tire is about 50mm. I think that Kona was already playing a bit fast and loose with clearances here — the fenders it came with are arguably a bit narrow for 47mm tires. When I decided I would put fenders on for the wet season I figured I'd put some metal [Honjo fenders](https://www.sim.works/collections/fenders-simworks-by-honjo/products/smooth-62-black) on but I don't think the frame can fit them. Not without some shenanigans anyway.[^2]
+I don't love the fender dimensions I have to work with here. This bike came with 47mm tires on 19mm internal width rims. The fenders it came with are arguably a little narrow for those. The situation gets tighter because I put a wheelset with wider rims (26.6mm internal width) on and the effective width of the tire is about 50mm. I figured I'd put wider metal [Honjo fenders](https://www.sim.works/collections/fenders-simworks-by-honjo/products/smooth-62-black) on but I don't think the frame can fit them. Not without some shenanigans anyway.[^2]
 
 [^2]: I thought about dimpling or cutting notches into metal fenders to clear the fork legs. I might try this in the future.
 
-So, given that I'm not even a huge fan of fenders, I'll just put on the fenders the bike came with until they break. Anyway, this is all to say that this tire/rim/frame/fender combination isn't ideal and I didn't get that sweet French Fender Line™️ I would've loved. The result was good enough for me[^3] and will give a good picture of clearances for the future.
+So, given that I'm not even a huge fan of fenders, I'm putting on the fenders the bike came with until they break. This configuration isn't ideal and I didn't get that sweet French Fender Line™️ I would've loved. Nonetheless, the result was good enough for me[^3] and will give a good picture of clearances for future fender experiments.
 
 [^3]: Especially on this bike. One nice thing about e-bikes is that they start off kind of ugly so it's fine if I do some unsightly things to them.
 
 {{< image src="DSCF4848.jpg" alt="The front of a blue bike with a silver basket and black fender" >}}
 
-I find these knobby tires yeet a bunch of debris up so I tried to get as much clearance as possible on the front. The inner side of the strut attachment points also gets close to the tire so increasing the clearance helps with that. The result is a bit excessive to my taste but they installed easily and the line is fairly even. All the mounting hardware was already set up from the factory so it only took some minor adjustments. I'm pleased that the struts have [safety releases](http://www.sunnywheel.com/accessorie-intro?id=24). If something gets caught, the fender should theoretically release instead of locking the front wheel.
+I find these knobby tires yeet a bunch of debris up so I tried to get as much clearance as possible on the front. The inner side of the strut attachment points also gets close to the tire so increasing the clearance helps with that. The result is a bit excessive to my taste but they installed easily and the line is fairly even. All the mounting hardware was already set up from the factory so it only took some minor adjustments. I'm pleased that the struts have [safety releases](http://www.sunnywheel.com/accessorie-intro?id=24). If something gets caught, the fender should theoretically release instead of crumpling and locking the front wheel.
 
 I got into some trouble with the rear fender. The clearance at the chainstay bridge was tight and the strut attachment points at the back of the fender also got pretty close. Thus, it's not pretty.
 
@@ -40,7 +40,7 @@ These fenders aren't chromoplastic where there's a metal internal surrounded by 
 
 {{< image src="DSCF4855.jpg" alt="The chainstay bridge of a blue bike with the rear wheel removed showing just the black fender being setup. The bottom edge of the fender is slightly warped" >}}
 
-It started out okay; you can see above that the bottom edge is just slightly warped. I used a heat gun on probably too high a setting and then some Knipex pliers to pry the fender open. In hindsight, I would've done this with the fender off the bike, with gentler heat, thicker gloves to handle the warm plastic, and some kind of form to mold against.
+It started out okay; you can see above that the bottom edge is just slightly warped. I used a heat gun (on probably too high a setting) and then some Knipex pliers to pry the fender open. In hindsight, I would've done this with the fender off the bike, with gentler heat, thicker gloves to handle the warm plastic, and some kind of form to mold against.
 
 {{< image src="DSCF4860.jpg" alt="A close up of a fender edge that has been warped with heat. A bike wheel is spinning" >}}
 
