@@ -1,6 +1,5 @@
 ---
 date: "2023-10-23T16:07:07-07:00"
-draft: true
 title: It’s Fall Y’all! 🎃💦 Time for Fenders
 tags:
   - maintenance
