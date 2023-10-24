@@ -4,17 +4,19 @@ title: Thoughts After 2000km on an E-Bike
 summary: I've now put about 2000 km on my e-bike (~1250 miles) and want to write out my thoughts on an e-bike compared to a normal bike — the good and the bad.
 tags:
   - ebike
+  - egret
 resources:
   - src: "*16x9*"
     params:
       alt: A blue Kona e-bike and purple vintage Trek in front of a view of the San Francisco Bay facing towards the East Bay, some time after the sun has set
 ---
 
-## Caveats
+## Disclaimers
 
-1. I don't think I've owned an e-bike long enough to have solid opinions. I expect a lot of these takes to change. Thus, this post is a sort of signpost of my thoughts on e-bikes after a few months.
+1. These are reflections on my Kona Dew-E ([egret]({{< ref "/tags/egret" >}})), which is a mid-drive e-bike.
+1. This post is a sort of signpost of my thoughts on e-bikes after a few months and I expect many of these thoughts to change.
 1. I haven't carried kids or pets on this bike, and it's not a cargo bike.[^3]
-1. This has been my do-everything bike for the last three months. I've ridden it on and off the road, carried heavy loads up steep San Francisco hills without running out of breath, and attached a Burley trailer to it to get 40 lbs of firewood up to the Presidio. So, while these are preliminary opinions, I think they're well-informed.
+1. This has been my do-everything bike for the last three months. I've ridden it on and off the road, carried heavy loads up steep San Francisco hills without running out of breath, and attached a Burley trailer to it to get 40 lbs of firewood up to the Presidio. This is well-rounded riding and my opinions are of course based on that, but your riding might be different!
 
 [^3]: It's not a long-tail, bakfiet, or other specialized cargo bike. It's just a standard double-triangle bike with an 1127 mm wheelbase and no integrated racks.
 
@@ -24,8 +26,8 @@ resources:
 1. I'll take safer/less trafficked but hillier roads that I wouldn't take on a normal bike.
 1. It lets me get around even after a long day or after I'm tired from strength training. I end up riding a lot more as a result.
 1. The motor lets you make different bike fit tradeoffs (e.g., a lower saddle position than I'd generally ride which is comfier on the saddle but would be typically less comfy on my joints).[^4] Even different contact point tradeoffs such as tire choice and pressure.
-1. Your weight is distributed across all your contact points: handlebars, saddle, and pedals. I find that biking at a particularly chill pace on a normal bike puts less weight on my pedals and, thus, more on my handlebars and saddle. This can result in discomfort faster.
-1. I bought this after over a year of chronic wrist pain affecting nearly every aspect of my life, including riding. I've been hoping it's helped:
+1. On any bike your weight is distributed across all your contact points: handlebars, saddle, and pedals. E-biking can feel like biking at a chill pace on a normal bike. I find that this can result in discomfort faster because less weight is going into your pedals and more into your handlebars and saddle.
+1. I bought this after over a year of chronic wrist pain affecting nearly every aspect of my life, including riding. Here are some ways I think the e-bike has helped:
    1. As I fatigue on longer rides (or if I'm already tired when I get on the bike) my core gives less support and I'll put more weight on my bars and thus my wrists. The motor helps me avoid this situation.
    1. People often torque their wrists against their bars when climbing hard hills. The e-bike makes hills easier and avoids this more often.
    1. Pain can have a neuroplastic component, and it's easy for me to be habitually hypervigilant about pain on the bike. Riding with the electric assist has perhaps shaken up my experience on a bike and given some positive feedback cycle here.
