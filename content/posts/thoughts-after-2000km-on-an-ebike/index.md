@@ -1,5 +1,5 @@
 ---
-date: "2023-10-24T00:34:56-07:00"
+date: "2023-10-26T00:34:56-07:00"
 title: Thoughts After 2000km on an E-Bike
 summary: I've now put about 2000 km on my e-bike (~1250 miles) and want to write out my thoughts on e-biking compared to regular biking — the good, the bad, why I chose this one, and my political opinions on e-bikes that haven't changed.
 tags:
@@ -24,9 +24,10 @@ resources:
 
 1. It is an enormous joy riding my e-bike. It feels like a different, non-competing experience with my normal bike.
 1. I'll take safer/less trafficked but hillier roads that I wouldn't take on a normal bike.
-1. It lets me get around even after a long day or after I'm tired from strength training. I end up riding a lot more as a result.
+1. It lets me get around even after a long day or after I'm tired from strength training. I end up riding a lot more as a result. I just went on a Hawk Hill out-and-back on a gym day after work, and picked up dinner on the way back.
 1. The motor lets you make different bike fit tradeoffs (e.g., a lower saddle position than I'd generally ride which is comfier on the saddle but would be typically less comfy on my joints).[^4] Even different contact point tradeoffs such as tire choice and pressure.
 1. On any bike your weight is distributed across all your contact points: handlebars, saddle, and pedals. E-biking can feel like biking at a chill pace on a normal bike. I find that this can result in discomfort faster because less weight is going into your pedals and more into your handlebars and saddle.
+1. I can carry basically anything! If I carry something for my friends mid-ride I don't even notice the extra weight. I've yet to come upon a hill or load that's too much for the motor.
 1. I bought this after over a year of chronic wrist pain affecting nearly every aspect of my life, including riding. Here are some ways I think the e-bike has helped:
    1. As I fatigue on longer rides (or if I'm already tired when I get on the bike) my core gives less support and I'll put more weight on my bars and thus my wrists. The motor helps me avoid this situation.
    1. People often torque their wrists against their bars when climbing hard hills. The e-bike makes hills easier and avoids this more often.
@@ -39,11 +40,11 @@ resources:
 ## Assist Experience
 
 1. The assist algorithm is very, very good. It feels shockingly natural. It's much better than the hub-motor bike share e-bikes in San Francisco.
-1. Occasionally I'll get moments where the motor seems to flicker off or is out of parity with my effort. I haven't totally noticed a pattern with this but it seems to be when my bike is asymmetrically loaded. I'm curious if other e-bike riders get this sometimes.
+1. Occasionally I'll get brief moments where the motor seems to flicker off or is out of parity with my effort. I haven't totally noticed a pattern with this but it seems to be when my bike is asymmetrically loaded. I'm curious if other e-bike riders get this sometimes.
 1. It's surprisingly quiet!
 1. The drag you feel when the motor assists minimally or not at all could be better. I think I've maybe "broken in" mine a bit and the drag feels less bad than it did when I first got the bike. I remember trying the lowest assist level right away and not liking it; now I don't mind it so much. I may have just gotten used to it.
 1. The range on this 504 Wh battery is excellent.
-1. The shifting isn't great — [see my thoughts on this]({{< ref "/posts/linkglide-di2-incompatible-with-e6100#why-linkglide-and-di2" >}}) and how it relates to a non-Linkglide drivetrain.
+1. The shifting isn't great — [see my thoughts on this]({{< ref "/posts/linkglide-di2-incompatible-with-e6100#why-linkglide-and-di2" >}}) and how it might relate to a non-Linkglide drivetrain.
 
 ## Maintenance
 
