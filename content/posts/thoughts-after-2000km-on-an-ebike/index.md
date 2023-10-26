@@ -90,7 +90,7 @@ I ended up buying a Kona Dew-E. The following factors went into it, in no partic
 1. The battery is external, has a keyed lock, and it's easy to order replacement batteries through a brick-and-mortar bike shop.
 1. A minimal interface for controlling the motor. This one came with a small screen on the bar beside the stem to read my speed and current assist level. Then a small switch on the left side of my bars lets me rotate through assist choices.
 
-[^5]: My understanding of the biomechanics here: your index finger has an independent extensor muscle. That means you can grab a brake lever with just your index finger without your other fingers also gripping the entire handlebar harder. You physiologically cannot do this with your middle or ring fingers — grabbing your brake lever with these fingers will also grip what they're holding tighter. That means that single finger braking lets you keep a relaxed grip on the bar while braking.
+[^5]: My understanding is that one finger braking lets you keep a more relaxed grip on the bar. If you relax all your fingers and then bring your index finger towards your palm like you were braking you'll notice you can still keep your other fingers fairly relaxed. Do the same with your middle finger and you'll notice it's hard to relax your ring finger!
 [^6]: n.b.: I have not researched this extensively, and it's mostly an inferred opinion.
 
 {{< image src="DSCF4723.jpg" alt="A blue e-bike in a parking space with a Burley trailer hitched to its back" >}}
