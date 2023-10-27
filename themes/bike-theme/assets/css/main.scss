@@ -166,6 +166,11 @@ a {
   }
 }
 
+sup a {
+  text-underline-offset: 0.25em;
+  margin-left: 0.2ch;
+}
+
 h1 a,
 h2 a,
 .series-list li a,
@@ -299,6 +304,14 @@ blockquote {
     color: currentColor;
     padding: 0;
   }
+}
+
+.image-container + .footnotes {
+  margin-top: $gutter;
+}
+
+ol ol {
+  list-style-type: lower-alpha;
 }
 
 @media (prefers-color-scheme: dark) {
