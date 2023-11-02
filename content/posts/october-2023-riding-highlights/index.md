@@ -3,7 +3,7 @@ title: October 2023 Riding Highlights
 date: "2023-11-01T00:31:56-07:00"
 tags:
   - riding
-summary: I've never been on the Golden Gate Bridge so many times in a month. Bike party, slow street rides, Marin headlands, and Hawk Hill. And!! Dogs on bikes! Pumpkins on bikes!
+summary: I've never been on the Golden Gate Bridge so many times in a month. Bike party, Slow Street rides, Marin Headlands, and Hawk Hill. And!! Dogs on bikes! Pumpkins on bikes!
 resources:
   - src: "*16x9*"
     params:
@@ -84,7 +84,7 @@ Off we go to the top of Bobcat.
 
 {{< image src="DSCF4356.jpg" alt="Ben riding out of the saddle up a hill." >}}
 
-{{< image src="R0006621.jpg" alt="A curvy uphill trail showing the bushy and rocky hills of the Marin headlands." >}}
+{{< image src="R0006621.jpg" alt="A curvy uphill trail showing the bushy and rocky hills of the Marin Headlands." >}}
 
 The views of the headlands at the top of Bobcat don't disappoint.
 
@@ -136,7 +136,7 @@ You gotta get that new bike detail shot in the campfire glow.
 
 Kat and I have been wanting to load up our bikes with pumpkins for ages. We finally got a group together and went to Clancy's pumpkin patch to do it. The location across from Garden for the Environment, of course.
 
-First, a quick Great Highway lap to celebrate the season. The clouds over the Marin headlands were amazing that day.
+First, a quick Great Highway lap to celebrate the season. The clouds over the Marin Headlands were amazing that day.
 
 {{< image src="R0006770.jpg" alt="Kat, Jerry, and Sarah riding northbound on the Great Highway facing the headlands with a blue sky and lots of broken up clouds" >}}
 
