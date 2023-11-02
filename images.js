@@ -3,7 +3,15 @@ const sharp = require("sharp");
 const path = require("path");
 
 // TODO: This isn't great lol
-const higherQuality = ["DSCF4587-Enhanced-NR", "DSCF4934"];
+const higherQuality = [
+  "DSCF4587-Enhanced-NR",
+  "DSCF4934",
+  "DSCF4034",
+  "DSCF4008",
+  "DSCF4930",
+  "DSCF4937",
+  "R0006412",
+];
 
 async function resize(file) {
   const original = await sharp(file.name);

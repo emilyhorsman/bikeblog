@@ -14,7 +14,9 @@ Warmest month of the year here in San Francisco!
 
 ## Golden Gate Bridge
 
-The start of the month had some warm nights with low winds — I checked the [wind dashboard](https://dashboard.hobolink.com/public/GGBWestSidewalk#/) on a particularly warm night and got stoked at the 6 mph winds. We rode from the Outer Richmond to the vista point after the east sidewalk on the bridge.
+The start of the month had some warm nights with low winds — I checked the [wind dashboard](https://dashboard.hobolink.com/public/GGBWestSidewalk#/) on a particularly warm night and got stoked[^1] at the 6 mph winds. We rode from the Outer Richmond to the east vista point.
+
+[^1]: I would not shut up about it, as Sarah will attest to.
 
 {{< image src="R0006412.jpg" alt="The marquee of the Balboa Theater with the 31 Balboa bus coming down the street." >}}
 
