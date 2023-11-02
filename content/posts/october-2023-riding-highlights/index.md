@@ -1,8 +1,16 @@
-+++
-title = 'October 2023 Riding Highlights'
-date = 2023-11-01T00:31:56-07:00
-tags = ['riding']
-+++
+---
+title: October 2023 Riding Highlights
+date: "2023-11-01T00:31:56-07:00"
+tags:
+  - riding
+summary: I've never been on the Golden Gate Bridge so many times in a month. Bike party, slow street rides, Marin headlands, and Hawk Hill. And!! Dogs on bikes! Pumpkins on bikes!
+resources:
+  - src: "*16x9*"
+    params:
+      alt: Kat riding around the bend on one of the Golden Gate Bridge towers
+---
+
+Warmest month of the year here in San Francisco!
 
 ## Golden Gate Bridge
 
@@ -78,7 +86,7 @@ Off we go to the top of Bobcat.
 
 {{< image src="R0006621.jpg" alt="A curvy uphill trail showing the bushy and rocky hills of the Marin headlands." >}}
 
-We had some difficulties with a boomer hiker near the top of Bobcat but we got there and the views of the headlands don't disappoint.
+The views of the headlands at the top of Bobcat don't disappoint.
 
 {{< image src="DSCF4378.jpg" alt="Fog covering the tops of the hills in Marin with an eagle flying above the fog." >}}
 
@@ -126,7 +134,7 @@ You gotta get that new bike detail shot in the campfire glow.
 
 ## Pumpkin Patch!! 🎃
 
-Kat and I have been wanting to load up our bikes with pumpkins for ages. We finally got a group together and went to Clancy's pumpkin patch to do it. The one across from Garden for the Environment, of course.
+Kat and I have been wanting to load up our bikes with pumpkins for ages. We finally got a group together and went to Clancy's pumpkin patch to do it. The location across from Garden for the Environment, of course.
 
 First, a quick Great Highway lap to celebrate the season. The clouds over the Marin headlands were amazing that day.
 
@@ -166,7 +174,7 @@ Our small bridge crew catching back up to the rest of Bike Party. (Also shoutout
 
 ## Last Minute Hawk Hills
 
-It's starting to get dark so soon 😭. I went up Hawk Hill at the last minute one night it was going in and out of rain and drama. I saw a coyote wandering around Conzelman and turned up my music to scare it off. I love seeing the doggos tho!
+It's starting to get dark so soon 😭. I went up Hawk Hill at the last minute one night it was going in and out of rain and drama. I saw a coyote wandering around Conzelman and turned up my music to scare it off. I love seeing them tho!
 
 {{< image src="DSCF4930.jpg" alt="The Golden Gate Bridge and San Francisco skyline at night with a straight line of clouds just barely above it." >}}
 
