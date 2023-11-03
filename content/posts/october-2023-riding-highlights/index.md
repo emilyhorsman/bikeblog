@@ -24,7 +24,7 @@ Atlas came with us in the Burley trailer! The first ride over the bridge (and pr
 
 {{< image src="R0006415.jpg" alt="Three people on bicycles entering an intersection crossing the 4 star theatre." >}}
 
-It's so rare that I bike on the east sidewalk! The bridge is so majestic when you have it all to yourself and there's no crosswind. An enormous treat. I'll treasure this moment on the north tower forever.
+It's so rare that I bike on the east sidewalk! The bridge is so majestic when you have it all to yourself and there's no crosswind. An enormous treat.
 
 {{< image src="R0006460.jpg" alt="Kat riding around the bend on one of the Golden Gate Bridge towers" >}}
 
@@ -38,8 +38,6 @@ We took 8th Ave up to [Slow Lake St](https://www.slowlakestreet.com). Ben's out 
 
 {{< image src="R0006579.jpg" alt="Ben on his Crust Romanceur in an orange hoodie that reads 'Slow is Forever' leaning against a colorful truck at a traffic stop." >}}
 
-Treated to a foggy bridge crossing.
-
 {{< image src="R0006608.jpg" alt="The west sidewalk of the Golden Gate Bridge with Ben riding into the foggy background" >}}
 
 The Conzelman parking lot is the place for re-upping on sunscreen and for obligatory bike detail photos.
@@ -49,8 +47,6 @@ The Conzelman parking lot is the place for re-upping on sunscreen and for obliga
 This tree hanging over Conzelman Rd at this bend always hits.
 
 {{< image src="DSCF4102.jpg" alt="A curved road with a lone tree hanging over the apex of the turn. A cyclist on a single speed bike is leaving the frame and my group of friends is biking away" >}}
-
-We got the best mix of fog and blue skies on this ride. It was really rolling down the Julian trail.
 
 {{< image src="DSCF4137.jpg" alt="Kat descending a twisty bit of the gravel Julian trail. Fog is coming down the hill in the background." >}}
 
@@ -62,23 +58,17 @@ Bobcat is the trail we're all most excited about. Here's Jerry and Sarah making 
 
 {{< image src="DSCF4249.jpg" alt="Jerry and Sarah biking up around a bend of a hill with a bush poking out of the hill on their right and fog rolling in to the left" >}}
 
-Near the top of Bobcat you'll find the [special tree](https://www.scenicroutessf.com/)!
+Near the top of Bobcat you'll find the [tree](https://www.scenicroutessf.com/)!
 
 {{< image src="DSCF4267.jpg" alt="Kat and Ben standing in front of the oak tree from the Scenic Routes logo." >}}
 
-Gotta get that oak detail.
-
 {{< image src="DSCF4286.jpg" alt="A close up of the oak tree with the Marin hills in the background." >}}
-
-Living for that mix of blue skies and fog.
 
 {{< image src="DSCF4306.jpg" alt="The view down Bobcat with two riders descending around a turn and foggy hills in the background" >}}
 
 Ben and Sarah needed to collect rocks, as geologists.
 
 {{< image src="DSCF4332.jpg" alt="Ben and Sarah crouched on the ground looking at rocks." >}}
-
-It's important to take product photography with your friends' bikes leaning against things.
 
 {{< image src="DSCF4344.jpg" alt="A magenta voile strap around a basket that reads 'Slow is Forever'" >}}
 
@@ -87,8 +77,6 @@ Off we go to the top of Bobcat.
 {{< image src="DSCF4356.jpg" alt="Ben riding out of the saddle up a hill." >}}
 
 {{< image src="R0006621.jpg" alt="A curvy uphill trail showing the bushy and rocky hills of the Marin Headlands." >}}
-
-The views of the headlands at the top of Bobcat don't disappoint.
 
 {{< image src="DSCF4378.jpg" alt="Fog covering the tops of the hills in Marin with an eagle flying above the fog." >}}
 
@@ -130,7 +118,7 @@ Sarah and Ben did a small overnighter at Rob Hill in the Presidio. Kat, Jerry, a
 
 {{< image src="R0006695.jpg" alt="Jerry, Ben, and Kat climbing up Battery Caulfield in the golden hour glow" >}}
 
-You gotta get that new bike detail shot in the campfire glow.
+Bike detail shot in the campfire glow.
 
 {{< image src="DSCF4775.jpg" alt="The Romanceur logo on the downtube of a bike in the glow of a campfire" >}}
 
@@ -174,7 +162,7 @@ Our small bridge crew catching back up to the rest of Bike Party. (Also shoutout
 
 {{< image src="R0006560.jpg" alt="Several people riding bikes with Kat in the foreground backlit by a 33 trolley bus." >}}
 
-## Last Minute Hawk Hills
+## Last Minute Hawk Hill
 
 It's starting to get dark so soon 😭. I went up Hawk Hill at the last minute one night it was going in and out of rain and drama. I saw a coyote wandering around Conzelman and turned up my music to scare it off. I love seeing them tho!
 
@@ -185,8 +173,6 @@ It's starting to get dark so soon 😭. I went up Hawk Hill at the last minute o
 Moody descent.
 
 {{< image src="DSCF4937.jpg" alt="Conzelman Rd in the dark facing fogged over hills" >}}
-
-The moon over the bridge was stunning. I would do this exact same ride every day.
 
 {{< image src="DSCF4934.jpg" alt="The moon over the Golden Gate Bridge and Salesforce tower." >}}
 
