@@ -41,9 +41,6 @@ async function resize(file) {
 async function main(path) {
   const dir = await fs.promises.opendir(path);
   for await (const file of dir) {
-    if (!higherQuality.some((x) => file.name.includes(x))) {
-      continue;
-    }
     if (!(file.isFile() && file.name.endsWith(".jpg"))) {
       continue;
     }
