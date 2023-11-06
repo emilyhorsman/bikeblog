@@ -3,8 +3,8 @@ date: "2023-11-06T08:03:52-08:00"
 title: "Quick Maintenance on the Hardtack and Egret"
 tags:
   - maintenance
-  - egret
   - weed can
+  - egret
 summary: My beloved Tanglefoot Hardtack is coming back to me! Logging some maintenance records here.
 resources:
   - src: "*16x9*"
