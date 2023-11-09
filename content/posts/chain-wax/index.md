@@ -1,5 +1,5 @@
 ---
-date: "2023-11-06T10:08:36-08:00"
+date: "2023-11-09T00:08:36-08:00"
 title: Chain Wax!
 summary: Alright nerds I did it, I waxed the chain for my e-bike's new drivetrain.
 series:
