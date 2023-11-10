@@ -16,7 +16,7 @@ tags:
 
 It's done! I've been running a waxed chain for a week now. It was easy and the result has been great, as far as I can tell. Jay had an old, reasonably small slow cooker lying around so I didn't even have to find a used 2qt one.
 
-I used an empty bottle and [Silca Chain Stripper](https://silca.cc/collections/chain-lube-wax/products/chain-stripper) to strip the chain of its factory grease. This is a Shimano [CN-LG500](https://bike.shimano.com/en-US/product/component/ep8-ep800/CN-LG500.html) chain. I rinsed the chain off directly in the sink. The chain stripper didn't get as dark as I expected after sitting and agitating. Then again, it's a new chain, and I think I used way more chain stripper than I intended because I didn't pick a good bottle. Next time I do this I'd find some container that lets me use a shallower pour of chain stripper and really shake up the chain. Things were a bit too tight here.
+I used an empty bottle and [Silca Chain Stripper](https://silca.cc/collections/chain-lube-wax/products/chain-stripper) to strip the chain of its factory grease. This is a Shimano [CN-LG500](https://bike.shimano.com/en-US/product/component/ep8-ep800/CN-LG500.html) chain. I rinsed the chain off directly in the sink. The chain stripper didn't get as dark as I expected after sitting and agitating. Then again, it's a new chain, and I think I used way more chain stripper than I intended because I didn't pick a good bottle. Also the chain did end up loud and clean to the touch. Next time I do this I'd find some container that lets me use a shallower pour of chain stripper and really shake up the chain. Things were a bit too tight here.
 
 {{< image src="DSCF4977.jpg" alt="A bunched up chain in an empty bottle filled with Silca chain stripper" >}}
 
