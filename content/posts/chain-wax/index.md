@@ -38,7 +38,7 @@ I agitated the chain thoroughly after the wax had fully melted and then took it 
 
 {{< image src="DSCF4991.jpg" alt="A close up view of the chain suspended over the slow cooker" >}}
 
-I let it cool for 20 minutes and then put it into a plastic bag with its quick link to take to the bike shop. I installed it on a new drivetrain a couple days later (post coming soon). It went smoothly! I didn't bother articulating the chain much to get the wax off. I installed it right in the new drivetrain with a bit of fiddling and it went well.
+I let it cool for 20 minutes and then put it into a plastic bag with its quick link to take to the bike shop. I installed it on a [new drivetrain]({{< ref "/posts/cues-drivetrain-upgrade-for-egret" >}}) a couple days later. It went smoothly! I didn't bother articulating the chain much to get the wax off. I installed it right in the new drivetrain with a bit of fiddling and it went well.
 
 {{< image src="DSCF5009.jpg" alt="A close up view of the waxed chain" >}}
 
