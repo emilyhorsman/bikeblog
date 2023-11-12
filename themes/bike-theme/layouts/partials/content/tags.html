@@ -1,6 +1,6 @@
 {{ with .page.GetTerms "tags" }}
   <div class="tags">
-    {{ $.text }}
+    {{ $.text | safeHTML }}
     <ul>
       {{ range first $.quantity . }}
         <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>

@@ -2,7 +2,7 @@
   {{ partial "content/heading.html" . }}
   {{ partial "content/series_list.html" . }}
   {{ .Content }}
-  {{ partial "content/tags.html" (dict "page" . "quantity" 10 "text" "Tags: ") }}
+  {{ partial "content/tags.html" (dict "page" . "quantity" 10 "text" "Tags:&nbsp;") }}
  
   <ul class="next-prev">
     {{ with .NextInSection }}

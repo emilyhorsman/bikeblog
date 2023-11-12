@@ -1,4 +1,15 @@
 {{ define "main" }}
   {{ partial "content/heading.html" . }}
+  <div class="tags">
+    <ul>
+      {{ range $key, $_ := $.Site.Taxonomies.tags }}
+      {{ with $.Site.GetPage (printf "/tags/%s" $key) }}
+      <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
+        <a href="{{ .RelPermalink }}">{{ .LinkTitle }} ({{ .Pages.Len }})</a>
+      </li>
+      {{ end }}
+      {{ end }}
+    </ul>
+  </div>
   {{ partial "content-list.html" . }}
 {{ end }}
