@@ -4,7 +4,7 @@
     <ul>
       {{ range first $.quantity . }}
         <li {{ with .Params.classes }}class="{{ range . }}{{ . }} {{ end }}"{{ end }}>
-          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+          <a href="{{ .RelPermalink }}">{{ .LinkTitle }}{{ if isset $ "text" }} ({{ .Pages.Len }}){{ end }}</a>
         </li>
       {{ end }}
     </ul>
