@@ -1,0 +1,13 @@
+{{ range .Pages.GroupByDate "2006" }}
+<h2>{{ .Key }} ({{ .Pages.Len }} posts)</h2>
+<ol class="content-list">
+  {{ range .Pages }}
+  {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
+  {{ $dateHuman := .Date | time.Format "Jan 2" }}
+  <li>
+    <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ol>
+{{ end }}
