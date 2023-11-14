@@ -35,9 +35,11 @@ Kat got the rest of the parts on and hooked up the next day. There's still some 
 
 {{< image src="DSCF5379.jpg" alt="A close up of the PAUL brake noodle sitting over the triangular tire knobs." >}}
 
+{{< image src="DSCF5374.jpg" alt="A close-up of a gold brake with the excess cable routed through its slot. It's mounted on a blue bike in a bike stand with a tanwall tire with black knobs." >}}
+
 {{< image src="DSCF5433.jpg" alt="A close up of the brass nipples and SimWorks Standalone 001 rim." >}}
 
-Take a nice long sniff of that saddle. Really curious if this Cambium saddle works out for her.
+Take a nice long sniff of that saddle. Really curious if this Cambium saddle works out for her — this one is on loan from the [Scenic Routes](https://www.scenicroutessf.com) saddle library.
 
 {{< image src="DSCF5381.jpg" alt="Me holding the bike in one arm with my eyes closed sniffing the saddle." >}}
 
