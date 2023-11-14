@@ -11,7 +11,7 @@ resources:
       alt: A close-up of a gold brake with the excess cable routed through its slot. It's mounted on a blue bike in a bike stand with a tanwall tire with black knobs.
 ---
 
-We have a complete build! We used a bunch of parts laying around just to start. Kat's gonna see if the fit works and if she likes the geometry. Then she'll build it how she really wants. This is also her attempt at running flat bars again. Her and I have both struggled with flat bars in the past — preferring the ergonomics of the hoods position on drop bars. It's a rad build nonetheless.
+We have a complete build! We used a bunch of parts lying around just to start. Kat's gonna see if the fit works and if she likes the geometry. Then she'll build it how she really wants. This is also her attempt at running flat bars again. She and I have both struggled with flat bars in the past — preferring the ergonomics of the hoods position on drop bars. It's a rad build nonetheless.
 
 We had a bit of a problem with her front wheel. This [Velocity KT](https://www.velocityusa.com/product/hubs/dynamo-hubs) dynamo hub has a defect and most of our QR skewers wouldn't pass through it. We found a DT Swiss one that would. We'll reach out to Velocity but this works for now. You can see that lip inside the hub axle when the wheel is held up to the light.
 
