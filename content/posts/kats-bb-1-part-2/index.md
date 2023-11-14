@@ -41,6 +41,6 @@ Take a nice long sniff of that saddle. Really curious if this Cambium saddle wor
 
 {{< image src="DSCF5381.jpg" alt="Me holding the bike in one arm with my eyes closed sniffing the saddle." >}}
 
-And here we are!
+And here we are! I love the black-and-silver look that we accidentally landed on. We still have a few tasks: greasing and adjusting the headset the frameset came with, dialing in the rear brake, and dialing in the shifting. Then it's just test riding.
 
 {{< image src="DSCF5429.jpg" alt="The completed bike with a 'Cars Ruin Cities' sticker on the bench the bike is leaning on." >}}
