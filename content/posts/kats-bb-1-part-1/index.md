@@ -11,7 +11,7 @@ resources:
       alt: A spinning tire between two blue chainstays. The chainstay in front says "Bridgestone"
 ---
 
-Kat has two types: people who like attention (me) and rigid steel mountain bikes from 1992. Her do-everything bike is a '92 Trek Multitrack 700. It's rad and has served her well — 4600 miles in 1.5 years — but its tire clearance is maxed out at about 700x42. This Bridgestone BB-1 frameset from eBay will be optimized for dirt with the largest tires we can fit in it. She finished her rear wheel build and we mounted up some [Ultradynamico 26x2.2" MARS](https://ultradynamico.com/products/mars-jff?variant=32926187880533) tires to see if they'd fit.
+Kat has two types: people who like attention (me) and rigid steel mountain bikes from 1992. Her do-everything bike is a '92 Trek Multitrack 700. It's rad and has served her well — 4600 miles in 1.5 years — but its tire clearance is maxed out at about 700x42. This 1992 Bridgestone BB-1 frameset from eBay will be optimized for dirt with the largest tires we can fit in it. She finished her rear wheel build and we mounted up some [Ultradynamico 26x2.2" MARS](https://ultradynamico.com/products/mars-jff?variant=32926187880533) tires to see if they'd fit.
 
 {{< image src="R0007271.jpg" alt="Triangular knobs on a tire inside a metallic blue rear triangle" >}}
 
