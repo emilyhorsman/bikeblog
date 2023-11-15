@@ -5,7 +5,12 @@
 <meta name="description" content="{{ . }}">
 {{ end }}
 <meta property="og:title" content="{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }}">
-<meta property="og:site_name" content="{{ .Site.Title}}">
+<meta property="og:site_name" content="{{ .Site.Title }}">
+
+{{- with .Resources.GetMatch "*16x9_2x.webp" -}}
+<meta property="og:image" content="{{ .RelPermalink }}">
+<meta property="og:image:alt" content="{{ .Params.alt }}">
+{{- end -}}
 
 <title>{{ if .IsHome }}Home{{ else }}{{ .Title }}{{ end }} • {{ .Site.Title }}</title>
 {{ partialCached "head/css.html" . }}
