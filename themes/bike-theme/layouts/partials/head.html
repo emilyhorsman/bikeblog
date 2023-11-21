@@ -17,3 +17,7 @@
 {{ with (.Site.GetPage "/posts").OutputFormats.Get "rss" -}}
   {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
 {{ end }}
+
+{{ if .IsHome }}
+<link rel="me" href="https://sfba.social/@emilymhorsman">
+{{ end }}
