@@ -1,5 +1,5 @@
 ---
-date: "2023-11-17T09:08:11-08:00"
+date: "2023-11-20T09:08:11-08:00"
 title: Loosey Brakus All-City v69
 tags:
   - projects
@@ -19,7 +19,7 @@ I could sell this bike, but in this used market, I wouldn't get nearly what I pu
 
 [^1]: This is sort of the bargain you accept going into building a complete bike from scratch. Especially one with a lot of bling-y fun parts.
 
-So here's where we're at: I loaned the original drivetrain from this bike to Kat to get her [Bridgestone BB-1]({{< ref "/posts/kats-bb-1-part-2" >}}) up and running; the rear rack is on [egret]({{< ref "/tags/egret" >}}) now; the front rack donated some hardware to egret; the BB-1 is getting some of the Yokozuna housing; the shift housing is corroded and too short; the grips are on egret; the Pitlock stuff needs to come off; the dynamo lights need to be hooked back up; and the brakes are a squeaky mess.
+So here's where we're at: I loaned the original drivetrain from this bike to Kat to get her [Bridgestone BB-1]({{< ref "/posts/kats-bb-1-part-2" >}}) up and running; the rear rack is on [egret]({{< ref "/tags/egret" >}}) now; the front rack donated some hardware to egret; the BB-1 is getting some of the Yokozuna housing; the shift housing is corroded; the grips are on egret; the Pitlock stuff needs to come off; the dynamo lights need to be hooked back up; and the brakes are a squeaky mess.
 
 I took the Pitlock seat collar off and replaced it with one of Kat's old collars. The only rub is that a different Pitlock skewer was stuck in it that needed to be removed first. This should never have had a locking skewer in it (the flanges need to be parallel, flat, and larger) and uh, it got stuck. So I took a hacksaw to it.
 
@@ -29,7 +29,7 @@ That worked out perfectly and I swapped the Pitlock thru axles for…maybe the o
 
 {{< image src="DSCF0061.jpg" alt="The top tube/seat tube junction of a bicycle in the stand with a Salsa Cycles seat collar from the previous picture and a sticker that reads 'we only have one flat earth and its just getting colder'." >}}
 
-Jay found a nice Sugino crank and some chainrings around the shop for this to be a 2x. I put a 9-speed 11-36t cassette on the hub, took the old 9-speed Alivio rear derailleur that [came with my e-bike](/posts/cues-drivetrain-upgrade-for-egret) (aww, they swapped parts! 🥹), and some old cheap Odyssey pedals. The Gorilla Monsoon isn't really meant to have a front derailleur on it. I tried several front derailleurs from the used bin and they all had the same issue: you couldn't get the right height without them sitting on the bottle cage mount or internal routing exit for a dropper. This frame is also intended to be fully housed and there's no stop for a front derailleur. So Jay and I put a [Problem Solvers braze-on adapter](https://problemsolversbike.com/products/braze-on-adaptor-clamps) and a new GRX derailleur on — these let you run housing all the way to the derailleur and frankly the action on these new toggle construction derailleurs feels really nice. I was gonna put a used Tiagra 4500 rear derailleur and sweet old Campagnolo front derailleur on for a full silver look but the latter couldn't clear the 36t cog[^2] and putting both a braze-on adapter and clamp-on housing stop to make the Campy front work just seemed silly.
+Jay found a nice Sugino crank and some chainrings around the shop for this to be a 2x. I put a 9-speed 11-36t cassette on the hub, took the old 9-speed Alivio rear derailleur that [came with my e-bike](/posts/cues-drivetrain-upgrade-for-egret) (aww, they swapped parts! 🥹), and some old cheap Odyssey pedals. The Gorilla Monsoon isn't really meant to have a front derailleur on it. I tried several front derailleurs from the used bin and they all had the same issue: you couldn't get the right height without them sitting on the bottle cage mount or internal routing exit for a dropper. This frame is also intended to be fully housed and there's no stop for a front derailleur. So Jay and I put a [Problem Solvers braze-on adapter](https://problemsolversbike.com/products/braze-on-adaptor-clamps) and a new GRX derailleur on — these let you run housing all the way to the derailleur and frankly the action on these new toggle construction derailleurs feels really nice. I was gonna put a used Tiagra 4500 rear derailleur and sweet old Campagnolo front derailleur on for a full silver look but the former couldn't clear the 36t cog[^2] and putting both a braze-on adapter and clamp-on housing stop to make the Campy front work just seemed silly.
 
 [^2]: Ugh!! The newer Tiagra 4700 stuff can easily clear above its specced lowest cog when you max out the b-screw.
 
