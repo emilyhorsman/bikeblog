@@ -11,6 +11,12 @@ const higherQuality = [
   "DSCF4930",
   "DSCF4937",
   "R0006412",
+  "R0007501",
+  "DSCF5260",
+  "DSCF5281",
+  "DSCF5342",
+  "R0007590",
+  "DSCF0182",
 ];
 
 async function resize(file) {
