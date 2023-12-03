@@ -122,6 +122,6 @@ I'm building a [Corsi-Rosenthal](https://cleanaircrew.org/box-fan-filters/) air 
 
 {{< image src="R0007594.jpg" alt="Looking at my bike handlebars with a stack of 3M filters on the basket" >}}
 
-Gus says bye! Also we hate ordering from Chewy but he's a special boy on a prescription diet and Chewy/PetSmart are the only places that will fill a food prescription. It's bullshit! There aren't even any active ingredients in the food! Anyway, [fuck Big Pet](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom). He does _love_ the box.
+Aaaaand it's Gus. Also we hate ordering from Chewy but he's a special boy on a prescription diet and Chewy/PetSmart are the only places that will fill a food prescription. It's bullshit! There aren't even any active ingredients in the food! Anyway, [fuck Big Pet](https://www.vox.com/future-perfect/2023/4/11/23673393/pets-dogs-cats-animal-welfare-boredom). He does _love_ the box.
 
 {{< image src="DSCF0440.jpg" alt="A buff tabby cat in a box with paper wrapping" >}}
