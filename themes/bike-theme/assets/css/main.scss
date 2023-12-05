@@ -1,7 +1,9 @@
+$light-bg-color: #ececec;
 $light-fg-accent: #444;
 $light-a-color: #bc46e1;
 $dark-fg-accent: #d0d0d0;
 $dark-a-color: #dc9eef;
+$dark-bg-color: Canvas;
 
 $gutter: 18px;
 $max-width: 768px;
@@ -22,7 +24,7 @@ $max-width: 768px;
 }
 
 body {
-  background-color: Canvas;
+  background-color: $light-bg-color;
   color: CanvasText;
   font-family: Georgia, serif;
   margin: 0;
@@ -321,6 +323,10 @@ ol ol {
 }
 
 @media (prefers-color-scheme: dark) {
+  body {
+    background-color: $dark-bg-color;
+  }
+
   main time {
     color: $dark-fg-accent;
   }
