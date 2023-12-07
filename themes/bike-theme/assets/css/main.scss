@@ -167,6 +167,7 @@ a {
   text-decoration-thickness: 2px;
   text-decoration-color: $light-a-color;
   color: currentColor;
+  overflow-wrap: break-word;
 
   &:hover,
   &:active {
