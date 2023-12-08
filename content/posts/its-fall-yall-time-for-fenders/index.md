@@ -2,7 +2,7 @@
 date: "2023-10-23T16:07:07-07:00"
 title: It’s Fall Y’all! 🎃💦 Time for Fenders
 tags:
-  - maintenance
+  - projects
   - egret
 summary: We're getting into wet season so I begrudingly put fenders on my e-bike. Kona was a bit sly about the tire/fender clearance so I used a heat gun to open up the rear fender clearance a bit. It worked but it looks real bad.
 resources:
