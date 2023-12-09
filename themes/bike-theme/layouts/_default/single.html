@@ -4,6 +4,7 @@
   {{ .Content }}
   {{ partial "content/tags.html" (dict "page" . "quantity" 10 "text" "Tags:&nbsp;") }}
  
+  {{ if (eq .Type "posts") }}
   <ul class="next-prev">
     {{ with .NextInSection }}
     <li>Next ({{ partial "content/time.html" . }}): <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
@@ -13,4 +14,5 @@
     <li>Prev ({{ partial "content/time.html" .}}): <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
     {{ end }}
   </ul>
+  {{ end }}
 {{ end }}
