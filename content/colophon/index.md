@@ -1,6 +1,5 @@
 ---
 date: "2023-12-08T18:53:07-08:00"
-draft: true
 title: Colophon
 ---
 

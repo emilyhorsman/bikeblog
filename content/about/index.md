@@ -8,6 +8,6 @@ title: About
 - Showing minor to major bike repair and preventative maintenance
 - Anti-car[ceral]
 - Delivered to your web browser in a reasonably small size
-- [Colophon](/colophon)
+- [Colophon]({{< ref "/colophon" >}})
 - Mommy blogging but for bikes (here is my son) and without the fluff
   {{< image src="P7082007.jpg" alt="a buff tabby cat named gus with his birthday cake toy" width=384 >}}
