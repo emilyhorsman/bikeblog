@@ -9,6 +9,7 @@ resources:
     params:
       alt: My hand in a blue wool glove on a brake lever while riding. On the left is a mirror and on the right is a bell.
 summary: Experimenting with some saddle and brake lever adjustments; leash training Gus again; Sarah's new paracord brake locks; and other miscellania.
+repair: Increased saddle height and rotated brake levers downwards.
 ---
 
 This blog post is very 'in the spirit of documenting every little thing in the ownership of my bikes.'

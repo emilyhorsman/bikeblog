@@ -10,6 +10,7 @@ resources:
   - src: "*16x9*"
     params:
       alt: A wheel in a truing stand with a person standing behind it with a tension meter.
+repair: Fixed lateral deviation in rear wheel and installed new derailleur hanger.
 ---
 
 I like to keep a spare derailleur hanger for each of my bikes. These consumable parts connect your rear derailleur to the frame. They are designed to bend when your drivetrain is impacted, instead of your derailleur or frame getting damaged.

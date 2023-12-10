@@ -6,7 +6,13 @@
   {{ $dateHuman := .Date | time.Format "Jan 2" }}
   <li>
     <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">
+      {{ .Title }}
+      {{ if eq $.Section "tags" }}
+      {{ with .Params.repair }}
+      <span class="repair">{{ . }}</span>
+      {{ end }}{{ end }}
+    </a>
   </li>
   {{ end }}
 </ol>

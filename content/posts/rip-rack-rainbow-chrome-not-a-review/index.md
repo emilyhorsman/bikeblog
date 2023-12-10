@@ -9,6 +9,7 @@ resources:
   - src: "*16x9*"
     params:
       alt: A close-up of the tubing on a RIP Rack in GSC Rainbow Chrome with rainbow sparkles glistening.
+repair: Removed Rawland front rack and installed RIP Rack.
 ---
 
 I built my Hardtack ([weed can]({{< ref "/tags/weed-can" >}})) with a Rawland Cycles Rando rack. I stole this for [egret]({{< ref "/tags/egret" >}}) when I got it because the Rene Herse with the integrated bolt didn't fit through the fork crown. tbh the Rawland might be my favourite front rack but I've been curious about the [RIP Rack](https://wearestuntdoubles.com/product/new-rip-rack-composite-product). The pre-order timing for the GSC Rainbow Chrome color was perfect for egret.

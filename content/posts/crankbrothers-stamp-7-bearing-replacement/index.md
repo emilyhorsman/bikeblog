@@ -11,6 +11,7 @@ resources:
   - src: "*16x9*"
     params:
       alt: A variety of pedal components arranged in the right order for assembly
+repair: Replaced bearings in right pedal.
 ---
 
 I got a [refresh kit](https://www.crankbrothers.com/collections/pedal-accessories/products/pedal-refresh-kit-stamp-7-11) for my pedals and just serviced them — no more play! Here's the pedal before service.

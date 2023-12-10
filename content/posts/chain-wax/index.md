@@ -12,6 +12,7 @@ tags:
   - drivetrain
   - maintenance
   - egret
+repair: Switched to a waxed chain.
 ---
 
 It's done! I've been running a waxed chain for a week now. It was easy and the result has been great, as far as I can tell. Jay had an old, reasonably small slow cooker lying around so I didn't even have to find a used 2qt one.

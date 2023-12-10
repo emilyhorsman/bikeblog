@@ -11,6 +11,7 @@ resources:
   - src: "*16x9*"
     params:
       alt: A Crankbrothers Stamp 7 left pedal in a bench vise beside a drill with a bolt extractor and grease port screw hanging on the bolt extractor
+repair: Removed sezied grease port screw on left pedal and replaced its bearings.
 ---
 
 Success! The grease port screw on my left pedal was seized. I couldn't get enough torque into it to free it without camming out. I hate when bike products use Philips heads.

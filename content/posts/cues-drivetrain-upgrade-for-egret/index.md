@@ -11,6 +11,7 @@ resources:
   - src: "*16x9*"
     params:
       alt: The drivetrain of a blue e-bike with a new Shimano CUES cassette, derailleur, and chainring.
+repair: Replaced chain, cassette, shifter, derailleur, and chainring with a Shimano CUES groupset.
 ---
 
 Egret has a new drivetrain! This bike has had [inboard chain retention]({{< ref "/posts/1x-ebike-chain-retention-problems" >}}) and minor shifting issues. I've wondered if a clutched derailleur, narrow-wide chainring, and [Linkglide]({{< ref "/posts/linkglide-di2-incompatible-with-e6100#why-linkglide-and-di2" >}}) would help. I've also wanted to try the new CUES groupset.

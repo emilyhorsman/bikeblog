@@ -9,6 +9,7 @@ resources:
   - params:
       alt: A blue e-bike with black fenders resting on an oak tree beside a dirt path surrounded by other old oaks
     src: "*16x9*"
+repair: Installed fenders.
 ---
 
 I've resisted putting fenders on any of my bikes — I don't love the aesthetic, they feel fragile, and you still need to wear rain gear anyway. However, my Kona Dew-E came with cheap plastic[^1] fenders and some of my favourite riding has been in the wet seasons. I had taken them off when I assembled it but we've started getting rain in San Francisco and I figure it's time. Besides, they protect your drivetrain too and I think it's responsible to have things last as long as possible.
