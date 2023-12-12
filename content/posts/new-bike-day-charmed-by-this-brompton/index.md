@@ -66,6 +66,8 @@ Also, it's so fun to fold and unfold!! I should probably get the [SimWorks Bubbl
 
 {{< image src="R0007762-16x9.jpg" alt="A close-up of the mainframe and drivetrain of a Brompton." >}}
 
+Aside: this [article on the difference wheel size makes](https://www.starlingcycles.com/what-difference-does-wheel-size-really-make) by Starling Cycles blew my mind.
+
 Gus approves of the goofy bike.
 
 {{< image src="DSCF0633.jpg" alt="A buff tabby cat behind the 16 inch Brompton wheel sniffing the tire valve." >}}
