@@ -56,10 +56,15 @@ All the little braze-ons make great places to shove a stick to keep the bike upr
 
 {{< image src="R0007780.jpg" alt="A stick wedged between the ground and a braze-on of the rear triangle of a Brompton." >}}
 
-I'm excited to see if Kat can ride this, too. It'd be the only bike we can share if so, normally our bike sizes are too far apart. Which reminds me, it was wild to me that I'm 5'8" and max out the stock seatpost height.
+I'm excited to see if Kat can ride this, too. It'd be the only bike we can share if so, normally our bike sizes are too far apart. Which reminds me, it's wild to me that I'm 5'8" and max out the stock seatpost height (with the Pentaclip at its lowest, mind you).
 
 {{< image src="R0007786.jpg" alt="A Brompton on a wooded path with its rear triangle folded up in 'parking' position." >}}
+
+Also, it's so fun to fold and unfold!! I should probably get the [SimWorks Bubbly Ezy](https://www.sim.works/collections/pedals-simworks-by-mks/products/bubbly-pedal-ez-superior) pedals for it so that I can match Ben's Romanceur.
+
+{{< image src="R0007762-16x9.jpg" alt="A close-up of the mainframe and drivetrain of a Brompton." >}}
 
 Gus approves of the goofy bike.
 
 {{< image src="DSCF0633.jpg" alt="A buff tabby cat behind the 16 inch Brompton wheel sniffing the tire valve." >}}
+
