@@ -1,5 +1,5 @@
 ---
-date: "2023-12-11T20:14:46-08:00"
+date: "2023-12-12T00:14:46-08:00"
 title: New Bike Day! Brompton C Line Explore
 summary: Get a load of that brazing, folks. Reclaiming TERF Island.
 resources:
@@ -8,23 +8,23 @@ resources:
       alt: A close-up of the mainframe and drivetrain of a Brompton.
 ---
 
-I won a [Brompton](https://us.brompton.com) C Line Explore from a raffle by [CicLAvia](https://www.ciclavia.org/). I've been to the [Heart of LA](https://www.ciclavia.org/heart_of_la23) event several times and highly recommend it. LA is an incredible city but has an enormous car problem. CicLAvia blocks cars from streets in different neighborhoods and they run events pretty frequently! I was in LA on a credit card touring trip just after a complicated break-up and stumbled upon CicLAvia for the first time and had an amazing time. Anyway, that's my plug for CicLAvia. Bikes! No cars! In LA!
+I won a [Brompton](https://us.brompton.com) C Line Explore from a raffle by [CicLAvia](https://www.ciclavia.org/). I've been to the [Heart of LA](https://www.ciclavia.org/heart_of_la23) event several times and highly recommend it. LA is an incredible city but has an enormous car problem. CicLAvia blocks cars from streets in different neighborhoods and runs events frequently! I was in LA on a credit card touring trip just after a complicated break-up and stumbled upon CicLAvia for the first time and had an amazing time. Anyway, that's my plug for CicLAvia. Bikes! No cars! In LA!
 
 Brompton sent me the silver variant in Black Lacquer — a semi-transparent finish that lets you see the brazed construction. Look at this lil cutie.
 
 {{< image src="R0007760.jpg" alt="A Brompton C Line Explore in Black Lacquer standing on green grass surrounded by maple leafs." >}}
 
-I'm sick right now so I haven't gotten to take it out on a long ride yet. But I did get it out for a few kilometers and I'm very, very charmed. I'm kind of the queen of riding a bike or new component for a couple hundred kilometers and thinking it's incredible until I eventually have problems with it. So who knows. Of course I won't shut up about my developing impressions of it on this blog.
+I'm sick right now so I haven't gotten to take it out on a long ride yet. But I got it out for a few kilometers and am very, very charmed. I'm kind of the queen of riding a bike or new component for a couple hundred kilometers and thinking it's incredible until I eventually have problems with it. So who knows. Of course I won't shut up about my developing impressions of it on this blog.
 
-It handles so differently from any bike I'm used to. Its nimbleness and light steering are a wild change from my usual bikes that all feature slack front-ends. I like riding slow, stable bikes that give me a lot of confidence but the Brompton is a super fun change of pace. And it feels more stable than the road-oriented bikes I've ridden.[^1]
+It handles so differently from any bike I'm used to. Its nimbleness and light steering are a wild change from my usual bikes that all feature slack front-ends. I like riding slow, stable bikes that give me confidence but the Brompton is a super fun change of pace. And it feels more stable than the road-oriented bikes I've ridden.[^1]
 
 [^1]: As an aside, the Brompton has me turning the handlebars way more to steer (presumably lower trail) and it's kind of jarring to suppress the instincts my body has to lean to steer. I bring this up because the other day I tried and utterly failed to ride a trike. I kept trying to lean from side-to-side instead of actually turning the bars.
 
 Anywho, I was pretty impressed with how it came out of the box from the distributor. I've assembled many complete bikes from a box and they all have numerous problems. My beloved [egret]({{< ref "/tags/egret" >}}) had so many things to address out of the box. So far the only few I've found on the Brompton are: the seatpost is slipping; the front fender is misaligned a smidge; the barrel adjusters were unintentionally turned out some (presumably just shook loose in shipping, not much to do about that).
 
-I have no idea if this bike is going to work for me, living in San Francisco. I'm not a strong rider and this bike comes out of the box with 33 gear inches as its easiest gear. Wild. Which leads me to the (only?) two things I'm planning on changing from stock right away: swapping the grips and swapping the 50T chainring to a 38T. This will take the range from 33 – 100 to 25 – 76 gear inches. That 25" easiest gear is a whole lot harder than my [Hardtack]({{< ref "/tags/weed-can" >}})'s 15.6" gear. I'm sure the Brompton will push me a bit but I'm also really excited to see if the Brompton will add more multi-modal trips to my life. You can't bring bikes on the Muni light rail vehicles but you could totally bring a folded-up Brompton.
+I have no idea if this bike will work for me, living in San Francisco. I'm not a strong rider and this bike comes out of the box with 33 gear inches as its easiest gear. Wild. Which leads me to the (only?) two things I plan on changing from stock right away: swapping the grips and swapping the 50T chainring to a 38T. This will take the range from 33 – 100 to 25 – 76 gear inches. That 25" easiest gear is a whole lot harder than my [Hardtack]({{< ref "/tags/weed-can" >}})'s 15.6" gear. I'm sure the Brompton will push me a bit but I'm also really excited to see if the Brompton will add more multi-modal trips to my life. You can't bring bikes on the Muni light rail vehicles but you could totally bring a folded-up Brompton.
 
-I have found that climbing hills isn't as hard as I thought it was going to be though. But I also haven't even touched the top third of my gear range yet. (Also! 8 kilometers ridden so far!) Get a load of that massive 50T ring. The 50T ring with the 16 inch wheels has a very "51t pie plate cassette on 26 inch wheel" effect. But we love goofy!
+I have found that climbing hills isn't as hard as I thought it was going to be though. But I haven't even touched the top third of my gear range yet. (Also! Only 8 kilometers ridden so far!) Get a load of that massive 50T ring. The 50T ring with the 16-inch wheels has a very "51t pie plate cassette on 26-inch wheel" effect. But we love goofy!
 
 {{< image src="R0007740.jpg" alt="A close-up of the Brompton drivetrain with a very large chainring" >}}
 
@@ -34,7 +34,7 @@ Now that we're looking at photos, check out this _brazing_. Also oops I did wax 
 
 {{< image src="R0007729.jpg" alt="The brazing showing through the transparent lacquered finish over the bottom bracket shell." >}}
 
-Some other cool things I learned: it's got a 74mm OLD front hub[^2] and the bumper where the hinged rear triangle meets up with the seat tube acts as suspension. Which you can really feel! I went over an unfinished road surface today and the front of the bike felt _horrible_ (was visibly vibrating) but you could barely tell at the rear of the bike.
+Some other cool things I learned: it's got a 74mm OLD front hub[^2] and the bumper where the hinged rear triangle meets up with the seat tube acts as suspension. Which you can really feel! I went over an unfinished road surface yesterday and the front of the bike felt _horrible_ (it was visibly vibrating) but you could barely tell at the rear of the bike.
 
 [^2]: Check out [these wacky SON dynamo 74mm OLD hubs](https://nabendynamo.de/en/products/hub-dynamos/for-folding-bikes/).
 
