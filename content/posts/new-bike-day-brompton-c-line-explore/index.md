@@ -1,16 +1,16 @@
 ---
 date: "2023-12-11T20:14:46-08:00"
 title: New Bike Day! Brompton C Line Explore
-summary: Get a load of that brazing, folks. Appropriating a Brompton from TERF Island.
+summary: Get a load of that brazing, folks. Reclaiming TERF Island.
 resources:
   - src: "*16x9*"
     params:
       alt: A close-up of the mainframe and drivetrain of a Brompton.
 ---
 
-I won a [Brompton](https://us.brompton.com) C Line Explore from a raffle by [CicLAvia](https://www.ciclavia.org/). I've been to the Heart of LA event several times and highly recommend it. LA is an incredible city but has an enormous car problem. CicLAvia blocks cars from streets in different neighborhoods and they run events pretty frequently! I was in LA on a credit card touring trip just after a complicated break-up and stumbled upon CicLAvia for the first time and had an amazing time. Anyway, that's my plug for CicLAvia. Bikes! No cars! In LA!
+I won a [Brompton](https://us.brompton.com) C Line Explore from a raffle by [CicLAvia](https://www.ciclavia.org/). I've been to the [Heart of LA](https://www.ciclavia.org/heart_of_la23) event several times and highly recommend it. LA is an incredible city but has an enormous car problem. CicLAvia blocks cars from streets in different neighborhoods and they run events pretty frequently! I was in LA on a credit card touring trip just after a complicated break-up and stumbled upon CicLAvia for the first time and had an amazing time. Anyway, that's my plug for CicLAvia. Bikes! No cars! In LA!
 
-Brompton sent me the silver variant in Black Lacquer — a semi-transparent finish that lets you see the brazing. Look at this lil cutie.
+Brompton sent me the silver variant in Black Lacquer — a semi-transparent finish that lets you see the brazed construction. Look at this lil cutie.
 
 {{< image src="R0007760.jpg" alt="A Brompton C Line Explore in Black Lacquer standing on green grass surrounded by maple leafs." >}}
 
@@ -62,7 +62,7 @@ I'm excited to see if Kat can ride this, too. It'd be the only bike we can share
 
 {{< image src="R0007786.jpg" alt="A Brompton on a wooded path with its rear triangle folded up in 'parking' position." >}}
 
-Also, it's so fun to fold and unfold!! I should probably get the [SimWorks Bubbly Ezy](https://www.sim.works/collections/pedals-simworks-by-mks/products/bubbly-pedal-ez-superior) pedals for it so that I can match Ben's Romanceur.
+Also, it's so fun to fold and unfold!! Especially in the 'parked' position — the most flick-y part of the fold. The left pedal folds out of the way for the complete fold. I should probably get the [SimWorks Bubbly Ezy](https://www.sim.works/collections/pedals-simworks-by-mks/products/bubbly-pedal-ez-superior) pedals for it so that I can match Ben's Romanceur.
 
 {{< image src="R0007762-16x9.jpg" alt="A close-up of the mainframe and drivetrain of a Brompton." >}}
 
