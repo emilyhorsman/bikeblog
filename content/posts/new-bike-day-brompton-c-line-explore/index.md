@@ -34,9 +34,10 @@ Now that we're looking at photos, check out this _brazing_. Also oops I did wax 
 
 {{< image src="R0007729.jpg" alt="The brazing showing through the transparent lacquered finish over the bottom bracket shell." >}}
 
-Some other cool things I learned: it's got a 74mm OLD front hub[^2] and the bumper where the hinged rear triangle meets up with the seat tube acts as suspension. Which you can really feel! I went over an unfinished road surface yesterday and the front of the bike felt _horrible_ (it was visibly vibrating) but you could barely tell at the rear of the bike.
+Some other cool things I learned: it's got a 74mm OLD[^3] front hub[^2] and the bumper where the hinged rear triangle meets up with the seat tube acts as suspension. Which you can really feel! I went over an unfinished road surface yesterday and the front of the bike felt _horrible_ (it was visibly vibrating) but you could barely tell at the rear of the bike.
 
 [^2]: Check out [these wacky SON dynamo 74mm OLD hubs](https://nabendynamo.de/en/products/hub-dynamos/for-folding-bikes/).
+[^3]: Over Locknut Distance: https://www.sheldonbrown.com/gloss_n-o.html#old
 
 {{< image src="R0007746.jpg" alt="The front hub of a Brompton 16 inch wheel in its fork." >}}
 
