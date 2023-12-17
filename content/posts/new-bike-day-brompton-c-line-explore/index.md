@@ -6,6 +6,8 @@ resources:
   - src: "*16x9*"
     params:
       alt: A close-up of the mainframe and drivetrain of a Brompton.
+tags:
+  - brompton
 ---
 
 I won a [Brompton](https://us.brompton.com) C Line Explore from a raffle by [CicLAvia](https://www.ciclavia.org/). I've been to the [Heart of LA](https://www.ciclavia.org/heart_of_la23) event several times and highly recommend it. LA is an incredible city but has an enormous car problem. CicLAvia blocks cars from streets in different neighborhoods and runs events frequently! I was in LA on a credit card touring trip just after a complicated break-up and stumbled upon CicLAvia for the first time and had an amazing time. Anyway, that's my plug for CicLAvia. Bikes! No cars! In LA!
