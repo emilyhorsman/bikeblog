@@ -57,3 +57,12 @@ A mechanic working on many Bromptons told me that the quick release nut is alway
 The official Brompton YouTube channel says to have at most 3mm of exposed thread past the nylock ([timestamped video](https://youtu.be/KIA8ylq_-Po?si=PaZtBsdx2wN7yv4k&t=262)). I tightened it bit by bit until I hit that 3mm point and this did not fix my issue.
 
 I've also heard that the seat post sleeve is over-reamed from the factory. This means you need to get a new one and have it reamed with a Brompton-specific tool.
+
+## Dream Future
+
+If this bike works for me then there's a number of things I'll probably do over time.
+
+1. Dynamo hub and lights. I'd have Kat build them! Brompton's store sells wheels with an [SP-8-FC hub](https://www.sp-dynamo.com/series8-sv8fc) in them. I'd probably do a [SON XS](https://nabendynamo.de/en/products/hub-dynamos/for-folding-bikes/) over a [SP (Shutter Precision)](https://www.sp-dynamo.com/series9-sv9fc) due to reliability concerns and wholesale availability. I'm not sure whether I'd do the semi-radially laced SON XS or the klassik. I've asked SON for more details on the semi-radial lacing.
+1. Replace the dust caps on the crank bolts with bronze or brass ones, just for aesthetics.
+1. [Bubbly quick-release pedals](https://www.sim.works/collections/pedals-simworks-by-mks/products/bubbly-pedal-ez-superior)!! I'm gonna try Ben's on this bike and see if I like them.
+1. Maybe a rear rack or easy wheels or mudguard wheel extenders (I can't imagine those work well) or something to make the Brompton a little more rollable. 3rd-party easy wheels look nicer than the Brompton ones but using them (at least on your rear frame?) voids your warranty. The Brompton ones are designed to be a crumple zone to protect the rear frame.
