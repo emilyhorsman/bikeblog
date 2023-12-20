@@ -2,7 +2,6 @@
 date: "2023-12-19T09:33:51-08:00"
 title: Initial Brompton Setup
 summary: Started getting the Brompton dialed in so I can give it a proper try. Really liking it so far! I had to take it to a Brompton dealer for a slipping seatpost though.
-draft: true
 resources:
   - src: "*16x9*"
     params:
