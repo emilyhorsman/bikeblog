@@ -8,7 +8,8 @@ resources:
       alt: The front of a Brompton in a bike stand highlighting the handlebars with new grey Ergon grips.
 tags:
   - projects
-  - brompton
+  - n judah explore
+repair: Fixed front fender, tuned up brake reach, fixed cable end crimping, adjusted rear hub play, swapped to Ergon GS1 Evo grips, flipped the Pentaclip around, put a 38T chainring on, put a PAUL Gino light mount on, brought handlebar pitch inwards, and did my best for the seatpost slipping.
 ---
 
 ## Things To Fix
