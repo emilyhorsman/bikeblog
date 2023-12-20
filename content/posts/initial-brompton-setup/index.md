@@ -1,5 +1,5 @@
 ---
-date: "2023-12-19T09:33:51-08:00"
+date: "2023-12-20T00:33:51-08:00"
 title: Initial Brompton Setup
 summary: Started getting the Brompton dialed in so I can give it a proper try. Really liking it so far! I had to take it to a Brompton dealer for a slipping seatpost though.
 resources:
@@ -13,7 +13,9 @@ tags:
 
 ## Things To Fix
 
-Most nearly-assembled bikes from a factory have a litany of problems. It's one reason I'm against direct-to-consumer bikes.[^3] Sure, they tell you to take them to a bike shop for assembly. But that's a bad deal for the bike shop.[^1] And if the bike doesn't get to a trained mechanic then many subtle problems could be missed — or one might not realize something could/should be better. My [Kona Dew-E]({{< ref "/tags/egret" >}}) had so many things to adjust.[^2] My Brompton came folded up in the box from the distributor and the only assembly was putting the saddle/Pentaclip on.
+Most nearly-assembled bikes from a factory have a litany of problems. It's one reason I'm against direct-to-consumer bikes.[^3] Sure, they tell you to take them to a bike shop for assembly. But that's a bad deal for the bike shop.[^1] And if the bike doesn't get to a trained mechanic then many subtle problems could be missed — or one might not realize something could/should be better. My [Kona Dew-E]({{< ref "/tags/egret" >}}) had so many things to adjust.[^2]
+
+The Brompton came folded up in the box from the distributor and the only assembly was putting the saddle/Pentaclip on.
 
 [^1]: Bike shop doesn't get the margin from a sale. But they get a shitty margin on the high-labor task of assembling a random direct-to-consumer bike. Of course, some are better than others.
 [^2]: A particularly annoying one just as an example: the battery mount was not correctly setup. This made it very hard to get the battery in and out. Eventually the mount loosened up enough that the battery lock didn't even retain the battery. I once had the battery fall out when I accidentally put some pressure on it while carrying the bike. Shimano offers a gauge to align and set the length of the battery mount correctly. But that's a niche tool and kind of expensive.
@@ -23,7 +25,6 @@ Most nearly-assembled bikes from a factory have a litany of problems. It's one r
 1. The barrel adjusters on the brakes were loose and in different states out of the box. They probably shook loose during shipping.
 1. The front fender was misaligned — was able to fix by just rotating the whole assembly at the crown bolt a smidge.
 1. The cable ends weren't well crimped. I was adjusting the rear brake and its crimped end came off trivially. I swapped them for some pale pink ends.
-1. I loosened the axle nuts to ensure the wheels were fully seated in the drop outs. I'm not fully convinced the axle nuts were as tight as they should be.
 1. I think the rear hub had a little more play than it should have. I took the wheel out and tightened the cone from the non-drive side a smidge.
 
 Honestly pretty great for a bike from the internet! Minus the seatpost slipping.
@@ -32,12 +33,13 @@ Honestly pretty great for a bike from the internet! Minus the seatpost slipping.
 
 ## Fit Tweaks
 
-The stock grips and handlebar backsweep are not great. The (lack of) backsweep puts my wrists in radial deviation. I swapped the grips for the [Ergon GS1 Evos](https://www.ergonbike.com/en/product-details.html?anr=42410015&s=gsevo&a=griffe). They don't fit all the way on the bar — they're about 15mm short. I think that's probably fine for the riding the Brompton will be doing. Ergon tells you not to do this. I also got the large size and might try the small. That would happen to take less grip space, too. It's worth nothing that an Ergon grip with an external clamp bolt instead of internal clamp bolt (like a [GP1](https://www.ergonbike.com/en/product-details.html?anr=42410300&s=gptouring&a=griffe)) may not have worked.
+The stock grips and handlebar backsweep are not great. The (lack of) backsweep puts my wrists in radial deviation. I swapped the grips for the [Ergon GS1 Evos](https://www.ergonbike.com/en/product-details.html?anr=42410015&s=gsevo&a=griffe). They don't fit all the way on the bar — they're about 15mm short. I think that's probably fine for the riding the Brompton will be doing. Ergon tells you not to do this.
+
+I got the large size but might try the small. I'm right on the sizing border (~8.5" hand circumference) and can't decide if a smaller grip would feel better. It would happen to take less grip space, too. It's worth nothing that an Ergon grip with an external clamp bolt instead of internal clamp bolt (like a [GP1](https://www.ergonbike.com/en/product-details.html?anr=42410300&s=gptouring&a=griffe)) may not have worked.
 
 I brought the brake lever reach in — especially needed with the larger Ergon grips.
 
 {{< image src="DSCF0709-16x9.jpg" alt="The front of a Brompton in a bike stand highlighting the handlebars with new grey Ergon grips." >}}
-
 
 The standard seatpost is just barely long enough for me. I'm 5'8" and flipped the Pentaclip over to have the saddle rails biased upwards. I also placed the Pentaclip further up the seatpost. tbh I really like the Pentaclip. I usually don't like single-bolt seatposts where fore/aft, height, and saddle pitch are all on the same assembly. But the Pentaclip works surprisingly smoothly. It might just be manufactured well. Not sure. The bolt it comes with is weirdly soft for something specced at 15 Nm though.
 
@@ -79,7 +81,7 @@ Brompton seatposts are designed to operate grease-free. Any contaminant, includi
 
 But nowhere do they explicitly say not to touch the seatpost with your hands, which seems to be the long-term solution for many.
 
-A mechanic working on many Bromptons told me that the quick release nut is always under tightened from the factory. There's some mixed messaging on how much you can safely tighten this before you risk frame damage. The seat clamp [datasheet](https://us.brompton.com/support/bikes/c-line/manuals-and-datasheets) says:
+A mechanic who's worked on many Bromptons told me that the quick release nut is frequently under tightened from the factory. There's some mixed messaging on how much you can safely tighten this before you risk frame damage. The seat clamp [datasheet](https://us.brompton.com/support/bikes/c-line/manuals-and-datasheets) says:
 
 >As a guide, with the seat clamp lever forward (i.e. done up), the adjustor nut AN should be tightened with a torque in the range 4-7NM and the maximum closing force needed at the end of the lever while securing the clamp should lie in the range 80-120N. The correct setting will depend on the weight and strength of the user.
 
