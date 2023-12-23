@@ -2,7 +2,6 @@
 date: "2023-12-23T13:43:52-08:00"
 title: Seatpost Mounted SON DC Rear Light
 summary: New rear light with tidier wiring.
-draft: true
 resources:
   - src: "*16x9*"
     params:
