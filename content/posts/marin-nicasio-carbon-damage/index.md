@@ -13,11 +13,11 @@ tags:
 
 My Marin Nicasio 2 is the first bike I bought when I moved back to San Francisco. It's still the bike I have the most mileage on and I've been through a lot with it. I haven't ridden it for a long while due to bike fit and health problems. It's a more aggressive position than the bikes I tend to ride these days. But my wrist issues are getting managed and I keep learning more about how to get comfortable on a bike.
 
-My other bikes are objectively more rad but I keep missing this bike. Especially after riding the Brompton since it's got that more nimble and responsive feeling to it — like the Marin does — that my slacker, chiller bikes don't. There _was_ a point where this bike felt like a glove, that wonderful feeling of having the bike be an extension of your body. It has the most miles on it of any bike I own — and all the scratches from that. I feel like it doesn't take long for a bike to look well-used.
+My other bikes are objectively more rad but I keep missing this bike. Especially after riding the Brompton since it's got that more nimble and responsive feeling to it — like the Marin does — that my slacker, chiller bikes don't. There _was_ a point where this bike felt like a glove, that wonderful feeling of having the bike be an extension of your body.
 
 {{< image src="DSCF0937.jpg" alt="The front triangle of a sparkly blue bicycle in a work stand. The down tube reads 'Marin' and the top tube has a sticker on it that reads 'Be Gay and Smoke Weed'." >}}
 
-I'm going to get this bike rolling again. It'll be with the stock 700c wheels. I built 650b wheels for this bike but Kat rebuilt them for [egret]({{< ref "/tags/egret" >}}). Those 650b wheels had centerlock hubs and I think my lack of caution there damaged the fork from lockring rub. (At least, that's the working theory. Shoutout to bean for pointing it out.)
+I'm going to slowly try to get back on to this bike again. It'll be with the stock 700c wheels. I built 650b wheels for this bike but Kat rebuilt them for [egret]({{< ref "/tags/egret" >}}). Those 650b wheels had centerlock hubs and I think my lack of caution there damaged the fork from lockring rub. (At least, that's the working theory. Shoutout to bean for pointing it out.)
 
 {{< image src="DSCF0932-16x9.jpg" alt="A close-up of the inner face of the non-drive side fork leg. There's a section where paint has been worn away and shows scraped-up carbon layup underneath." >}}
 
