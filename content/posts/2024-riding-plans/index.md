@@ -47,6 +47,9 @@ Notably this is all stuff that doesn't involve the abhorrent act of throwing you
 1. [Iron Horse Trail](https://www.ebparks.org/trails/interpark/iron-horse)
 
     We missed when East Bay Bike Party went through here at night but tbh I want to go through during the day anyway. 31 miles of car-free, flat multi-use path for when I want something chill! BART to Walnut Creek and visit [Riv](https://www.rivbike.com) at the same time. Another good one for the Brompton.
+1. [Lake Chabot](https://www.ebparks.org/parks/lake-chabot)
+
+    Once again Bay Area Rides has a [good page](https://bayarearides.com/rides/lakechabot/). Can get there from either Bay Fair or Castro Valley BART. Gotta scope out which one's chiller.
 
 ## Tried and True
 
