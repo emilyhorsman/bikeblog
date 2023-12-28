@@ -1,7 +1,7 @@
 ---
 date: "2023-12-27T12:10:40-08:00"
 title: Kat’s Bridgestone BB-1 Part 4
-summary: TODO
+summary: It's been a while! We did a short-lived 2x experiment, put on a thinner rear tire, switched to friction shifting, and racked up.
 draft: true
 resources:
   - src: "*16x9*"
@@ -39,7 +39,7 @@ So, this is the second strike on rear tire width (see [part 1]({{< ref "/posts/k
 
 ## Gearing
 
-The 11-42t with 24/40 had a gear range of 15.1–96.1 gear inches. The 11-51t with 28t chainring gives a range of 14.5–67.2 gear inches. And the same with a 32t chainring gives a range of 16.6–76.9 gear inches. There's a 32t on order. That's a top speed of 20.6mph when pedalling at 90 RPM. Totally sufficient (in general but definitely for this bike).
+The 11-42t with 24/40 had a gear range of 15.1–96.1 gear inches. The 11-51t with 28t chainring gives a range of 14.5–67.2 gear inches. And the same with a 32t chainring gives a range of 16.6–76.9 gear inches. There's a 32t on order. That's a top speed of 20.6mph when pedalling at 90 RPM. Totally sufficient (in general but definitely for this bike). The same cadence on the 24/40 gets you 25.7mph.
 
 outline:
 
