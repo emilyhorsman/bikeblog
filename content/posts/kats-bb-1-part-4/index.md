@@ -1,12 +1,11 @@
 ---
-date: "2023-12-27T12:10:40-08:00"
+date: "2023-12-28T12:10:40-08:00"
 title: Kat’s Bridgestone BB-1 Part 4
 summary: It's been a while! We did a short-lived 2x experiment, put on a thinner rear tire, switched to friction shifting, and racked up.
-draft: true
 resources:
   - src: "*16x9*"
     params:
-      alt: TODO
+      alt: A blue and gold bicycle propped up with a stick in a misty forest. The bike has a dark tanwall rear tire and a medium tanwall front tire. There are silver cranks and a silver front rack with a burgundy bag.
 tags:
   - projects
   - bb-1
@@ -35,16 +34,16 @@ BUT! Kat ended up going back to a 1x for a couple of reasons:
 1. Preferred the experience of a 1x on trails once it had a friction thumb shifter instead of the SRAM trigger shifter she didn't vibe with.
 1. The clearance between the tire and chain in the easiest gear was really tight. Even with a 127.5mm spindle bottom bracket.
 
-So, this is the second strike on rear tire width (see [part 1]({{< ref "/posts/kats-bb-1-part-1" >}})).
+So, this is the second strike on rear tire width (see [part 1]({{< ref "/posts/kats-bb-1-part-1" >}})). Kat decided to axe the rear [Ultradynamico 2.2" MARS](https://ultradynamico.com/products/mars-jff?variant=32926187880533) for a [Panaracer GravelKing SK 2.1"](https://www.panaracerusa.com/products/gravelking-sk-knobby-folding-gravel-tires?variant=37856723828898). Clearance issues solved with the chain and chainstay!
 
-## Gearing
+1x back on, this time with an 11-51t Deore M5100 cassette and a bronze crank extractor cap instead of the old purple ones. The 11-42t with 24/40 had a gear range of 15.1–96.1 gear inches. The 11-51t with 28t chainring gives a range of 14.5–67.2 gear inches. And the same with a 32t chainring gives a range of 16.6–76.9 gear inches. There's a 32t on order. That's a top speed of 20.6mph when pedalling at 90 RPM. Totally sufficient (in general but definitely for this bike). The same cadence on the 24/40 gets you 25.7mph.
 
-The 11-42t with 24/40 had a gear range of 15.1–96.1 gear inches. The 11-51t with 28t chainring gives a range of 14.5–67.2 gear inches. And the same with a 32t chainring gives a range of 16.6–76.9 gear inches. There's a 32t on order. That's a top speed of 20.6mph when pedalling at 90 RPM. Totally sufficient (in general but definitely for this bike). The same cadence on the 24/40 gets you 25.7mph.
+She kept the [RD-M8000-SGS](https://bike.shimano.com/en-EU/product/component/deorext-m8000/RD-M8000-SGS.html) rear derailleur from the 2x and it worked just fine on on the 1x with the 51t cassette despite its low sprocket max of 46t. In fact, the B-screw and cage position in the biggest cog aren't even that extreme.
 
-outline:
+{{< image src="DSCF0980.jpg" alt="A blue and gold bicycle propped up with a stick in a misty forest. The bike has a dark tanwall rear tire and a medium tanwall front tire. There are silver cranks and a silver front rack with a burgundy bag." >}}
 
-1. tire clearance woes, switching to a gravelking in the rear
-1. trying out the sakae 2x
-1. switching around from the trek, stealing its shifters so the trek gets the wing shifters
-1. putting the 1x back on with a bronze cap and deore cassette 11-51t (gear range?) and with friction shifters. works with an rd-m8000-sgs
-1. mark's rack to fit the fab's fanny
+And, of course, the Fabio's Fanny on a Nitto Mark's Rack! The bag just doesn't work with these bars that have backsweep and forward extension without the rack.
+
+Almost done!
+
+{{< image src="DSCF0966.jpg" alt="Kat riding her BB-1 on some sligtly winding single track in a misty forest." >}}
