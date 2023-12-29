@@ -29,10 +29,12 @@ And here it is! 11-42t with a 24/40 and shifts great.
 
 {{< image src="R0007693.jpg" alt="Kat riding a blue bike with gold accents on a road during golden hour." >}}
 
-BUT! Kat ended up going back to a 1x for a couple of reasons:
+BUT! — and we didn't see this coming because she's a die-hard 2x fan — Kat ended up going back to a 1x for a couple of reasons:
 
-1. Preferred the experience of a 1x on trails once it had a friction thumb shifter instead of the SRAM trigger shifter she didn't vibe with.
+1. Preferred the experience of a 1x on trails once it had a friction thumb shifter instead of the SRAM trigger shifter she didn't vibe with. She likes the simplicity and the ability to dump a lot of gears at once on trails (for changing your gear more than a front shift would do).[^1]
 1. The clearance between the tire and chain in the easiest gear was really tight. Even with a 127.5mm spindle bottom bracket.
+
+[^1]: Kat says even the range of an 11-42t cassette is fine but it's where you put that range that makes the difference. So if she shifts through her whole cassette at once on a 2x then it's not enough high-end on the 24t and not enough low-end on the 40t. But on a 28t or 32t moving across the entire cassette in one shift movement gets you low or high enough for your sudden need. She says a 3x might also accomplish this since she could stay in the middle to simulate this but then still have more range even on top of that. But ultimately this bike has enough low-end and high-end for its purpose.
 
 So, this is the second strike on rear tire width (see [part 1]({{< ref "/posts/kats-bb-1-part-1" >}})). Kat decided to axe the rear [Ultradynamico 2.2" MARS](https://ultradynamico.com/products/mars-jff?variant=32926187880533) for a [Panaracer GravelKing SK 2.1"](https://www.panaracerusa.com/products/gravelking-sk-knobby-folding-gravel-tires?variant=37856723828898). Clearance issues solved with the chain and chainstay! Knobby in the front for traction and knobby in the rear for uhhhh, maximum utility.
 
@@ -42,7 +44,7 @@ She kept the [RD-M8000-SGS](https://bike.shimano.com/en-EU/product/component/deo
 
 {{< image src="DSCF0980.jpg" alt="A blue and gold bicycle propped up with a stick in a misty forest. The bike has a dark tanwall rear tire and a medium tanwall front tire. There are silver cranks and a silver front rack with a burgundy bag." >}}
 
-And, of course, the Fabio's Fanny on a Nitto Mark's Rack! The bag just doesn't work with these bars that have backsweep and forward extension without the rack.
+And, of course, the Fabio's Fanny on a Nitto Mark's Rack! The bag just doesn't work without the rack because of the backsweep and forward extension on these bars.
 
 Almost done!
 
