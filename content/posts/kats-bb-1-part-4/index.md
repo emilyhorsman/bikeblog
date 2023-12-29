@@ -46,6 +46,8 @@ She kept the [RD-M8000-SGS](https://bike.shimano.com/en-EU/product/component/deo
 
 And, of course, the Fabio's Fanny on a Nitto Mark's Rack! The bag just doesn't work without the rack because of the backsweep and forward extension on these bars.
 
+{{< image src="DSCF0998.jpg" alt="An IQ-X front dynamo light mounted to a dull silver rack." >}}
+
 Almost done!
 
 {{< image src="DSCF0966.jpg" alt="Kat riding her BB-1 on some sligtly winding single track in a misty forest." >}}
