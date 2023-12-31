@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title @text="title + ' • ' + site.title"></title>
+
+    <meta name="viewport" content="width=device-width" />
+    <meta name="author" :content="site.author" />
+    <meta name="description" :content="summary" webc:if="summary" />
+
+    <link
+      rel="me"
+      href="https://sfba.social/@emilymhorsman"
+      webc:if="page.fileSlug === ''"
+    />
+
+    <style @raw="getBundle('css')" webc:keep></style>
+  </head>
+  <body>
+    <site-header :@site="site" webc:is="header"></site-header>
+    <main @raw="content"></main>
+  </body>
+</html>

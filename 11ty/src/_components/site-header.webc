@@ -1,0 +1,24 @@
+<style webc:scoped>
+  :host {
+    line-height: 1;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+</style>
+
+<div>
+  <a href="/" @text="site.title"></a>
+</div>
+<div>
+  <a href="/about/">About</a>
+  <a href="/posts/">Archive</a>
+  <!--
+    {{ with (.Site.GetPage "/posts").OutputFormats.Get "rss" -}}
+    <a href="{{ .RelPermalink }}">RSS</a>
+    {{ end }}
+    -->
+</div>
