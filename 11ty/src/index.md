@@ -1,7 +1,4 @@
 ---
-layout: base.liquid
+layout: home.liquid
 title: Home
-summary: blah blah
 ---
-
-test

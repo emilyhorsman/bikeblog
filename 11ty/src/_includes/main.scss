@@ -1,3 +1,5 @@
+@use "sass:math";
+
 $light-bg-color: #ececec;
 $light-fg-accent: #444;
 $light-a-color: #bc46e1;
@@ -205,7 +207,7 @@ header {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  row-gap: $gutter / 2;
+  row-gap: math.div($gutter, 2);
   justify-content: space-between;
   align-items: center;
 

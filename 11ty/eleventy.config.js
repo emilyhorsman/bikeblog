@@ -1,4 +1,4 @@
-import Sass from "sass";
+import * as Sass from "sass";
 
 export default (c) => {
   c.addFilter("css", function (value) {

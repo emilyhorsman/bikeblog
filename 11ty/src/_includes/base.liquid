@@ -19,6 +19,10 @@
         {% endcomment %}
       </div>
     </header>
-    <main>{{ content }}</main>
+    <main>
+      {% block main -%}
+      {{- content -}}
+      {%- endblock %}
+    </main>
   </body>
 </html>
