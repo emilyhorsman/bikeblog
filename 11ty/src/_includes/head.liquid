@@ -1,0 +1,41 @@
+<meta charset="utf-8">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<meta name="viewport" content="width=device-width">
+<meta name="author" content="{{ site.author }}">
+{% if summary %}
+  <meta name="description" content="{{ summary }}">
+{% endif %}
+
+<meta property="og:title" content="{% if page.fileSlug == '' %}Home {% else %}{{ title }}{% endif %}">
+<meta property="og:site_name" content="{{ site.title }}">
+
+{% comment %}
+  {{- with .Resources.GetMatch "*16x9_2x.webp" -}}
+  <meta property="og:image" content="{{ .RelPermalink }}">
+  <meta property="og:image:alt" content="{{ .Params.alt }}">
+  {{- end -}}
+{% endcomment %}
+
+<title>
+  {{ title }}
+  •
+  {{ site.title }}
+</title>
+
+{% capture main_css %}
+{% render "main.scss" %}
+{% endcapture %}
+<style type="text/css">
+  {{ main_css | css }}
+</style>
+
+{% comment %}
+  {{ with (.Site.GetPage "/posts").OutputFormats.Get "rss" -}}
+    {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+  {{ end }}
+{% endcomment %}
+
+{% if page.fileSlug == '' %}
+  <link rel="me" href="https://sfba.social/@emilymhorsman">
+{% endif %}
