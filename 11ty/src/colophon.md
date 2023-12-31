@@ -1,6 +1,7 @@
 ---
 date: "2023-12-08T18:53:07-08:00"
 title: Colophon
+layout: post.liquid
 ---
 
 1. I miss the corners of the internet where you'd Google some niche thing and one person with a blog had already written about it. You'd go look at it and they'd have shown their homework and given it to you without watching two minutes of video first or showing you a bunch of ads. These corners still exist and it's still possible and I'd like to be a part of it — sharing knowledge under the premise of "from each according to their ability, to each according to their needs."
