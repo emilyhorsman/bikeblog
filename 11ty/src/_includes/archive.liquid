@@ -1,0 +1,18 @@
+{% layout 'base.liquid' %}
+
+{% block main %}
+<h1>
+  <a href="{{ page.url }}">{{ title }}</a>
+</h1>
+
+<ol class="content-list">
+  {% for post in collections[collection_key] %}
+    <li>
+      <time datetime="{{ post.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">
+        {{ post.date | date: '%b %-d' }}
+      </time>
+      <a href="{{ post.url }}">{{ post.data.title }}</a>
+    </li>
+  {% endfor %}
+</ol>
+{% endblock %}
