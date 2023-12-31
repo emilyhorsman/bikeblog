@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@11ty/eleventy": "3.0.0-alpha.3",
     "sharp": "^0.33.0"
   }
 }

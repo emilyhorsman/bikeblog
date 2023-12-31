@@ -4,6 +4,8 @@ todo
 .DS_Store
 .vscode
 
+_site
+
 # Created by https://www.toptal.com/developers/gitignore/api/hugo
 # Edit at https://www.toptal.com/developers/gitignore?templates=hugo
 
