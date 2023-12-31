@@ -4,7 +4,10 @@
     <ul>
       {% for tag in tags limit: limit %}
         <li>
-          <a href="/tags/{{ tag | slugify }}">{{ tag }}</a>
+          <a href="/tags/{{ tag | slugify }}">
+            {{- tag }}
+            {% if collections %}({{ collections[tag].size }}){% endif %}
+          </a>
         </li>
       {% endfor %}
     </ul>

@@ -6,12 +6,30 @@
     <a href="{{ page.url }}">{{ title }}</a>
   </h1>
 
-  <time datetime="{{ page.date | date: '%Y-%m-%dT%H:%M:%S%z' }}">
-    {{ page.date | date: '%b %-d, %Y' }}
-  </time>
+  {% render 'time.liquid', date: page.date %}
 </div>
 
 {{ content }}
 
-{% render 'tags.liquid', tags: postTags, text: 'Tags:&nbsp;' %}
+{% render 'tags.liquid', tags: postTags, text: 'Tags:&nbsp;', collections: collections %}
+
+{% assign previousPost = collections.posts | getPreviousCollectionItem: page %}
+{% assign nextPost = collections.posts | getNextCollectionItem: page %}
+<ul class="next-prev">
+  {% if nextPost %}
+    <li>
+      Next ({% render 'time.liquid', date: nextPost.date %}):&nbsp;<a href="{{ nextPost.url }}">
+        {{- nextPost.data.title -}}
+      </a>
+    </li>
+  {% endif %}
+
+  {% if previousPost %}
+    <li>
+      Prev ({% render 'time.liquid', date: previousPost.date %}):&nbsp;
+      <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
+    </li>
+  {% endif %}
+</ul>
+
 {% endblock %}

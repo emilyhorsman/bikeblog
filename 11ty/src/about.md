@@ -1,5 +1,4 @@
 ---
-date: "2023-10-01T14:29:15-07:00"
 title: About
 layout: post.liquid
 ---
